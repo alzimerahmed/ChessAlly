@@ -39,11 +39,11 @@ jobs:
         run: |
           yes | "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" --licenses > /dev/null || true
           "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" "ndk;27.0.12077973" > /dev/null
-      - run: flutter build apk --release
+      - run: flutter build apk --release --split-per-abi
       - uses: actions/upload-artifact@v4
         with:
           name: opening-master-apk
-          path: build/app/outputs/flutter-apk/app-release.apk
+          path: build/app/outputs/flutter-apk/app-arm64-v8a-release.apk
 
   release:
     needs: apk
@@ -60,7 +60,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          gh release create v1.0.0 apk/app-release.apk \
+          gh release create v1.0.0 apk/app-arm64-v8a-release.apk \
             --title "Opening Master v1.0.0" \
-            --notes "Install: download app-release.apk and sideload it on your Android device." \
-            || gh release upload v1.0.0 apk/app-release.apk --clobber
+            --notes "Install: download app-arm64-v8a-release.apk and sideload it on your Android device." \
+            || gh release upload v1.0.0 apk/app-arm64-v8a-release.apk --clobber
