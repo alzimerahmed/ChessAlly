@@ -1,0 +1,10086 @@
+{
+ "puzzles": [
+  {
+   "id": "CnuMi",
+   "fen": "3r1rk1/ppq2ppp/1npb4/6N1/3P4/3QB2P/PPP1RP2/4R1K1 b - - 0 17",
+   "solutionMoves": [
+    "h7h6",
+    "d3h7"
+   ],
+   "rating": 493,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "009Sz",
+   "fen": "r2qkb1r/pp4pp/4pp2/3pNb1B/3nnP2/2N5/PPP3PP/R1B1QRK1 b kq - 1 11",
+   "solutionMoves": [
+    "f5g6",
+    "e5g6",
+    "h7g6",
+    "h5g6"
+   ],
+   "rating": 1748,
+   "themes": [
+    "advantage",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "009bn",
+   "fen": "2kr2r1/ppb2ppp/3qbn2/2Np2B1/P7/2P2Q1P/1PB2PP1/R4RK1 w - - 5 18",
+   "solutionMoves": [
+    "c5e6",
+    "d6h2"
+   ],
+   "rating": 596,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "zzlZh",
+   "fen": "r1bqr1k1/pp2bpp1/4p2p/4P3/3pQPP1/2NB3P/PPP5/4RRK1 b - - 1 18",
+   "solutionMoves": [
+    "d4c3",
+    "e4h7",
+    "g8f8",
+    "h7h8"
+   ],
+   "rating": 637,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zzVmS",
+   "fen": "1r2k2r/5pp1/p1pqpnp1/3p2B1/Pb1P4/1P6/N1P2PPP/R2Q1RK1 w k - 3 15",
+   "solutionMoves": [
+    "g5f6",
+    "d6h2"
+   ],
+   "rating": 579,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "00Pc8",
+   "fen": "rnb2r2/pp4k1/2p3pp/4Np2/2BP4/8/PP4PP/2KRR3 b - - 0 18",
+   "solutionMoves": [
+    "b8d7",
+    "e5d7",
+    "c8d7",
+    "e1e7",
+    "g7f6",
+    "e7d7"
+   ],
+   "rating": 1044,
+   "themes": [
+    "advantage",
+    "clearance",
+    "fork",
+    "long",
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+   ]
+  },
+  {
+   "id": "00pcf",
+   "fen": "1k1r3r/ppqn2p1/2p1p1p1/8/1B1PQ3/2P5/PP3PPP/R3K2R w KQ - 1 18",
+   "solutionMoves": [
+    "e1g1",
+    "c7h2"
+   ],
+   "rating": 504,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "c4Uy4",
+   "fen": "r1bqkb1r/pp2pppp/2B5/8/Q7/2n5/PP3PPP/R1B1K1NR b KQkq - 0 10",
+   "solutionMoves": [
+    "c8d7",
+    "c6d7",
+    "d8d7",
+    "a4d7",
+    "e8d7",
+    "b2c3"
+   ],
+   "rating": 949,
+   "themes": [
+    "advantage",
+    "long",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+   ]
+  },
+  {
+   "id": "01VEo",
+   "fen": "r3k2r/pp3pp1/2pqpn2/2N3p1/2P5/8/PPP1QPPP/R4RK1 w kq - 1 15",
+   "solutionMoves": [
+    "c5b7",
+    "d6h2"
+   ],
+   "rating": 774,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "01z3s",
+   "fen": "rb2k2r/1pqn2pp/2p1pn2/p2p2B1/1P1P4/2P2Q1P/P2NBPP1/R4RK1 w kq - 2 14",
+   "solutionMoves": [
+    "b4a5",
+    "c7h2"
+   ],
+   "rating": 595,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "026ZY",
+   "fen": "2r1k2r/4bpp1/p1p1pnp1/q2p2B1/6P1/P1NP1Q1P/1PP2P2/2KR3R b k - 0 16",
+   "solutionMoves": [
+    "e7a3",
+    "g5f6",
+    "g7f6",
+    "f3f6",
+    "a3b2",
+    "c1b2"
+   ],
+   "rating": 1782,
+   "themes": [
+    "advantage",
+    "long",
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+   ]
+  },
+  {
+   "id": "027QL",
+   "fen": "r2q1rk1/5ppp/4pb2/p7/1p1PQ1P1/2PB3P/PP3P2/2KR3R b - - 1 18",
+   "solutionMoves": [
+    "b4c3",
+    "e4h7"
+   ],
+   "rating": 686,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "029rj",
+   "fen": "r3kb1r/pR1n1ppp/2p1p3/8/2B2P2/4BR2/q1P3PP/3Q2K1 b kq - 2 14",
+   "solutionMoves": [
+    "a2c4",
+    "d1d7"
+   ],
+   "rating": 633,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "02hJV",
+   "fen": "3rk2r/1p2n2p/p1n2p1b/4p3/4Q3/6BP/PPP2PP1/2K2B1R w k - 2 16",
+   "solutionMoves": [
+    "c1b1",
+    "d8d1"
+   ],
+   "rating": 524,
+   "themes": [
+    "backRankMate",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "02zwj",
+   "fen": "r4rk1/ppqn1ppp/2pb1p2/8/3Pb1PN/4B2P/PPPQBP2/R4RK1 w - - 5 14",
+   "solutionMoves": [
+    "e2d3",
+    "d6h2"
+   ],
+   "rating": 804,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "c43zs",
+   "fen": "rn3rk1/2qb1pp1/2p1p2p/ppPn4/P2P4/3Q1PP1/1PB1N1P1/R1B1K2R b KQ - 1 16",
+   "solutionMoves": [
+    "e6e5",
+    "d3h7"
+   ],
+   "rating": 422,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Main_Line"
+   ]
+  },
+  {
+   "id": "033xz",
+   "fen": "rn2k2r/pp2qppp/2p2n2/2b2p2/2BP4/5N2/PPPK1PPP/R1BQ3R w kq - 3 10",
+   "solutionMoves": [
+    "d4c5",
+    "f6e4",
+    "d2e1",
+    "e4c3"
+   ],
+   "rating": 1609,
+   "themes": [
+    "advantage",
+    "discoveredAttack",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "zxjJf",
+   "fen": "rn1qk2r/pp2b1p1/2p1pnQp/4N3/3P3P/8/PPP2PP1/R1B1K2R b KQ - 4 12",
+   "solutionMoves": [
+    "e8f8",
+    "g6f7"
+   ],
+   "rating": 776,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "zxgqG",
+   "fen": "r1b1kb1r/pp3p2/4pp1p/1BP5/8/8/q1P2PPP/1R1QK1NR b Kkq - 1 14",
+   "solutionMoves": [
+    "e8e7",
+    "d1d6"
+   ],
+   "rating": 1185,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Karpov_Variation"
+   ]
+  },
+  {
+   "id": "03ByH",
+   "fen": "r3k1r1/p6p/2p2p1n/3qp3/Q2p4/N2P1P2/PP3P1P/2R2RK1 w q - 2 16",
+   "solutionMoves": [
+    "g1h1",
+    "d5f3"
+   ],
+   "rating": 598,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Accelerated_Panov_Attack"
+   ]
+  },
+  {
+   "id": "03UPq",
+   "fen": "r2q1rk1/pp3ppp/2pbpB2/8/4Q3/1P1B3P/P1PP1PP1/R3K2R b KQ - 0 13",
+   "solutionMoves": [
+    "d8f6",
+    "e4h7"
+   ],
+   "rating": 610,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "c3v5w",
+   "fen": "2k2r2/pp4rp/2pR1p1p/4n3/4P3/1B6/PPP2PPP/4R1K1 w - - 6 18",
+   "solutionMoves": [
+    "f2f4",
+    "e5f3",
+    "g1f2",
+    "f3e1"
+   ],
+   "rating": 805,
+   "themes": [
+    "advantage",
+    "endgame",
+    "kingsideAttack",
+    "pin",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "zxNJd",
+   "fen": "3r1rk1/ppq3pp/2pbRp2/2n5/2PP4/5N2/PP3PPP/R1BQ2K1 w - - 1 14",
+   "solutionMoves": [
+    "d4c5",
+    "d6h2",
+    "f3h2",
+    "d8d1"
+   ],
+   "rating": 1014,
+   "themes": [
+    "crushing",
+    "discoveredAttack",
+    "kingsideAttack",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Forgacs_Variation"
+   ]
+  },
+  {
+   "id": "03pES",
+   "fen": "r1b2qk1/p4Bpp/1pp2p2/8/3P1b2/1QP2N1P/PP3PP1/4R1K1 b - - 0 18",
+   "solutionMoves": [
+    "f8f7",
+    "e1e8"
+   ],
+   "rating": 1121,
+   "themes": [
+    "master",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "pin"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "zwYNR",
+   "fen": "r3k2r/ppqn1pp1/2p1p3/8/3PN1p1/2P5/PP3PP1/R1BQ1RbK w kq - 2 15",
+   "solutionMoves": [
+    "h1g1",
+    "c7h2"
+   ],
+   "rating": 665,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "c3Jdf",
+   "fen": "2r1k2r/p4pp1/2n1p1p1/2bp4/5PPq/2P4P/PP2N1K1/R1BQ1R2 w k - 1 18",
+   "solutionMoves": [
+    "f1h1",
+    "h4f2"
+   ],
+   "rating": 846,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "swallowstailMate"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "c4nSG",
+   "fen": "r2qkb1r/p4ppp/4pn2/3p1b2/3P4/5N1P/PP3PP1/RNBQR1K1 b kq - 0 11",
+   "solutionMoves": [
+    "f8b4",
+    "d1a4",
+    "d8d7",
+    "a4b4"
+   ],
+   "rating": 1075,
+   "themes": [
+    "advantage",
+    "fork",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zwIw2",
+   "fen": "2rq1b1r/p4p2/4pk1p/1Q4B1/8/2P2P2/P1n1KP1P/1R3BR1 b - - 0 18",
+   "solutionMoves": [
+    "h6g5",
+    "b5g5"
+   ],
+   "rating": 821,
+   "themes": [
+    "dovetailMate",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+   ]
+  },
+  {
+   "id": "zwIS8",
+   "fen": "r3k2r/pp1qppb1/8/3pPb1p/3Nn3/2PB3P/PP6/R1BQ1RK1 b kq - 1 17",
+   "solutionMoves": [
+    "f5h3",
+    "d3b5",
+    "d7b5",
+    "d4b5"
+   ],
+   "rating": 1230,
+   "themes": [
+    "advantage",
+    "master",
+    "middlegame",
+    "pin",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "05Em9",
+   "fen": "r1b2rk1/ppq2pp1/2p1pb1p/3n2N1/4QP1P/3BB3/PPP3P1/2KR3R b - - 3 15",
+   "solutionMoves": [
+    "d5e3",
+    "e4h7"
+   ],
+   "rating": 602,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Endgame_Offer"
+   ]
+  },
+  {
+   "id": "zvmBR",
+   "fen": "r7/ppqnkppr/2p1pnp1/6B1/3PN3/2PQ4/PP2BPP1/R4RbK w - - 2 16",
+   "solutionMoves": [
+    "h1g1",
+    "c7h2"
+   ],
+   "rating": 587,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "zvi12",
+   "fen": "r1bqr1kb/pp1nn2p/2p3pB/3pp3/3PP3/2N2PPB/PPPQN3/R3K2R b KQ - 1 13",
+   "solutionMoves": [
+    "e5d4",
+    "h3e6"
+   ],
+   "rating": 950,
+   "themes": [
+    "bodenMate",
+    "master",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zvgQm",
+   "fen": "r4rk1/pp3ppp/2nbpP2/3p4/7q/2N5/PPP3PP/R1BQ1R1K w - - 1 15",
+   "solutionMoves": [
+    "f6g7",
+    "h4h2"
+   ],
+   "rating": 741,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "06sGP",
+   "fen": "1br2rk1/ppq2ppp/2n1p3/6N1/3P2b1/3QPN2/PP2B1PP/R4RK1 b - - 6 15",
+   "solutionMoves": [
+    "g4f3",
+    "d3h7"
+   ],
+   "rating": 905,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+   ]
+  },
+  {
+   "id": "zv3DU",
+   "fen": "r2q1rk1/pp2bpp1/2n1p2p/8/3PQ2B/2PB3P/PP3PP1/R4RK1 b - - 0 14",
+   "solutionMoves": [
+    "e7h4",
+    "e4h7"
+   ],
+   "rating": 630,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "07A0J",
+   "fen": "r3rnk1/pp3pp1/2pb1p2/7p/3P1P1N/2PBB2q/PPQ5/4RRK1 w - - 0 17",
+   "solutionMoves": [
+    "c2h2",
+    "e8e3",
+    "h2h3",
+    "e3h3"
+   ],
+   "rating": 1766,
+   "themes": [
+    "advantage",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "07ju1",
+   "fen": "rb2r1k1/1pq2ppp/2p2pn1/p1P5/1P1P1B2/3B1NPb/P2Q1P2/R3R1K1 b - - 1 18",
+   "solutionMoves": [
+    "g6f4",
+    "e1e8"
+   ],
+   "rating": 1324,
+   "themes": [
+    "hangingPiece",
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "zuPW2",
+   "fen": "r2qrb1k/pp3ppp/2nNp2B/3pP3/1P1P2Q1/P7/5PPP/R2R2K1 b - - 8 18",
+   "solutionMoves": [
+    "g7h6",
+    "d6f7"
+   ],
+   "rating": 925,
+   "themes": [
+    "cornerMate",
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "08QH6",
+   "fen": "r4rk1/p4ppp/4p3/q7/1P2Q3/6P1/P4PP1/R3K2R b KQ - 0 18",
+   "solutionMoves": [
+    "a5b5",
+    "e4h7"
+   ],
+   "rating": 691,
+   "themes": [
+    "endgame",
+    "mate",
+    "mateIn1",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "English_Opening English_Opening_Caro-Kann_Defensive_System"
+   ]
+  },
+  {
+   "id": "c31Dj",
+   "fen": "r2qkb1r/pp1bp1p1/2n2p2/3p2Np/3P4/7P/PPP1BPP1/RN1QR1K1 b kq - 0 11",
+   "solutionMoves": [
+    "f6g5",
+    "e2h5",
+    "h8h5",
+    "d1h5",
+    "g7g6",
+    "h5g6"
+   ],
+   "rating": 808,
+   "themes": [
+    "long",
+    "mate",
+    "mateIn3",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "09cqh",
+   "fen": "r2qkb1r/pp1npBpp/5n2/4N2b/8/1Q6/PP1P1PPP/RNB2RK1 b kq - 0 9",
+   "solutionMoves": [
+    "h5f7",
+    "b3f7"
+   ],
+   "rating": 601,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0ACRq",
+   "fen": "rn1qkb1r/pp3ppp/4p3/3nN3/2B3P1/5Q1P/PP1P1P2/1RB1K2R b Kkq - 1 11",
+   "solutionMoves": [
+    "b8c6",
+    "f3f7"
+   ],
+   "rating": 981,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zsbcD",
+   "fen": "rb3rk1/ppqn1ppp/4pn2/2Pp2B1/3P4/3B3P/PP1N1PP1/R2Q1RK1 w - - 7 14",
+   "solutionMoves": [
+    "d1c2",
+    "c7h2"
+   ],
+   "rating": 502,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0Ay6f",
+   "fen": "rn2k2r/pp2n1p1/2p1p3/3pP2p/3P2q1/2N1Q1P1/PPP2N2/R3K2R b KQkq - 7 15",
+   "solutionMoves": [
+    "e7f5",
+    "f2g4",
+    "f5e3",
+    "g4e3"
+   ],
+   "rating": 1060,
+   "themes": [
+    "advantage",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "c5HB4",
+   "fen": "rn5r/pp3kp1/2p3p1/3nq3/2B5/4B3/PPP2PPP/R2QK2R w KQ - 2 15",
+   "solutionMoves": [
+    "e1g1",
+    "e5h2"
+   ],
+   "rating": 899,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "0BEC8",
+   "fen": "rb2r1k1/ppq2p1p/2p2p2/4n1p1/5B2/2PP3P/PP1QBPP1/R4RK1 w - - 0 16",
+   "solutionMoves": [
+    "f4h2",
+    "e5f3",
+    "g2f3",
+    "c7h2"
+   ],
+   "rating": 842,
+   "themes": [
+    "discoveredAttack",
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Breyer_Variation"
+   ]
+  },
+  {
+   "id": "0BN3B",
+   "fen": "rnbqr1k1/pp3p2/4pn1Q/3p2N1/1b1P4/2NB4/PPP2PPP/R4RK1 b - - 2 13",
+   "solutionMoves": [
+    "b4f8",
+    "d3h7",
+    "f6h7",
+    "h6h7"
+   ],
+   "rating": 1163,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0BaMM",
+   "fen": "1br2rk1/ppq2pp1/2n1p2p/8/3Pp3/1PP1B2P/PQ1N1PP1/R4RK1 w - - 2 18",
+   "solutionMoves": [
+    "d2e4",
+    "c7h2"
+   ],
+   "rating": 700,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0C8pv",
+   "fen": "r4rk1/1p3pp1/p1nq3p/3B4/2R5/7P/PP3PP1/3Q1RK1 b - - 0 18",
+   "solutionMoves": [
+    "a8c8",
+    "d5f7",
+    "f8f7",
+    "d1d6"
+   ],
+   "rating": 1068,
+   "themes": [
+    "crushing",
+    "discoveredAttack",
+    "kingsideAttack",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0CCNZ",
+   "fen": "r1b2k1r/pp2np1p/1bnNp1pq/3pPP2/6QN/8/P2B2PP/2R1KB1R b K - 0 16",
+   "solutionMoves": [
+    "g6f5",
+    "d2h6"
+   ],
+   "rating": 1143,
+   "themes": [
+    "hangingPiece",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "0CNDW",
+   "fen": "r2qkbnr/pp3ppp/2n1p3/3pN3/8/1P6/PBPPQPPP/RN2K2R b KQkq - 0 8",
+   "solutionMoves": [
+    "f8d6",
+    "e5c6",
+    "b7c6",
+    "b2g7"
+   ],
+   "rating": 1444,
+   "themes": [
+    "advantage",
+    "discoveredAttack",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0Chud",
+   "fen": "rn2kbn1/ppB1p1p1/2p1Pp1r/3p1B1Q/3P3P/8/q1P2PP1/1N2K1NR b Kq - 0 11",
+   "solutionMoves": [
+    "h6h5",
+    "f5g6"
+   ],
+   "rating": 705,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "c2XFQ",
+   "fen": "rnbq1knr/pp2p1b1/2pp3p/6pQ/2BPP3/2N1B3/PPP2PP1/R3K1NR b KQ - 3 9",
+   "solutionMoves": [
+    "g8f6",
+    "h5f7"
+   ],
+   "rating": 870,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0CyBm",
+   "fen": "r4rk1/p3nppp/2p1p3/q2pP1N1/2bP4/2P5/P1QB1PPP/R3R1K1 b - - 10 15",
+   "solutionMoves": [
+    "h7h6",
+    "c2h7"
+   ],
+   "rating": 730,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "zsIKh",
+   "fen": "r3r1k1/pp1q1ppp/2pb1pn1/3P4/2P5/4BN1b/PP1QBPP1/R3R1K1 w - - 0 16",
+   "solutionMoves": [
+    "g2h3",
+    "d7h3",
+    "e2f1",
+    "h3f3"
+   ],
+   "rating": 1570,
+   "themes": [
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "0D0IJ",
+   "fen": "r1bq1r1k/pp1n2p1/2p2b1p/5Q2/5B2/3B4/PPP2PPP/3R1RK1 b - - 2 16",
+   "solutionMoves": [
+    "d7e5",
+    "f5h7"
+   ],
+   "rating": 684,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Endgame_Offer"
+   ]
+  },
+  {
+   "id": "0DC00",
+   "fen": "r4rk1/pb4pp/1ppbpq2/8/3PR3/1BP5/PP3PPP/R1BQ2K1 w - - 1 16",
+   "solutionMoves": [
+    "e4e6",
+    "f6f2",
+    "g1h1",
+    "f2f1",
+    "d1f1",
+    "f8f1"
+   ],
+   "rating": 1069,
+   "themes": [
+    "kingsideAttack",
+    "long",
+    "mate",
+    "mateIn3",
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+   ]
+  },
+  {
+   "id": "0Djhh",
+   "fen": "1k1r1b1r/1p2nRp1/p1p1p2p/q2pP3/2nP2PP/2NQ2N1/PPPB4/2KR4 w - - 2 18",
+   "solutionMoves": [
+    "b2b3",
+    "a5a3",
+    "c1b1",
+    "a3b2"
+   ],
+   "rating": 1137,
+   "themes": [
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "queensideAttack",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "zrybQ",
+   "fen": "r4rk1/pp3pp1/3bpq2/3p4/5n1p/2NP2PP/PP3PBK/R2Q1R2 w - - 0 17",
+   "solutionMoves": [
+    "g3f4",
+    "f6f4",
+    "h2g1",
+    "f4h2"
+   ],
+   "rating": 822,
+   "themes": [
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "English_Opening English_Opening_Caro-Kann_Defensive_System"
+   ]
+  },
+  {
+   "id": "0EXXY",
+   "fen": "r4rk1/p1q2ppp/2p1p3/3p1b2/N2P2n1/P3B3/1PPQ1PPP/2R2RK1 w - - 4 16",
+   "solutionMoves": [
+    "c2c4",
+    "c7h2"
+   ],
+   "rating": 689,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "0EfeB",
+   "fen": "r3k1r1/pp3p1p/2n1p1p1/3p1bq1/3P1nP1/2P5/PP1NB2N/R2Q1R1K w q - 0 17",
+   "solutionMoves": [
+    "g4f5",
+    "g5g2"
+   ],
+   "rating": 1058,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "0F2i4",
+   "fen": "rnb1kb1r/ppB1p2p/1np1Ppp1/3p1P2/3P4/2P4N/Pq4PP/RN1QKB1R b KQkq - 1 11",
+   "solutionMoves": [
+    "g6f5",
+    "d1h5"
+   ],
+   "rating": 523,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "zrk61",
+   "fen": "r2q1rk1/pp1nbppp/2n1p3/3p2B1/3P4/2PQ1N1P/PP1N1PP1/R4RK1 w - - 5 12",
+   "solutionMoves": [
+    "f1e1",
+    "e7g5",
+    "f3g5",
+    "d8g5"
+   ],
+   "rating": 915,
+   "themes": [
+    "advantage",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "0FCZy",
+   "fen": "r2qk2r/p2n1pp1/2p1p3/1p4Np/3PQ2P/8/PPP2PP1/2KRR3 b kq - 0 15",
+   "solutionMoves": [
+    "e8g8",
+    "e4h7"
+   ],
+   "rating": 515,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "zrZJt",
+   "fen": "1br2rk1/pp3ppp/2nqpn2/3p2B1/3P4/P1P2Q1P/1PB2PP1/RN3RK1 w - - 1 15",
+   "solutionMoves": [
+    "g5f6",
+    "d6h2"
+   ],
+   "rating": 417,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+   ]
+  },
+  {
+   "id": "zrYIt",
+   "fen": "r2qk2r/pp1n1p1b/2pbpnpp/4N3/2BPN2P/5Q2/PPP2PP1/R1B1K2R b KQkq - 2 13",
+   "solutionMoves": [
+    "f6e4",
+    "f3f7"
+   ],
+   "rating": 500,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "zrRSo",
+   "fen": "r2q3r/pp4k1/2pbpn1p/4N3/2BP1P2/2PQ3b/PP6/R4RK1 b - - 1 17",
+   "solutionMoves": [
+    "h3f1",
+    "d3g6",
+    "g7f8",
+    "g6f7"
+   ],
+   "rating": 1347,
+   "themes": [
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "zrHU0",
+   "fen": "r2q3r/pp1bk1b1/2p1pp1p/3P2pQ/7P/4B3/PPP2PP1/2KR1B1R b - - 0 15",
+   "solutionMoves": [
+    "c6d5",
+    "e3c5"
+   ],
+   "rating": 925,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "0GJAh",
+   "fen": "r1bqkbr1/pp1nnp1N/2p1pBp1/3pP3/3P4/2NB4/PPP2PPP/R2QK2R b KQq - 0 10",
+   "solutionMoves": [
+    "d7f6",
+    "h7f6"
+   ],
+   "rating": 755,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "zr758",
+   "fen": "r2q1rk1/pp3ppp/2n1pb2/8/4Q1P1/P1pB3P/1PP2P2/R3K2R b KQ - 1 16",
+   "solutionMoves": [
+    "c3b2",
+    "e4h7"
+   ],
+   "rating": 501,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "0HPrn",
+   "fen": "r2qk2r/pp1n1pp1/3bp3/8/3PP3/2P1BQ1b/PP1N2NP/R4RK1 b kq - 2 16",
+   "solutionMoves": [
+    "h3g2",
+    "f3f7"
+   ],
+   "rating": 575,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0HYYS",
+   "fen": "r4b1r/pp1knppp/2nNp1q1/3pP1B1/2pP4/2P1Q3/P4PPP/RR2N1K1 b - - 5 15",
+   "solutionMoves": [
+    "e7f5",
+    "b1b7"
+   ],
+   "rating": 929,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "0Hccm",
+   "fen": "3rr1k1/ppq2ppp/3b1n2/3pn3/8/1B2B1NP/PPPQ1PP1/R4RK1 w - - 4 17",
+   "solutionMoves": [
+    "e3f4",
+    "e5f3",
+    "g2f3",
+    "d6f4"
+   ],
+   "rating": 877,
+   "themes": [
+    "advantage",
+    "discoveredAttack",
+    "kingsideAttack",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+   ]
+  },
+  {
+   "id": "0I0rg",
+   "fen": "r2q1rk1/pp1n1pp1/4p2Q/3pn3/8/3B2R1/PPP2PPP/RN4K1 b - - 0 15",
+   "solutionMoves": [
+    "d8f6",
+    "h6h7"
+   ],
+   "rating": 1103,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "zqKRH",
+   "fen": "2b1k2r/5ppp/p1p1p3/2qpPn2/5P2/2N5/2P1NRPP/R2Q2K1 w k - 1 17",
+   "solutionMoves": [
+    "g1f1",
+    "f5e3",
+    "f1e1",
+    "e3d1"
+   ],
+   "rating": 892,
+   "themes": [
+    "advantage",
+    "fork",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "zqHMB",
+   "fen": "r3k2r/1p2bp2/pqn1p1p1/3pPn2/1P1p1P1p/PN1B1Q2/1BP2RPP/3R2K1 b kq - 1 17",
+   "solutionMoves": [
+    "f5e3",
+    "b2d4",
+    "b6d4",
+    "b3d4"
+   ],
+   "rating": 1349,
+   "themes": [
+    "advantage",
+    "master",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "0ILoZ",
+   "fen": "r3r1k1/ppb2ppp/1Npq1pb1/8/3P4/2P1B2P/PP2BPP1/R2Q1RK1 w - - 1 16",
+   "solutionMoves": [
+    "g2g3",
+    "e8e3",
+    "d1e1",
+    "e3e2"
+   ],
+   "rating": 1705,
+   "themes": [
+    "crushing",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "0IOe0",
+   "fen": "rnb1k2r/pp1n1ppp/8/q1bQP3/8/5N2/PP2BPPP/RNB1K2R w KQkq - 1 11",
+   "solutionMoves": [
+    "c1d2",
+    "c5f2",
+    "e1f2",
+    "a5d5"
+   ],
+   "rating": 1110,
+   "themes": [
+    "advantage",
+    "attackingF2F7",
+    "discoveredAttack",
+    "master",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Endgame_Offer"
+   ]
+  },
+  {
+   "id": "zqChe",
+   "fen": "rn5Q/pp2k3/2p1pnp1/8/3P4/B1PK2P1/P1P3qP/R7 b - - 2 18",
+   "solutionMoves": [
+    "e7f7",
+    "h8f8"
+   ],
+   "rating": 894,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Rasa-Studier_Gambit"
+   ]
+  },
+  {
+   "id": "0Iv3q",
+   "fen": "r1b3k1/pp3pbp/3q1np1/3pr1B1/8/1NPB4/PP3PPP/R2QR1K1 w - - 0 14",
+   "solutionMoves": [
+    "g5f4",
+    "e5e1",
+    "d1e1",
+    "d6f4"
+   ],
+   "rating": 641,
+   "themes": [
+    "advantage",
+    "discoveredAttack",
+    "kingsideAttack",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "0IvFS",
+   "fen": "r3rn2/pp2qpk1/2p1b1p1/5pQN/3P4/2PB4/PP3PP1/R4RK1 b - - 5 18",
+   "solutionMoves": [
+    "g7h8",
+    "g5h6",
+    "f8h7",
+    "h6g7"
+   ],
+   "rating": 1053,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "0J9v9",
+   "fen": "rnb1k2r/pp3ppp/2pb4/6B1/2P3n1/2N1PN2/Pq3PPP/R2QKB1R w KQkq - 0 9",
+   "solutionMoves": [
+    "a1c1",
+    "b2f2"
+   ],
+   "rating": 1102,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "English_Opening English_Opening_Caro-Kann_Defensive_System"
+   ]
+  },
+  {
+   "id": "0JRoE",
+   "fen": "2kr1bnr/pp1qp1p1/2p5/3pQ2p/3P1B1P/6P1/PPP2P2/RN2K2R b KQ - 0 13",
+   "solutionMoves": [
+    "d7c7",
+    "e5c7"
+   ],
+   "rating": 493,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "queensideAttack"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "0Jjus",
+   "fen": "2r1kb1r/p1q2ppp/2p1p3/3p2B1/3P2n1/2NQ4/PPP2PPP/R4RK1 w k - 2 13",
+   "solutionMoves": [
+    "h2h3",
+    "c7h2"
+   ],
+   "rating": 602,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "zp6r0",
+   "fen": "rnbqkbnr/pp1pp1p1/2p2p1p/7Q/2PPP3/8/PP3PPP/RNB1KBNR b KQkq - 1 4",
+   "solutionMoves": [
+    "g7g6",
+    "h5g6"
+   ],
+   "rating": 479,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "English_Opening English_Opening_Caro-Kann_Defensive_System"
+   ]
+  },
+  {
+   "id": "zocEf",
+   "fen": "rn3Rqk/pp4pp/2p5/8/4Q3/3B4/PPP3PP/6K1 b - - 2 17",
+   "solutionMoves": [
+    "g8f8",
+    "e4h7"
+   ],
+   "rating": 584,
+   "themes": [
+    "endgame",
+    "mate",
+    "mateIn1",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Breyer_Variation"
+   ]
+  },
+  {
+   "id": "c2S0e",
+   "fen": "r3kb1r/pb3ppp/1p2p3/3q4/3n1B2/3B1N2/PP3PPP/R2Q1RK1 w kq - 0 12",
+   "solutionMoves": [
+    "f3d4",
+    "d5g2"
+   ],
+   "rating": 584,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "0LMly",
+   "fen": "r3q1k1/p4ppp/2pb1p2/1p6/2nP4/1BPQ1b1P/PP3PP1/R1B3K1 w - - 0 17",
+   "solutionMoves": [
+    "d3f3",
+    "e8e1"
+   ],
+   "rating": 465,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "0LvhN",
+   "fen": "r2qkb1r/pp3ppp/2n1pB2/8/8/3Q1NN1/PPP2PPP/2KR3R b kq - 0 12",
+   "solutionMoves": [
+    "d8f6",
+    "d3d7"
+   ],
+   "rating": 974,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "zoBhI",
+   "fen": "rn3rk1/pR3ppp/2p1p3/3pP1N1/3P2b1/b1PQ4/q1P1BPPP/2B2RK1 b - - 5 12",
+   "solutionMoves": [
+    "g4e2",
+    "d3h7"
+   ],
+   "rating": 717,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "0MDFX",
+   "fen": "r2q1rk1/3np1b1/2pp2Q1/3nP1Np/pp1P1PbP/2P3N1/PP4P1/R1B2RK1 b - - 0 16",
+   "solutionMoves": [
+    "d8e8",
+    "g6h7"
+   ],
+   "rating": 849,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0MOn7",
+   "fen": "rn1q1rk1/pp2bp1B/4pn1B/3p4/3P2Q1/7P/PPP2PP1/RN3RK1 b - - 2 15",
+   "solutionMoves": [
+    "g8h7",
+    "g4g7"
+   ],
+   "rating": 748,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "znrpe",
+   "fen": "4k1nr/pp3ppp/4p3/8/3pN3/1R3Q2/P2q1PPP/R1r3K1 w k - 2 18",
+   "solutionMoves": [
+    "a1c1",
+    "d2c1",
+    "f3d1",
+    "c1d1"
+   ],
+   "rating": 613,
+   "themes": [
+    "backRankMate",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "c2O00",
+   "fen": "r3kb1r/p3pppp/1qp2n2/8/2pP4/2N2Q2/PP3PPP/R1B1K2R b KQkq - 1 11",
+   "solutionMoves": [
+    "b6d4",
+    "f3c6",
+    "d4d7",
+    "c6a8"
+   ],
+   "rating": 922,
+   "themes": [
+    "advantage",
+    "fork",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "0NC0i",
+   "fen": "r1bqkb1r/1p1np2p/p4pN1/3p2PQ/3P4/8/PPP2P1P/RNB1K2R b KQkq - 0 13",
+   "solutionMoves": [
+    "h7g6",
+    "h5g6"
+   ],
+   "rating": 895,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "znYZm",
+   "fen": "rn3knr/pp4pp/2p1p3/4N3/3qb1Pb/3B1P2/PPP4P/R1BQ1K1R w - - 0 13",
+   "solutionMoves": [
+    "f3e4",
+    "d4f2"
+   ],
+   "rating": 798,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "zn9Tk",
+   "fen": "rn1qk2r/pp3ppb/2p1p2p/2bpPn2/5P2/2NP3P/PPP1B1PN/R1BQ1RK1 w kq - 1 11",
+   "solutionMoves": [
+    "g1h1",
+    "f5g3"
+   ],
+   "rating": 760,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0OIUD",
+   "fen": "2r1r1k1/pp3p2/1qnbp2Q/3p4/3P4/2PB3P/PP3PP1/R3R1K1 b - - 0 17",
+   "solutionMoves": [
+    "d6f8",
+    "h6h7"
+   ],
+   "rating": 927,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "zmVIk",
+   "fen": "r3k2r/pp1nb1pp/2p1Nn2/q7/3P4/5Q1P/PPPB1PP1/R3K2R b KQkq - 2 12",
+   "solutionMoves": [
+    "a5d5",
+    "e6c7",
+    "e8f7",
+    "c7d5"
+   ],
+   "rating": 1184,
+   "themes": [
+    "advantage",
+    "fork",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "0Od4t",
+   "fen": "r2k2nr/pp3ppp/4p3/1BQpqb2/P7/8/1P2NPPP/R3K2R b KQ - 1 15",
+   "solutionMoves": [
+    "e5c7",
+    "c5f8"
+   ],
+   "rating": 914,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "0OfOC",
+   "fen": "r2q1rk1/pp1nbppp/2p1p3/3n2N1/3P4/2PQ1N2/PP3PPP/R1B1R1K1 b - - 0 12",
+   "solutionMoves": [
+    "b7b5",
+    "d3h7"
+   ],
+   "rating": 410,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "0OuiZ",
+   "fen": "r2q1rk1/pb1nb1pp/1pp1Nn2/8/3P4/2P3Q1/PP1N2PP/R1B2RK1 b - - 0 13",
+   "solutionMoves": [
+    "d8b8",
+    "g3g7"
+   ],
+   "rating": 651,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Modern_Variation"
+   ]
+  },
+  {
+   "id": "zm4Xp",
+   "fen": "2r2rk1/pp2qpp1/2n1p2p/3p4/3Pn3/2PQ3P/PPBN1PP1/R3R1K1 b - - 3 16",
+   "solutionMoves": [
+    "e4d2",
+    "d3h7"
+   ],
+   "rating": 645,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "0PVEq",
+   "fen": "2rr2k1/pp1qbppp/4p3/4P3/8/1Q2B3/PP2bPPP/2R1R1K1 w - - 0 17",
+   "solutionMoves": [
+    "e1e2",
+    "c8c1",
+    "e3c1",
+    "d7d1",
+    "b3d1",
+    "d8d1",
+    "e2e1",
+    "d1e1"
+   ],
+   "rating": 1253,
+   "themes": [
+    "backRankMate",
+    "fork",
+    "mate",
+    "mateIn4",
+    "middlegame",
+    "veryLong"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "c5hXX",
+   "fen": "rn2k2r/pp3ppp/2p1p3/3pP1P1/3P2nP/4qN2/P2NB3/2RQK2R w Kkq - 1 15",
+   "solutionMoves": [
+    "d1b3",
+    "e3f2",
+    "e1d1",
+    "g4e3",
+    "b3e3",
+    "f2e3"
+   ],
+   "rating": 994,
+   "themes": [
+    "advantage",
+    "exposedKing",
+    "long",
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "c1ibH",
+   "fen": "r3r3/1p2npkp/p2qp1p1/3p3n/3P4/3BQPN1/PPP2P1P/R5RK b - - 7 18",
+   "solutionMoves": [
+    "h5f4",
+    "e3f4",
+    "d6f4",
+    "g3h5",
+    "g7f8",
+    "h5f4"
+   ],
+   "rating": 1720,
+   "themes": [
+    "attraction",
+    "crushing",
+    "long",
+    "middlegame",
+    "pin",
+    "sacrifice"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Gurgenidze_System"
+   ]
+  },
+  {
+   "id": "zltdh",
+   "fen": "r2qkb1r/pp3ppp/2p1pn2/4N3/2Q5/8/PPPP1PPP/R1B1K2R w KQkq - 0 11",
+   "solutionMoves": [
+    "d2d3",
+    "d8a5",
+    "c1d2",
+    "a5e5"
+   ],
+   "rating": 1413,
+   "themes": [
+    "advantage",
+    "fork",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "0Qxs8",
+   "fen": "2r1kb1r/pp3pp1/2nqpnp1/3p2B1/3P4/2P5/PP2BPPP/RN1Q1RK1 w k - 2 12",
+   "solutionMoves": [
+    "b1d2",
+    "d6h2"
+   ],
+   "rating": 572,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "0Qz1t",
+   "fen": "r6r/pp1k1ppp/5p2/2bp1b2/3n4/3Q4/PPP2PPP/R1B2RK1 w - - 4 15",
+   "solutionMoves": [
+    "d3c3",
+    "d4e2",
+    "g1h1",
+    "e2c3"
+   ],
+   "rating": 896,
+   "themes": [
+    "crushing",
+    "fork",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Forgacs_Variation"
+   ]
+  },
+  {
+   "id": "0RD92",
+   "fen": "2kr3r/ppq1bpp1/4p3/3p1bBp/3N2n1/PB1P3P/1PP2PP1/R2Q1RK1 w - - 1 15",
+   "solutionMoves": [
+    "g5e7",
+    "c7h2"
+   ],
+   "rating": 852,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+   ]
+  },
+  {
+   "id": "0RvVS",
+   "fen": "r2qkb1r/pQ2pppp/5n2/4n3/2pP2b1/8/PP3PPP/RNB1KB1R w KQkq - 0 9",
+   "solutionMoves": [
+    "d4e5",
+    "d8d1"
+   ],
+   "rating": 846,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+   ]
+  },
+  {
+   "id": "zl6pw",
+   "fen": "r2qkb1r/pp1nnpp1/4p2p/1NppP3/3P1B2/3Q1N2/PPP2PPP/R4RK1 b kq - 1 10",
+   "solutionMoves": [
+    "c5c4",
+    "b5d6"
+   ],
+   "rating": 881,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "smotheredMate"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "0SDI2",
+   "fen": "r3k2r/pp3pp1/2n1p3/2qpP3/5P2/BP1Q1Np1/P1N3P1/R4R1K w kq - 0 18",
+   "solutionMoves": [
+    "f3h2",
+    "h8h2"
+   ],
+   "rating": 1016,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "c5sSK",
+   "fen": "r4rk1/p5pp/1qpbR3/3p4/4n3/2PB4/PP3PPP/R1BQ2K1 w - - 1 17",
+   "solutionMoves": [
+    "d3e4",
+    "b6f2",
+    "g1h1",
+    "f2f1",
+    "d1f1",
+    "f8f1"
+   ],
+   "rating": 1066,
+   "themes": [
+    "kingsideAttack",
+    "long",
+    "mate",
+    "mateIn3",
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "0SWsu",
+   "fen": "2rq1rk1/4bppp/p3pn2/1pp5/3P3Q/2PBB2P/PP3PP1/3R1RK1 b - - 1 17",
+   "solutionMoves": [
+    "f6d5",
+    "h4h7"
+   ],
+   "rating": 653,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Modern_Variation"
+   ]
+  },
+  {
+   "id": "0SYS3",
+   "fen": "1r2k2r/p1q1bpp1/b1p1p3/2Ppn1Np/3B3P/2P5/PPQN1PP1/2KR3R b k - 1 15",
+   "solutionMoves": [
+    "a6d3",
+    "d4e5",
+    "c7e5",
+    "c2d3"
+   ],
+   "rating": 1322,
+   "themes": [
+    "capturingDefender",
+    "crushing",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "zky6s",
+   "fen": "r2q1r1k/4bpp1/p1p1pn1p/2Pp4/1P1B4/2P2NQ1/P4PPP/R4RK1 b - - 5 17",
+   "solutionMoves": [
+    "f6e4",
+    "g3g7"
+   ],
+   "rating": 665,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "0Su2h",
+   "fen": "1bk4r/pp3ppp/3qPp2/2n5/8/3B4/PPQ1NPPP/R4RK1 w - - 0 17",
+   "solutionMoves": [
+    "e6f7",
+    "d6h2"
+   ],
+   "rating": 604,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "0TyyS",
+   "fen": "r4rk1/1p2ppbp/pq4p1/3PP3/6bn/1BN2N2/PP3PPP/R2QR1K1 w - - 2 16",
+   "solutionMoves": [
+    "d1d4",
+    "h4f3",
+    "g2f3",
+    "b6d4"
+   ],
+   "rating": 1160,
+   "themes": [
+    "crushing",
+    "kingsideAttack",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "0U71x",
+   "fen": "rn3rk1/pp1bQppp/2p5/q1B5/2B4P/1PP2P2/P5P1/R3K1R1 b Q - 4 17",
+   "solutionMoves": [
+    "f8e8",
+    "c4f7",
+    "g8h8",
+    "f7e8"
+   ],
+   "rating": 1159,
+   "themes": [
+    "crushing",
+    "fork",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "zjuJl",
+   "fen": "r3k2r/1b3ppp/p3p3/1p1pPnP1/3q4/3B4/PP4PP/R1BQ1R1K b kq - 1 17",
+   "solutionMoves": [
+    "f5e3",
+    "d3b5",
+    "a6b5",
+    "d1d4"
+   ],
+   "rating": 1068,
+   "themes": [
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zjlwq",
+   "fen": "rb2rnk1/pp3ppp/2pq1p2/3P4/1PP5/P4B1P/5PP1/R1BQ1RK1 w - - 1 15",
+   "solutionMoves": [
+    "d5c6",
+    "d6h2"
+   ],
+   "rating": 896,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "zjidP",
+   "fen": "r1b1k2r/5pp1/p3p3/2bpPnq1/5P1p/P1N5/1P4PP/R1BQ1R1K w kq - 0 16",
+   "solutionMoves": [
+    "f4g5",
+    "f5g3",
+    "h2g3",
+    "h4g3",
+    "d1h5",
+    "h8h5"
+   ],
+   "rating": 1248,
+   "themes": [
+    "discoveredAttack",
+    "kingsideAttack",
+    "long",
+    "mate",
+    "mateIn3",
+    "middlegame",
+    "sacrifice"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "zjeW8",
+   "fen": "r3kb1r/pR2p1pn/2p1p2p/8/2q3PP/4P3/P1P5/3Q1RK1 b kq - 0 18",
+   "solutionMoves": [
+    "g7g6",
+    "d1d7"
+   ],
+   "rating": 907,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "zjZ2F",
+   "fen": "r4rk1/p1q2pbp/1pP2np1/3N4/8/1Q6/PP3PPP/R1B1R1K1 b - - 0 18",
+   "solutionMoves": [
+    "c7c6",
+    "d5e7",
+    "g8h8",
+    "e7c6"
+   ],
+   "rating": 957,
+   "themes": [
+    "crushing",
+    "fork",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Accelerated_Panov_Attack"
+   ]
+  },
+  {
+   "id": "zjISW",
+   "fen": "r4rk1/pp3ppB/1q1bp3/3p4/2nP2b1/2P2N2/PP1B1PPP/R2QR1K1 b - - 0 15",
+   "solutionMoves": [
+    "g8h7",
+    "f3g5",
+    "h7g8",
+    "d1g4"
+   ],
+   "rating": 902,
+   "themes": [
+    "advantage",
+    "discoveredAttack",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+   ]
+  },
+  {
+   "id": "zj4kt",
+   "fen": "r3r1k1/pp1n2pB/2nqpp1p/3pN3/3P1P2/2P5/PPQ2P1P/R3R1K1 b - - 1 17",
+   "solutionMoves": [
+    "g8h8",
+    "e5f7"
+   ],
+   "rating": 905,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0VkKa",
+   "fen": "r3k2r/5ppp/p1pbpn2/1q1p4/NP1Pb2N/P1P4P/3B1PP1/R2QK2R w KQkq - 3 15",
+   "solutionMoves": [
+    "f2f3",
+    "d6g3"
+   ],
+   "rating": 930,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "0WB5E",
+   "fen": "r3kb1R/1p3p2/pq2p1p1/3pn1P1/3Pn3/1P6/P1PB1P2/R2QKB2 w Qq - 0 18",
+   "solutionMoves": [
+    "d4e5",
+    "b6f2"
+   ],
+   "rating": 977,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "zisvD",
+   "fen": "r2qk1nr/3nbpp1/p3R2p/1p1p4/3P4/2PB1Q1P/PP1N1PP1/R1B3K1 b kq - 0 12",
+   "solutionMoves": [
+    "f7e6",
+    "d3g6"
+   ],
+   "rating": 1006,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Modern_Variation"
+   ]
+  },
+  {
+   "id": "c1Rlv",
+   "fen": "r4rk1/pp3ppp/1q1bp3/3p4/1n1P2P1/2NQ1N1P/PPP2B2/2KR3R w - - 1 17",
+   "solutionMoves": [
+    "d3b5",
+    "b4a2",
+    "c1d2",
+    "a2c3",
+    "b5b6",
+    "c3e4",
+    "d2e2",
+    "a7b6"
+   ],
+   "rating": 1739,
+   "themes": [
+    "advantage",
+    "fork",
+    "middlegame",
+    "sacrifice",
+    "veryLong"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "zid7o",
+   "fen": "r3kn1r/pp1qb1pb/2p1Rn1p/7P/3P1B2/5NN1/PPP1QPP1/R5K1 w kq - 5 16",
+   "solutionMoves": [
+    "e6e7",
+    "d7e7",
+    "a1e1",
+    "e7e2"
+   ],
+   "rating": 1285,
+   "themes": [
+    "advantage",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "0XLvY",
+   "fen": "r2qkb1r/pp1n1ppp/2p1P3/3n4/2BQ4/5R2/PPP3PP/RNB3K1 b kq - 0 11",
+   "solutionMoves": [
+    "f8c5",
+    "e6d7",
+    "d8d7",
+    "d4c5"
+   ],
+   "rating": 1783,
+   "themes": [
+    "advancedPawn",
+    "crushing",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "c60M7",
+   "fen": "r3k2r/2qbnpp1/p3p2p/1p1p4/6n1/1BNP1N2/PPP2PPP/R2Q1RK1 w kq - 0 15",
+   "solutionMoves": [
+    "f3d4",
+    "c7h2"
+   ],
+   "rating": 559,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zhtAq",
+   "fen": "3r1rk1/ppq2pp1/3b3p/3p1N2/3Qn3/2P4P/PP3PP1/R1B1R1K1 b - - 4 18",
+   "solutionMoves": [
+    "d6c5",
+    "d4g7"
+   ],
+   "rating": 726,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "0Y15T",
+   "fen": "r1b2rk1/1p3ppp/2p1pq2/p2nN2Q/3P4/2PB4/PP3PPP/R3R1K1 b - - 3 14",
+   "solutionMoves": [
+    "d5f4",
+    "h5h7"
+   ],
+   "rating": 1150,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Main_Line"
+   ]
+  },
+  {
+   "id": "0Y80x",
+   "fen": "r1bqk2r/pp1np1bp/2p1p1p1/3pN2R/3P4/2NB4/PPP2PP1/R1BQK3 b Qkq - 0 11",
+   "solutionMoves": [
+    "g6h5",
+    "d1h5",
+    "e8f8",
+    "h5f7"
+   ],
+   "rating": 1052,
+   "themes": [
+    "mate",
+    "mateIn2",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Campomanes_Attack"
+   ]
+  },
+  {
+   "id": "zhs9P",
+   "fen": "r2qr1k1/1p3p1p/p2b2pB/3p1p2/3Q4/2nB3P/PPP2PP1/3R1RK1 b - - 0 17",
+   "solutionMoves": [
+    "c3d1",
+    "d4g7"
+   ],
+   "rating": 990,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0YOsU",
+   "fen": "1r1q1rk1/4bppp/2n1pB2/pp1p4/3P4/2PQ3P/PPBN1PP1/R4RK1 b - - 0 14",
+   "solutionMoves": [
+    "e7f6",
+    "d3h7"
+   ],
+   "rating": 453,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "0YtxV",
+   "fen": "r1bq1rk1/5p2/p1N2npQ/1p1N1p1p/3P4/8/PPP2PPP/2KR3R b - - 2 16",
+   "solutionMoves": [
+    "d8d5",
+    "c6e7"
+   ],
+   "rating": 844,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zh3ng",
+   "fen": "rn3rk1/pp3ppp/2pq1p2/8/3P4/3B1P2/PPPQ1P1P/2KR3R b - - 0 12",
+   "solutionMoves": [
+    "d6d4",
+    "d3h7",
+    "g8h7",
+    "d2d4"
+   ],
+   "rating": 915,
+   "themes": [
+    "crushing",
+    "discoveredAttack",
+    "kingsideAttack",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "0ZLoa",
+   "fen": "2kr2n1/pp5Q/nqp1bp2/8/4P3/P1N2N2/1PP1KbPP/R1B2B1R w - - 1 13",
+   "solutionMoves": [
+    "g2g3",
+    "e6c4"
+   ],
+   "rating": 1265,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "0ZSIJ",
+   "fen": "1br1k2r/pp3ppp/1qn1pn2/1N1p4/3P4/1QP1BB1P/PP3PP1/R4RK1 b k - 2 13",
+   "solutionMoves": [
+    "a7a6",
+    "b5d6",
+    "b8d6",
+    "b3b6"
+   ],
+   "rating": 889,
+   "themes": [
+    "advantage",
+    "discoveredAttack",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "0Za3g",
+   "fen": "2r1k2r/pp3ppp/2nbp3/1B1p3b/Q2P2Pq/2P5/PP1N3P/R1B2RK1 w k - 0 14",
+   "solutionMoves": [
+    "g4h5",
+    "h4h2"
+   ],
+   "rating": 979,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "0Zagc",
+   "fen": "rn1qkbnr/pp2p2b/2p1Ppp1/3p1P2/3P2B1/2N5/PPP4P/R1BQK1NR b KQkq - 1 10",
+   "solutionMoves": [
+    "g6f5",
+    "g4h5",
+    "h7g6",
+    "h5g6"
+   ],
+   "rating": 727,
+   "themes": [
+    "mate",
+    "mateIn2",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "zgrSA",
+   "fen": "rnb1k1nr/pp3ppp/q1p5/4P3/N1P1p3/5P2/PP2K1PP/R1BQ1BR1 w kq - 0 10",
+   "solutionMoves": [
+    "a4c5",
+    "a6c4",
+    "e2f2",
+    "c4c5"
+   ],
+   "rating": 971,
+   "themes": [
+    "advantage",
+    "fork",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "0Zo08",
+   "fen": "r2qk2r/p4pp1/1p6/2bpPn2/8/8/PP4PP/RN1Q1R1K w kq - 0 18",
+   "solutionMoves": [
+    "f1f5",
+    "h8h2",
+    "h1h2",
+    "d8h4"
+   ],
+   "rating": 1112,
+   "themes": [
+    "attraction",
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "sacrifice",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "c186y",
+   "fen": "r1b1kb1r/p3pppp/2p5/6B1/2B1p3/8/PPP2PPP/3RK2R b Kkq - 1 11",
+   "solutionMoves": [
+    "e7e6",
+    "d1d8"
+   ],
+   "rating": 592,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zfxN7",
+   "fen": "r1b2b1r/pp2q2k/1np1pn2/4N1Q1/3P4/3B4/PPP2PPP/R3K2R b KQ - 2 16",
+   "solutionMoves": [
+    "f6e4",
+    "d3e4"
+   ],
+   "rating": 850,
+   "themes": [
+    "hangingPiece",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Karpov_Variation"
+   ]
+  },
+  {
+   "id": "c17NN",
+   "fen": "5rk1/1q1rbppp/p1n1p3/1p1n4/1P1P4/P1N1B2P/2Q2PP1/1BR2RK1 b - - 3 18",
+   "solutionMoves": [
+    "d5e3",
+    "c2h7"
+   ],
+   "rating": 489,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+   ]
+  },
+  {
+   "id": "0apGl",
+   "fen": "1k1r3r/pp3pp1/3bpn2/3p2Bp/2PP4/1PQn1N1P/q2N1PP1/2KR3R w - - 2 18",
+   "solutionMoves": [
+    "c3d3",
+    "d6a3"
+   ],
+   "rating": 1171,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "c0tPA",
+   "fen": "4k2r/1p3pp1/p2qpn1p/3pN3/1n1P4/2r1Q2P/PPPR1PP1/2K4R w k - 0 17",
+   "solutionMoves": [
+    "e3c3",
+    "b4a2",
+    "c1b1",
+    "a2c3"
+   ],
+   "rating": 907,
+   "themes": [
+    "crushing",
+    "fork",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0bNXp",
+   "fen": "2kr3r/pp1n2p1/3qpp1p/2p5/5P1N/2Pb1Q2/PP3PBP/R4RK1 b - - 1 18",
+   "solutionMoves": [
+    "d3f1",
+    "f3b7"
+   ],
+   "rating": 751,
+   "themes": [
+    "master",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "queensideAttack"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "c0ilq",
+   "fen": "rn2k3/ppb2p1p/2p1p3/3pq3/8/2N2Q1P/PPP1BPP1/3R1RK1 w q - 2 16",
+   "solutionMoves": [
+    "f1e1",
+    "e5h2",
+    "g1f1",
+    "h2h1"
+   ],
+   "rating": 607,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "zfM6z",
+   "fen": "2rq3r/pp3kbp/1np2np1/3p1pN1/3P1P2/BPN5/P1P1Q1PP/R4RK1 b - - 1 15",
+   "solutionMoves": [
+    "f7g8",
+    "e2e6"
+   ],
+   "rating": 1035,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Campomanes_Attack"
+   ]
+  },
+  {
+   "id": "zefow",
+   "fen": "r1b2rk1/ppb2ppp/3q1n2/4n1B1/4p2Q/1BP4P/PP2NPP1/RN3RK1 w - - 10 15",
+   "solutionMoves": [
+    "g5f6",
+    "e5f3",
+    "g2f3",
+    "d6h2"
+   ],
+   "rating": 1478,
+   "themes": [
+    "clearance",
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "opening",
+    "sacrifice",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+   ]
+  },
+  {
+   "id": "zeNoH",
+   "fen": "rn2r1k1/pp2qppp/2p2p2/5b2/3P4/2P2P2/PP2NKPP/R2Q1B1R w - - 2 12",
+   "solutionMoves": [
+    "e2g3",
+    "e7e3"
+   ],
+   "rating": 1097,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Main_Line"
+   ]
+  },
+  {
+   "id": "c0aC5",
+   "fen": "rn1q1bkr/p5pp/2p1pn2/1p2NQ2/2B5/8/PPPP1PPP/R1B1K2R b KQ - 0 10",
+   "solutionMoves": [
+    "b5c4",
+    "f5e6"
+   ],
+   "rating": 958,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "zeD4B",
+   "fen": "3B2nr/p4ppp/2r1p2k/2bp1b1P/3P1P2/8/PPP3P1/RN2K2R b KQ - 0 16",
+   "solutionMoves": [
+    "c5d4",
+    "d8g5"
+   ],
+   "rating": 738,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zeAf3",
+   "fen": "r3k2r/pp1q3p/2nbpp2/3p2p1/3P4/1QPB2P1/PP1N1PP1/R3K2R w KQkq - 1 14",
+   "solutionMoves": [
+    "h1h7",
+    "h8h7",
+    "d3h7",
+    "d7h7"
+   ],
+   "rating": 1350,
+   "themes": [
+    "advantage",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "zdwn1",
+   "fen": "r1b1k2r/pp1nbQp1/5n1p/2P3N1/8/qP6/P1P2PPP/R3KB1R b KQ - 2 15",
+   "solutionMoves": [
+    "e8d8",
+    "g5e6"
+   ],
+   "rating": 979,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Karpov_Variation"
+   ]
+  },
+  {
+   "id": "0eygi",
+   "fen": "3r3r/p1kn4/2p1Q2p/3pP3/1b1P3P/2N5/P1q1NPP1/1R4K1 b - - 4 17",
+   "solutionMoves": [
+    "b4c3",
+    "e6d6",
+    "c7c8",
+    "d6c6"
+   ],
+   "rating": 1409,
+   "themes": [
+    "deflection",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "zcdj7",
+   "fen": "r1r3k1/pp1nbp1B/2p1pn1Q/q5N1/3P4/8/PPP2PPP/2KR3R b - - 4 15",
+   "solutionMoves": [
+    "f6h7",
+    "h6h7",
+    "g8f8",
+    "h7f7"
+   ],
+   "rating": 805,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "bzlVI",
+   "fen": "r2qrN1k/pp4pQ/2n1Bn1p/8/3p4/8/PPP2PPb/R1B2K2 b - - 5 18",
+   "solutionMoves": [
+    "f6h7",
+    "f8g6"
+   ],
+   "rating": 856,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Main_Line"
+   ]
+  },
+  {
+   "id": "zcFTZ",
+   "fen": "r4rk1/pp1q1pp1/1np5/2b1P1Pn/3N4/3Q1P1R/PPP3P1/2KR1B2 b - - 0 17",
+   "solutionMoves": [
+    "h5f4",
+    "d3h7"
+   ],
+   "rating": 755,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "0fhvc",
+   "fen": "r3r1k1/ppq2p2/2pbbpnQ/7N/3P4/2PB4/PP3PPP/R4RK1 b - - 2 16",
+   "solutionMoves": [
+    "d6f8",
+    "h5f6"
+   ],
+   "rating": 1077,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "c7HFh",
+   "fen": "r1b1kbnr/pp2pppp/8/q1p5/1n1PP3/3P1N2/PP2NPPP/R1BQKB1R w KQkq - 1 8",
+   "solutionMoves": [
+    "c1d2",
+    "b4d3"
+   ],
+   "rating": 949,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening",
+    "smotheredMate"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "0g8hT",
+   "fen": "r3k2r/ppb2ppp/2nqp3/3p4/1P1P4/P1N1QB1P/2P2PP1/R4RK1 w kq - 1 15",
+   "solutionMoves": [
+    "c3b5",
+    "d6h2"
+   ],
+   "rating": 454,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "zbuWP",
+   "fen": "r2qkb1r/pp3ppp/2n1p3/3pPn2/3P4/5N1P/PP2BPP1/R1BQK2R w KQkq - 1 11",
+   "solutionMoves": [
+    "e2b5",
+    "d8a5",
+    "c1d2",
+    "a5b5"
+   ],
+   "rating": 1297,
+   "themes": [
+    "advantage",
+    "fork",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0ggbO",
+   "fen": "rn5r/pp4pp/1kpQ1n2/8/2BPPB2/8/P1P1KPPP/7q b - - 0 14",
+   "solutionMoves": [
+    "b8d7",
+    "d6b4"
+   ],
+   "rating": 1023,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "c85fV",
+   "fen": "r1bq1rk1/1p2bppp/2p1pN2/8/p2P4/P1PQ1N2/1n4PP/RB3RK1 b - - 1 17",
+   "solutionMoves": [
+    "e7f6",
+    "d3h7"
+   ],
+   "rating": 400,
+   "themes": [
+    "kingsideAttack",
+    "master",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_von_Hennig_Gambit"
+   ]
+  },
+  {
+   "id": "0gpNN",
+   "fen": "r2qkb1r/pp1n2pp/2p1B3/5n2/3P4/5Q1P/PPP2PP1/R1B1K2R b KQkq - 0 12",
+   "solutionMoves": [
+    "f5d4",
+    "f3f7"
+   ],
+   "rating": 929,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "zbLpW",
+   "fen": "Qb2k2r/3n1ppp/2N1p3/8/5q2/8/PP1P1PPP/RNB2RK1 w k - 2 18",
+   "solutionMoves": [
+    "d2d4",
+    "f4h2"
+   ],
+   "rating": 718,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0hQom",
+   "fen": "r2qkbnr/1p1b1ppp/2n1p3/1N1pP3/3P4/4BN2/PP3PPP/R2Q1RK1 b kq - 0 11",
+   "solutionMoves": [
+    "g8e7",
+    "b5d6"
+   ],
+   "rating": 816,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening",
+    "smotheredMate"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "0iPSw",
+   "fen": "r1bq1rk1/pp2bp2/4pn1Q/3n4/3p4/3B1N2/PPP1NPPP/R4RK1 b - - 0 15",
+   "solutionMoves": [
+    "f6g4",
+    "h6h7"
+   ],
+   "rating": 878,
+   "themes": [
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Main_Line"
+   ]
+  },
+  {
+   "id": "0iT5d",
+   "fen": "2kr1b1r/pp1n1pp1/2q1pn1p/2P5/5B1P/3Q1N2/PPP1NPP1/2KRR3 b - - 0 15",
+   "solutionMoves": [
+    "d7c5",
+    "d3d8"
+   ],
+   "rating": 619,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "queensideAttack"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "0ibAJ",
+   "fen": "r1b2k1r/pp1nnpb1/5q1p/2B1pN2/2P1P3/1PN5/P3BPP1/R2QK2R b KQ - 0 15",
+   "solutionMoves": [
+    "d7c5",
+    "d1d8"
+   ],
+   "rating": 622,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "English_Opening English_Opening_Caro-Kann_Defensive_System"
+   ]
+  },
+  {
+   "id": "0ih6l",
+   "fen": "rn1q1bkr/pp2p2p/2p3p1/4Q3/3P4/2N5/PPP3PP/R1B2RK1 b - - 5 13",
+   "solutionMoves": [
+    "f8g7",
+    "e5e6"
+   ],
+   "rating": 1135,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_von_Hennig_Gambit"
+   ]
+  },
+  {
+   "id": "0iqAj",
+   "fen": "5knr/pp2ppp1/2p5/q3Q2b/2B5/5PB1/PPP3PP/2KR4 b - - 2 17",
+   "solutionMoves": [
+    "a5e5",
+    "d1d8"
+   ],
+   "rating": 876,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Endgame_Offer"
+   ]
+  },
+  {
+   "id": "0iuUO",
+   "fen": "r4rk1/1p1n2pb/2p1Nn1p/8/1q6/2N1P1Q1/3P1PPP/R4RK1 b - - 0 18",
+   "solutionMoves": [
+    "a8a1",
+    "g3g7"
+   ],
+   "rating": 737,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "English_Opening English_Opening_Caro-Kann_Defensive_System"
+   ]
+  },
+  {
+   "id": "0jWlH",
+   "fen": "rn3rk1/p4ppp/2p3N1/1p6/2Bq4/2N5/PPP1Q1PP/5R1K b - - 0 16",
+   "solutionMoves": [
+    "h7g6",
+    "c4f7",
+    "f8f7",
+    "e2e8"
+   ],
+   "rating": 1310,
+   "themes": [
+    "advantage",
+    "kingsideAttack",
+    "middlegame",
+    "sacrifice",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_von_Hennig_Gambit"
+   ]
+  },
+  {
+   "id": "c8B6W",
+   "fen": "r1bq3r/pp4k1/2n1p1pp/2pBP3/8/2P2Q2/PP3PPP/R1B1K2R b KQ - 0 15",
+   "solutionMoves": [
+    "d8d5",
+    "f3f6",
+    "g7g8",
+    "f6g6"
+   ],
+   "rating": 1187,
+   "themes": [
+    "advantage",
+    "deflection",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Alien_Gambit"
+   ]
+  },
+  {
+   "id": "byibh",
+   "fen": "r2qkbnr/pp1np1p1/2p1p2p/3p2P1/3P3P/3Q4/PPP2P2/RNB1K1NR b KQkq - 0 9",
+   "solutionMoves": [
+    "e6e5",
+    "d3g6"
+   ],
+   "rating": 679,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "zZtLs",
+   "fen": "rn5k/pp3r2/3b1n2/3Bq3/8/8/PPP2PPP/R2Q1RK1 w - - 0 18",
+   "solutionMoves": [
+    "d5f7",
+    "e5h2"
+   ],
+   "rating": 561,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "zZPGa",
+   "fen": "r1bq1k1r/pp3ppp/3B4/3p4/Q2n4/3B4/P4PPP/1R2R1K1 b - - 0 17",
+   "solutionMoves": [
+    "d8d6",
+    "a4e8"
+   ],
+   "rating": 469,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+   ]
+  },
+  {
+   "id": "0l39b",
+   "fen": "rn1qk2r/pp2bpQb/2p1p3/3nN3/3P4/6N1/PP3PPP/2KR1B1R b kq - 2 15",
+   "solutionMoves": [
+    "e7f6",
+    "g7f7"
+   ],
+   "rating": 893,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "zYzAi",
+   "fen": "rnbqkb1r/pp2nppp/2p1p3/8/3PN3/6P1/PPP2PBP/R1BQK1NR b KQkq - 0 6",
+   "solutionMoves": [
+    "b8d7",
+    "e4d6"
+   ],
+   "rating": 800,
+   "themes": [
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0lZZW",
+   "fen": "rnb1k1nr/pp3pQp/1qp5/3P4/8/2P2P2/PP4PP/RNB1KBbR w KQkq - 0 8",
+   "solutionMoves": [
+    "g7h8",
+    "b6f2",
+    "e1d1",
+    "f2f1"
+   ],
+   "rating": 1121,
+   "themes": [
+    "crushing",
+    "deflection",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "0ljVX",
+   "fen": "r5k1/pQ2p1bp/3qp1p1/8/3P2n1/2P2r2/P4PPP/R1B1R1K1 w - - 0 17",
+   "solutionMoves": [
+    "g2f3",
+    "d6h2",
+    "g1f1",
+    "h2f2"
+   ],
+   "rating": 1070,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Accelerated_Panov_Attack"
+   ]
+  },
+  {
+   "id": "c8NBo",
+   "fen": "r3k2r/ppb3pp/2nqp3/3p1p2/PP1P4/B1P2B2/3Q1PPP/R4RK1 w kq - 1 15",
+   "solutionMoves": [
+    "b4b5",
+    "d6h2"
+   ],
+   "rating": 1064,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "c8psu",
+   "fen": "rn2k2r/pp2bp1p/2p2p2/3q4/3P1B2/5QP1/PPP2P1P/R3R1K1 w kq - 3 14",
+   "solutionMoves": [
+    "f3d5",
+    "c6d5",
+    "f4b8",
+    "a8b8"
+   ],
+   "rating": 648,
+   "themes": [
+    "advantage",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Bronstein-Larsen_Variation"
+   ]
+  },
+  {
+   "id": "zYaCU",
+   "fen": "r2q1bkr/pp1np1pp/2p2n2/8/3P2N1/2NQ4/PPP3PP/R1B1K2R b KQ - 2 10",
+   "solutionMoves": [
+    "f6g4",
+    "d3c4",
+    "e7e6",
+    "c4e6"
+   ],
+   "rating": 1112,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_von_Hennig_Gambit"
+   ]
+  },
+  {
+   "id": "0mB2h",
+   "fen": "2kr1b2/pp2p3/2p2nQn/5p2/2q2P2/2N5/PPpB2PP/2R2R1K w - - 2 18",
+   "solutionMoves": [
+    "c1c2",
+    "c4f1"
+   ],
+   "rating": 602,
+   "themes": [
+    "hangingPiece",
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "by2if",
+   "fen": "rn3b1r/pp3k1p/4qpb1/3N4/8/8/PPP3PP/R2Q1R1K b - - 0 15",
+   "solutionMoves": [
+    "b8a6",
+    "f1f6",
+    "e6f6",
+    "d5f6"
+   ],
+   "rating": 903,
+   "themes": [
+    "master",
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_von_Hennig_Gambit"
+   ]
+  },
+  {
+   "id": "bxzkN",
+   "fen": "r3k1nB/pp2bp1p/6p1/3p2N1/Q7/8/P2q1PPP/R5K1 b q - 2 18",
+   "solutionMoves": [
+    "e8f8",
+    "g5h7"
+   ],
+   "rating": 922,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0mWAC",
+   "fen": "rn1q1bkr/pp2p1pb/2p2n1p/4N3/2BP2P1/8/PPP2P1P/R1BQK2R b KQ - 6 10",
+   "solutionMoves": [
+    "e7e6",
+    "c4e6"
+   ],
+   "rating": 773,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "0mlkf",
+   "fen": "r1bq1rk1/1p3ppp/pb2p3/3pP1N1/1P1n1BP1/P1NQ4/5P1P/3R1RK1 b - - 1 18",
+   "solutionMoves": [
+    "h7h6",
+    "d3h7"
+   ],
+   "rating": 557,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "zXlrJ",
+   "fen": "r6r/ppqn1pkp/2pb1pp1/5P2/3P4/2P1B2P/PP1QN1P1/R3R1K1 b - - 2 16",
+   "solutionMoves": [
+    "a8g8",
+    "e3h6"
+   ],
+   "rating": 651,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "zXhVO",
+   "fen": "r3k2r/pp2bpp1/5n1p/4n1B1/4P3/2N4P/PP3P2/3RKB1R w Kkq - 0 14",
+   "solutionMoves": [
+    "g5h4",
+    "e5f3",
+    "e1e2",
+    "f3h4"
+   ],
+   "rating": 1149,
+   "themes": [
+    "advantage",
+    "fork",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "English_Opening English_Opening_Caro-Kann_Defensive_System"
+   ]
+  },
+  {
+   "id": "0nKGq",
+   "fen": "r2qkb1r/pp1nnppp/2p1P3/3p4/5QP1/8/PPPP2BP/RNB2RK1 b kq - 0 11",
+   "solutionMoves": [
+    "f7e6",
+    "f4f7"
+   ],
+   "rating": 944,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0nvCX",
+   "fen": "r4rk1/1pb2ppp/2pq1p2/2N2b2/p1QP4/4B3/PPP2PPP/R4RK1 w - - 7 17",
+   "solutionMoves": [
+    "c5b7",
+    "d6h2"
+   ],
+   "rating": 686,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "0o0nU",
+   "fen": "r1b2rk1/p1q2pp1/2p1p2p/1p1nP3/4Q2P/2PB4/PP1B1PP1/R3K2R b KQ - 4 17",
+   "solutionMoves": [
+    "c8b7",
+    "e4h7"
+   ],
+   "rating": 478,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "c8zsR",
+   "fen": "r2qr1k1/ppb2ppp/2n2n2/3p4/1P1P4/P1NBBQ1P/5PP1/R4RK1 w - - 5 15",
+   "solutionMoves": [
+    "f3f5",
+    "d8d6",
+    "e3f4",
+    "d6f4",
+    "f5f4",
+    "c7f4"
+   ],
+   "rating": 1737,
+   "themes": [
+    "advantage",
+    "long",
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "English_Opening English_Opening_Caro-Kann_Defensive_System"
+   ]
+  },
+  {
+   "id": "zWrAP",
+   "fen": "r3kb1r/pp3ppp/2n1p3/qB1NPn2/3P2b1/P4N2/1P1B1PPP/R2QK2R b KQkq - 0 11",
+   "solutionMoves": [
+    "a5b5",
+    "d5c7",
+    "e8d7",
+    "c7b5"
+   ],
+   "rating": 816,
+   "themes": [
+    "crushing",
+    "fork",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "0oggt",
+   "fen": "r2r4/ppk1bppp/8/1B6/8/2P1B3/b1P2PPP/2KR3R w - - 0 15",
+   "solutionMoves": [
+    "h1e1",
+    "e7a3"
+   ],
+   "rating": 888,
+   "themes": [
+    "master",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "c98WV",
+   "fen": "r1b1k1nr/1pq2pp1/p1nbp2p/3pN3/3P1B2/2NBP3/PP3PPP/R2QK2R w KQkq - 4 10",
+   "solutionMoves": [
+    "e5f7",
+    "e8f7",
+    "f4d6",
+    "c7d6"
+   ],
+   "rating": 1798,
+   "themes": [
+    "advantage",
+    "hangingPiece",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "English_Opening English_Opening_Caro-Kann_Defensive_System"
+   ]
+  },
+  {
+   "id": "0qEf1",
+   "fen": "rn2r1k1/pp3ppp/2qb1p2/1Np5/8/3PB1Pb/PPP1BP1P/R2QR1K1 w - - 2 14",
+   "solutionMoves": [
+    "b5d6",
+    "c6g2"
+   ],
+   "rating": 721,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "0qQ6F",
+   "fen": "r2qk2r/pp3p2/4p1p1/2bpPn1p/5P2/P1NQ4/1P4PP/R1B2R1K b kq - 5 16",
+   "solutionMoves": [
+    "h5h4",
+    "d3b5",
+    "d8d7",
+    "b5c5"
+   ],
+   "rating": 990,
+   "themes": [
+    "advantage",
+    "fork",
+    "master",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0rI8P",
+   "fen": "r1b1k1nr/1p3ppp/p1N1p3/2b1P3/2B5/4B3/PP3PPP/RN1R2K1 b kq - 0 11",
+   "solutionMoves": [
+    "c5e3",
+    "d1d8"
+   ],
+   "rating": 700,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "zVYOS",
+   "fen": "r2qk2r/pp3p1p/2nbp3/5bB1/3Pp3/2P2N1P/PP2BPP1/R2Q1RK1 b kq - 0 13",
+   "solutionMoves": [
+    "e4f3",
+    "g5d8",
+    "f3e2",
+    "d1e2"
+   ],
+   "rating": 1080,
+   "themes": [
+    "advantage",
+    "master",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "c9B5B",
+   "fen": "r4rk1/pp2pp1p/1qp1b1p1/3n2N1/2Qb4/3B2B1/PPP2PPP/1K1R3R w - - 0 16",
+   "solutionMoves": [
+    "g5e6",
+    "b6b2"
+   ],
+   "rating": 639,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "queensideAttack"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Main_Line"
+   ]
+  },
+  {
+   "id": "0sVOF",
+   "fen": "r3k2r/pp1n1pp1/2p1p3/3pP3/P1PP3p/2N1Qb1q/1P2NP2/R1B2RK1 w kq - 2 18",
+   "solutionMoves": [
+    "e2f4",
+    "h3h1"
+   ],
+   "rating": 1123,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "0sdFh",
+   "fen": "Qn3rk1/p4ppp/2p1p3/4P3/3P1q2/2n2P2/P3BP1P/1R2K2R w K - 0 16",
+   "solutionMoves": [
+    "b1b8",
+    "f4c1",
+    "e2d1",
+    "c1d1"
+   ],
+   "rating": 947,
+   "themes": [
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "zUTC0",
+   "fen": "r3r1k1/1bqnbp1n/ppp4Q/4p3/2PPP3/2N3RP/PP2BPP1/2R3K1 b - - 1 17",
+   "solutionMoves": [
+    "g8h8",
+    "h6g7"
+   ],
+   "rating": 847,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Accelerated_Panov_Attack"
+   ]
+  },
+  {
+   "id": "0t9e4",
+   "fen": "2kr3r/ppbn2p1/2p2n1p/4q3/8/1BNQB3/PPP3PP/R4R1K w - - 3 17",
+   "solutionMoves": [
+    "a1e1",
+    "e5h2"
+   ],
+   "rating": 641,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "c9RgM",
+   "fen": "r4rk1/pp2ppbp/5np1/1q1n4/5N2/3PBP1P/PPP1QP2/1K1R1BR1 w - - 7 15",
+   "solutionMoves": [
+    "c2c4",
+    "d5c3",
+    "b1a1",
+    "c3e2",
+    "c4b5",
+    "e2g1"
+   ],
+   "rating": 1140,
+   "themes": [
+    "crushing",
+    "long",
+    "middlegame",
+    "pin"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "0tGFO",
+   "fen": "r3rnk1/ppb2ppp/2pq1p2/8/3P2b1/2PBB2P/PPQN1PP1/R4RK1 w - - 1 14",
+   "solutionMoves": [
+    "h3g4",
+    "d6h2"
+   ],
+   "rating": 469,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "0tGcO",
+   "fen": "r2q1rk1/5ppn/p1p4p/2p1pNb1/2PpP2P/1P1P2Q1/P4PP1/R1B2RK1 b - - 0 17",
+   "solutionMoves": [
+    "g5c1",
+    "g3g7"
+   ],
+   "rating": 989,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "zUBPb",
+   "fen": "r1bq1rk1/pp3p2/2nb2nQ/2p1p1N1/3pP3/P2P3P/1PP1NPP1/R3KB1R b KQ - 2 13",
+   "solutionMoves": [
+    "f8e8",
+    "h6h7",
+    "g8f8",
+    "h7f7"
+   ],
+   "rating": 1147,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "bvz6p",
+   "fen": "r1b1k2r/pp3p1p/2n3p1/qN1pb3/2P1nB2/1Q6/PP1N1PPP/R3KB1R w KQkq - 0 12",
+   "solutionMoves": [
+    "f4e5",
+    "a5d2"
+   ],
+   "rating": 548,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0tjPQ",
+   "fen": "rn1k1b1r/pp3Ppp/2p5/8/4p3/1B5n/PPPP2PP/RNB2RqK w - - 8 15",
+   "solutionMoves": [
+    "f1g1",
+    "h3f2"
+   ],
+   "rating": 827,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "smotheredMate"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0tlvK",
+   "fen": "r4rk1/pb3ppp/1p2p1N1/8/3n1B2/6P1/PP2PP1P/R4RK1 w - - 0 18",
+   "solutionMoves": [
+    "g6f8",
+    "d4e2"
+   ],
+   "rating": 810,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "English_Opening English_Opening_Caro-Kann_Defensive_System"
+   ]
+  },
+  {
+   "id": "0uTmN",
+   "fen": "r4rk1/2q2pb1/p1n1p2p/1p1pPbp1/8/PB4B1/NPP1QPPP/R3R1K1 b - - 7 17",
+   "solutionMoves": [
+    "g7e5",
+    "g3e5",
+    "c7e5",
+    "e2e5"
+   ],
+   "rating": 940,
+   "themes": [
+    "advantage",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0umzY",
+   "fen": "r2q1rk1/pp3ppp/2n1p3/3pP1b1/3P1NP1/1P1QP2R/P2N3P/R5K1 b - - 6 17",
+   "solutionMoves": [
+    "g5f4",
+    "d3h7"
+   ],
+   "rating": 501,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "zTWpT",
+   "fen": "r4bnr/pp2kppp/1q2p3/1B1p4/1Q3B2/5P2/PPP2P1K/RN6 b - - 7 14",
+   "solutionMoves": [
+    "e7d8",
+    "b4f8"
+   ],
+   "rating": 962,
+   "themes": [
+    "hangingPiece",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "0vth3",
+   "fen": "1k1r2r1/pp4qp/2nb4/3p1p2/1P1P3Q/2PB1P2/P4P1P/RN3R1K w - - 5 18",
+   "solutionMoves": [
+    "f1g1",
+    "g7g1"
+   ],
+   "rating": 522,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "0w82D",
+   "fen": "rn1qk1nr/pp2b2p/2p1p3/3pNpp1/3P4/8/PPP2PPP/RNBQ1RK1 b kq - 1 9",
+   "solutionMoves": [
+    "b8d7",
+    "d1h5",
+    "e8f8",
+    "h5f7"
+   ],
+   "rating": 1027,
+   "themes": [
+    "mate",
+    "mateIn2",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "bvekc",
+   "fen": "1k1r1bnr/ppQ2ppp/q7/1N1p4/8/8/PP1BNPPP/5K1R b - - 3 17",
+   "solutionMoves": [
+    "b8a8",
+    "c7d8"
+   ],
+   "rating": 621,
+   "themes": [
+    "hangingPiece",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "queensideAttack"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+   ]
+  },
+  {
+   "id": "0wyDd",
+   "fen": "r4rk1/3nqppp/p3p3/1p1p3n/3P4/1NPQ1P2/PPB3PP/R3R1K1 b - - 4 18",
+   "solutionMoves": [
+    "e7g5",
+    "d3h7"
+   ],
+   "rating": 482,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "bvIeB",
+   "fen": "r2qk2r/3nb1p1/2n1p2p/p2p1R1Q/1ppP4/2P4P/PP4PN/RNB3K1 b kq - 1 18",
+   "solutionMoves": [
+    "g7g6",
+    "h5g6"
+   ],
+   "rating": 700,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "bumpE",
+   "fen": "2r1k2r/p4ppp/2pbp3/Bp2Nb2/3Pnq2/1P3B2/P1P2PPP/R2Q1RK1 w k - 5 17",
+   "solutionMoves": [
+    "e5d3",
+    "f4h2"
+   ],
+   "rating": 594,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "0xSpV",
+   "fen": "rn2k1nr/pp3ppp/1qp5/3pP3/4P3/2B2P1P/PPP2b1P/RN1QKB1R w KQkq - 1 9",
+   "solutionMoves": [
+    "e1e2",
+    "b6e3"
+   ],
+   "rating": 569,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "zS23J",
+   "fen": "rn4k1/pp2qppp/2p2p2/8/2PP4/2PB1N2/P2K2PP/4R3 b - - 0 17",
+   "solutionMoves": [
+    "e7d6",
+    "e1e8",
+    "d6f8",
+    "d3h7",
+    "g8h7",
+    "e8f8"
+   ],
+   "rating": 1638,
+   "themes": [
+    "advantage",
+    "endgame",
+    "kingsideAttack",
+    "long",
+    "pin"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "zRnn6",
+   "fen": "r3kbnr/pp3pp1/2n1p1p1/8/3N3q/2P3N1/PP3PPP/R1BQ1RK1 w kq - 1 12",
+   "solutionMoves": [
+    "d4c6",
+    "h4h2"
+   ],
+   "rating": 1195,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "0yDIB",
+   "fen": "r4rk1/1pq1np1p/p3pBp1/3pP1Q1/3n2P1/2N5/PPP2P1P/R4RK1 w - - 1 16",
+   "solutionMoves": [
+    "f6e7",
+    "d4f3",
+    "g1g2",
+    "f3g5"
+   ],
+   "rating": 1055,
+   "themes": [
+    "advantage",
+    "fork",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "zRlBB",
+   "fen": "r1Bq1k1r/pp2b1pp/1np2n2/6N1/3P4/5Q2/PPP2PPP/R1B1K2R b KQ - 0 12",
+   "solutionMoves": [
+    "a8c8",
+    "g5e6",
+    "f8f7",
+    "e6d8"
+   ],
+   "rating": 951,
+   "themes": [
+    "advantage",
+    "fork",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Karpov_Variation"
+   ]
+  },
+  {
+   "id": "0yWXF",
+   "fen": "r1b1R1k1/ppb2ppp/2p2pn1/8/3P1q2/2PB1N1P/PPQ2PP1/6K1 b - - 1 16",
+   "solutionMoves": [
+    "g6f8",
+    "d3h7",
+    "g8h8",
+    "e8f8"
+   ],
+   "rating": 924,
+   "themes": [
+    "deflection",
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "0yXrb",
+   "fen": "r2q1rk1/1b3p2/p1nbp1nQ/1p1p2N1/6P1/1BPP4/PP3P1P/RN3RK1 b - - 2 17",
+   "solutionMoves": [
+    "f8e8",
+    "h6h7",
+    "g8f8",
+    "h7f7"
+   ],
+   "rating": 1137,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+   ]
+  },
+  {
+   "id": "zQxiR",
+   "fen": "r3kbnr/pp3ppp/4p3/5b2/3qp2N/2Nn2P1/PP3PBP/R1BQ1K1R w kq - 0 11",
+   "solutionMoves": [
+    "h4f5",
+    "d4f2"
+   ],
+   "rating": 541,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "English_Opening English_Opening_Caro-Kann_Defensive_System"
+   ]
+  },
+  {
+   "id": "zQGnn",
+   "fen": "r1bqrnk1/pp3p1p/2pb1p1p/5N2/3P2Q1/3B4/PPP2PPP/R4RK1 b - - 3 12",
+   "solutionMoves": [
+    "g8h8",
+    "g4g7"
+   ],
+   "rating": 882,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "0ziau",
+   "fen": "rn1q3r/pp2bkpp/2p5/4Nb2/3p4/8/PPP1QPPP/R1B1K2R b KQ - 1 11",
+   "solutionMoves": [
+    "f7f6",
+    "c1g5",
+    "f6g5",
+    "e5f7",
+    "g5f6",
+    "f7d8"
+   ],
+   "rating": 1460,
+   "themes": [
+    "advantage",
+    "attraction",
+    "exposedKing",
+    "fork",
+    "long",
+    "opening",
+    "sacrifice"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "0zrMA",
+   "fen": "2kr3r/pp1nqpp1/2Q1pn1p/8/3P1B1P/2PB4/PP3PP1/2KR3R b - - 0 18",
+   "solutionMoves": [
+    "b7c6",
+    "d3a6"
+   ],
+   "rating": 700,
+   "themes": [
+    "bodenMate",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "0zuxU",
+   "fen": "2r2rk1/p1qnbppp/5p2/1p1Q4/8/4BP2/PPP2PBP/1K1R3R w - - 1 15",
+   "solutionMoves": [
+    "d5d7",
+    "c7c2",
+    "b1a1",
+    "f8d8",
+    "g2h3",
+    "d8d7"
+   ],
+   "rating": 1697,
+   "themes": [
+    "advantage",
+    "long",
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "0zzdo",
+   "fen": "rn1qkbnr/pp3ppp/2p1p3/8/2BP4/2N2Q2/PPP3PP/R1B2RK1 b kq - 1 8",
+   "solutionMoves": [
+    "b8d7",
+    "f3f7"
+   ],
+   "rating": 498,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Rasa-Studier_Gambit"
+   ]
+  },
+  {
+   "id": "106yW",
+   "fen": "1k1r3r/pp1nq1pp/2pNBnb1/6B1/2QP4/8/PPP3PP/R4RK1 b - - 0 15",
+   "solutionMoves": [
+    "e7d6",
+    "g5f4",
+    "d6f4",
+    "f1f4"
+   ],
+   "rating": 1432,
+   "themes": [
+    "advantage",
+    "middlegame",
+    "pin",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_von_Hennig_Gambit"
+   ]
+  },
+  {
+   "id": "10JTQ",
+   "fen": "rn1qk2r/pp2pp2/2p1bp1b/7p/2QN4/1P5P/PB1P1PP1/R3KB1R w KQkq - 4 12",
+   "solutionMoves": [
+    "d4e6",
+    "d8d2"
+   ],
+   "rating": 588,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "10yXs",
+   "fen": "rn1q2k1/pp2p3/2p1R1B1/3p4/3b4/2P4Q/P1P2rPP/R1B3K1 w - - 0 16",
+   "solutionMoves": [
+    "g1h1",
+    "f2f1"
+   ],
+   "rating": 399,
+   "themes": [
+    "backRankMate",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Campomanes_Attack"
+   ]
+  },
+  {
+   "id": "zPjvT",
+   "fen": "rb2k1nr/pp3p1p/4p3/1N3pB1/5P2/7P/PPP3P1/2KR3R b kq - 2 17",
+   "solutionMoves": [
+    "h7h6",
+    "d1d8"
+   ],
+   "rating": 1209,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "11HU3",
+   "fen": "r2q3r/pp1n1kpb/2pbQn1p/8/2BP2P1/5N1P/PPP2P2/R1B1K2R b KQ - 0 14",
+   "solutionMoves": [
+    "f7f8",
+    "e6f7"
+   ],
+   "rating": 845,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Main_Line"
+   ]
+  },
+  {
+   "id": "11WFb",
+   "fen": "r6r/ppqbk3/n1p1ppB1/2Pp3p/3N1Pn1/8/PPP3PP/R1B1QRK1 w - - 4 16",
+   "solutionMoves": [
+    "f4f5",
+    "c7h2"
+   ],
+   "rating": 694,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "11jDC",
+   "fen": "r3kb1N/p5pp/8/1pqQnpB1/8/1BN4n/PPP3PP/R5K1 w q - 8 18",
+   "solutionMoves": [
+    "g1f1",
+    "c5f2"
+   ],
+   "rating": 923,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_von_Hennig_Gambit"
+   ]
+  },
+  {
+   "id": "11nXk",
+   "fen": "r2qk2r/pp3pp1/2n1p3/3pPnP1/2pP4/2N1B1P1/PPP2Q2/R4RK1 b kq - 0 16",
+   "solutionMoves": [
+    "f5e3",
+    "f2f7"
+   ],
+   "rating": 1222,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "121HM",
+   "fen": "r1bq2nr/1p3k2/p3p3/2bpn2p/6pP/2NB1PB1/PPP3PK/R2Q1R2 w - - 0 16",
+   "solutionMoves": [
+    "g3e5",
+    "d8h4"
+   ],
+   "rating": 769,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "12HSq",
+   "fen": "r1q1k2r/1QBnbppp/p3pn2/3p1b2/3P4/2N1PN2/PP3PPP/R3KB1R w KQkq - 3 11",
+   "solutionMoves": [
+    "f1a6",
+    "c8b7",
+    "a6b7",
+    "a8a7"
+   ],
+   "rating": 1598,
+   "themes": [
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "English_Opening English_Opening_Caro-Kann_Defensive_System"
+   ]
+  },
+  {
+   "id": "12WGs",
+   "fen": "rn1qk2r/1p2npp1/p3p3/3pN1Pp/3P3P/2B2Q2/PPP2P2/R3K2R b KQkq - 0 15",
+   "solutionMoves": [
+    "b8c6",
+    "f3f7"
+   ],
+   "rating": 593,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "12pLV",
+   "fen": "r2r2k1/ppq2ppp/5pb1/8/3B4/5BP1/PP2QP1P/R3R1K1 b - - 0 18",
+   "solutionMoves": [
+    "d8d4",
+    "e2e8",
+    "a8e8",
+    "e1e8"
+   ],
+   "rating": 648,
+   "themes": [
+    "backRankMate",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "sacrifice",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "1346W",
+   "fen": "r4rk1/ppqn1p1p/2p1pBp1/7Q/3P2N1/3B4/PPP2PP1/R3K3 b Q - 3 16",
+   "solutionMoves": [
+    "g6h5",
+    "g4h6"
+   ],
+   "rating": 695,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "buPQz",
+   "fen": "2r1kb1r/pp3ppp/1qn1p3/3pP3/3P2B1/NP2B3/n1R2PPP/3Q1RK1 b k - 1 15",
+   "solutionMoves": [
+    "b6b3",
+    "c2c6",
+    "b3d1",
+    "c6c8"
+   ],
+   "rating": 1564,
+   "themes": [
+    "advantage",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "bu3at",
+   "fen": "2r1k2r/pp2n1pp/4p3/2npPb2/5P2/P1B1qN2/1P2B1PP/2RQK2R w Kk - 5 18",
+   "solutionMoves": [
+    "c3d2",
+    "c5d3",
+    "e1f1",
+    "e3f2"
+   ],
+   "rating": 1002,
+   "themes": [
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "14GWZ",
+   "fen": "r1r3k1/5pp1/p1nqp1p1/1p1pN2n/3P1PPQ/2P4R/PP1N3P/R5K1 b - - 0 18",
+   "solutionMoves": [
+    "h5f4",
+    "h4h8"
+   ],
+   "rating": 785,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "btyZo",
+   "fen": "rnB1kb1r/pp2pppp/2p5/8/3qn3/2N5/PPPP1PPP/R1BQK2R w KQkq - 0 8",
+   "solutionMoves": [
+    "c8b7",
+    "d4f2"
+   ],
+   "rating": 972,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "zNjXb",
+   "fen": "r1bqk2r/pp2p1bp/2n5/4N3/3Pp3/8/PPP2PPP/R2QKB1R b KQkq - 1 10",
+   "solutionMoves": [
+    "c6d4",
+    "d1h5",
+    "e8f8",
+    "h5f7"
+   ],
+   "rating": 1314,
+   "themes": [
+    "mate",
+    "mateIn2",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zNbqH",
+   "fen": "r2q1rk1/1b3p2/p2bpn1Q/3pn2P/Np1P4/3B2R1/PPP2PP1/2KR4 b - - 1 17",
+   "solutionMoves": [
+    "e5g4",
+    "g3g4",
+    "f6g4",
+    "h6h7"
+   ],
+   "rating": 1402,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "sacrifice",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zNMDE",
+   "fen": "2r2rk1/1p1n1ppp/pq1np3/3p2N1/3P1B2/1P1Q4/P4PPP/R4RK1 b - - 2 17",
+   "solutionMoves": [
+    "h7h6",
+    "d3h7"
+   ],
+   "rating": 920,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "15U35",
+   "fen": "r2q1rk1/1p5p/2pbbpB1/8/p2P4/2P2P2/PPQ1N1P1/2KR3R b - - 0 18",
+   "solutionMoves": [
+    "h7g6",
+    "c2g6"
+   ],
+   "rating": 959,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "15hsf",
+   "fen": "rn1qr1k1/ppb2ppp/2p2pb1/8/2BP2PN/4B2P/PPP2P2/R2QR1K1 b - - 2 13",
+   "solutionMoves": [
+    "d8d6",
+    "e3f4",
+    "e8e1",
+    "d1e1"
+   ],
+   "rating": 1747,
+   "themes": [
+    "crushing",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "bt3kK",
+   "fen": "rnb1k1nr/pp3ppp/8/1Nb5/8/8/PPP2PPP/R1B1KB1R b KQkq - 1 9",
+   "solutionMoves": [
+    "c5b6",
+    "b5d6",
+    "e8f8",
+    "d6c8"
+   ],
+   "rating": 1255,
+   "themes": [
+    "advantage",
+    "fork",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Main_Line"
+   ]
+  },
+  {
+   "id": "15tyP",
+   "fen": "1br2rk1/ppq2ppp/2p2p2/3n2Nb/3P4/P1P3PP/1PQBBP2/R3R1K1 b - - 2 17",
+   "solutionMoves": [
+    "h5e2",
+    "c2h7"
+   ],
+   "rating": 841,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "164xm",
+   "fen": "r1bq1bk1/1p1n2pr/p1p1pnNp/8/3P4/3B4/PPP1QPPP/R1B1K2R b KQ - 5 12",
+   "solutionMoves": [
+    "f8d6",
+    "e2e6"
+   ],
+   "rating": 853,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "16CRT",
+   "fen": "r1bq1rk1/pp1n1p1p/2p3pQ/3pbB1N/5B2/8/P1P3PP/5R1K b - - 1 17",
+   "solutionMoves": [
+    "e5g7",
+    "h6g7"
+   ],
+   "rating": 955,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Campomanes_Attack"
+   ]
+  },
+  {
+   "id": "16Fdp",
+   "fen": "rn2kb1r/pp2pppp/2p2n2/3q4/2BP4/5b2/PPPN1PPP/R1BQK2R w KQkq - 0 8",
+   "solutionMoves": [
+    "c4d5",
+    "f3d1",
+    "d5f7",
+    "e8f7"
+   ],
+   "rating": 1149,
+   "themes": [
+    "advantage",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "16HBK",
+   "fen": "rn3rk1/p4ppp/2p1p3/1p1pP1qB/3Pb1N1/P1P1P2P/2P3P1/R2Q1RK1 w - - 4 16",
+   "solutionMoves": [
+    "g4h2",
+    "g5g2"
+   ],
+   "rating": 966,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "16cZy",
+   "fen": "rn1q3r/p3n1k1/1pp1pQpp/3pP3/3P1P2/2NP4/PP4PP/R4RK1 b - - 3 16",
+   "solutionMoves": [
+    "g7h7",
+    "f6f7"
+   ],
+   "rating": 1046,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "17Fji",
+   "fen": "r1bq2k1/pp3ppp/4p3/2b1N1P1/5P2/8/PPP1Q2P/2K2B1R w - - 0 17",
+   "solutionMoves": [
+    "e2c4",
+    "c5e3",
+    "c1b1",
+    "d8d1"
+   ],
+   "rating": 941,
+   "themes": [
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "queensideAttack",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "17GFz",
+   "fen": "r2qk2r/p2nbppp/1pn5/2ppPQN1/3P4/2P5/PP4PP/RNB2RK1 b kq - 2 13",
+   "solutionMoves": [
+    "e8g8",
+    "f5h7"
+   ],
+   "rating": 777,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "bsx31",
+   "fen": "r2q1k1r/1p3ppp/p1nb4/3Q1b2/2B2B2/5N2/PP3PPP/R3R1K1 b - - 0 14",
+   "solutionMoves": [
+    "d6f4",
+    "d5f7"
+   ],
+   "rating": 930,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+   ]
+  },
+  {
+   "id": "18XwX",
+   "fen": "r4rk1/1bq1npp1/p2bp2p/1p1pN3/3Pn3/2PQ1PB1/PP2N1PP/1BR2RK1 b - - 0 16",
+   "solutionMoves": [
+    "e4g3",
+    "d3h7"
+   ],
+   "rating": 720,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "zLhCn",
+   "fen": "rn2kbnr/pp2pppp/2b5/8/2Q5/2N5/PP1P1P1P/R1B1K2R b KQkq - 1 10",
+   "solutionMoves": [
+    "c6h1",
+    "c4c8"
+   ],
+   "rating": 800,
+   "themes": [
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zLguG",
+   "fen": "r1bq1rk1/4b1p1/p1p1pBQ1/1p4N1/8/PP2P3/3P1PPP/R3K2R b KQ - 0 17",
+   "solutionMoves": [
+    "f8f6",
+    "g6h7",
+    "g8f8",
+    "h7h8"
+   ],
+   "rating": 895,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "English_Opening English_Opening_Caro-Kann_Defensive_System"
+   ]
+  },
+  {
+   "id": "zLSEE",
+   "fen": "r2qr1k1/pp1nb1pp/2p1Rnb1/6B1/3P4/5NN1/PPP1QPPP/4R1K1 b - - 6 14",
+   "solutionMoves": [
+    "g6f7",
+    "e6e7",
+    "e8e7",
+    "e2e7",
+    "d8e7",
+    "e1e7"
+   ],
+   "rating": 1275,
+   "themes": [
+    "advantage",
+    "long",
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "19Fpq",
+   "fen": "r3k2r/ppqn1pp1/2p1pnp1/6B1/P1BP4/2P3P1/1P4PP/R2QK2R b KQkq - 0 13",
+   "solutionMoves": [
+    "c7g3",
+    "h2g3",
+    "h8h1",
+    "c4f1"
+   ],
+   "rating": 1320,
+   "themes": [
+    "advantage",
+    "defensiveMove",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "bswpX",
+   "fen": "r3kbnr/pp2pppp/8/q1P1P3/3Q4/2N1B3/PPP2PbP/2KR2NR b kq - 1 10",
+   "solutionMoves": [
+    "g2h1",
+    "d4d7"
+   ],
+   "rating": 1230,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "cC6u7",
+   "fen": "rn1k1b2/pp2pr2/2p4p/3n1b1Q/2BPq3/4B3/PPP2PPP/2KR3R w - - 0 16",
+   "solutionMoves": [
+    "h5f7",
+    "e4c2"
+   ],
+   "rating": 731,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "queensideAttack"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Alien_Gambit"
+   ]
+  },
+  {
+   "id": "1BNwc",
+   "fen": "r2q1bkr/pb4p1/4p2p/1Bp1P2Q/8/4P3/PPP3PP/R4RK1 b - - 0 16",
+   "solutionMoves": [
+    "d8d5",
+    "h5f7",
+    "g8h7",
+    "b5d3",
+    "d5d3",
+    "c2d3"
+   ],
+   "rating": 1149,
+   "themes": [
+    "crushing",
+    "long",
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Alien_Gambit"
+   ]
+  },
+  {
+   "id": "zKOvL",
+   "fen": "r1bqk1nr/1p3ppp/p1n5/2bpP3/3N4/2N1B1P1/PP3P1P/R2QKB1R b KQkq - 2 10",
+   "solutionMoves": [
+    "g8e7",
+    "d4c6",
+    "b7c6",
+    "e3c5"
+   ],
+   "rating": 1364,
+   "themes": [
+    "advantage",
+    "discoveredAttack",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "bsjrX",
+   "fen": "rn2k2r/pp3ppp/3b1n2/2p1q1N1/6b1/2NPB3/PPP1BPPP/R2Q1RK1 w kq - 4 11",
+   "solutionMoves": [
+    "e2g4",
+    "e5h2"
+   ],
+   "rating": 822,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Breyer_Variation"
+   ]
+  },
+  {
+   "id": "zJtGz",
+   "fen": "r4rk1/1b3ppp/3qpnN1/pp6/5B2/PB6/1PP1QPPP/R5K1 b - - 1 18",
+   "solutionMoves": [
+    "d6c6",
+    "g6e7",
+    "g8h8",
+    "e7c6"
+   ],
+   "rating": 944,
+   "themes": [
+    "advantage",
+    "fork",
+    "master",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "bsc3U",
+   "fen": "rn1qkb1r/4pbp1/p1p1Bn1p/1p2N3/3P4/3Q4/PPP2PPP/R1B1K2R b KQkq - 0 12",
+   "solutionMoves": [
+    "f7e6",
+    "d3g6",
+    "e6f7",
+    "g6f7"
+   ],
+   "rating": 862,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn2",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Martian_Gambit"
+   ]
+  },
+  {
+   "id": "bsaaD",
+   "fen": "r1b2rk1/2q2ppp/p2bpn2/1p1pN3/3P1PP1/2NB3Q/PPP4P/R3K2R b KQ - 0 14",
+   "solutionMoves": [
+    "f6e4",
+    "c3e4",
+    "d5e4",
+    "d3e4"
+   ],
+   "rating": 1352,
+   "themes": [
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "zJ9Eg",
+   "fen": "2r2rk1/ppqn1pp1/4p2P/2bp2p1/6P1/1P1P2N1/PBP1QP2/2KR3R b - - 0 18",
+   "solutionMoves": [
+    "g7g6",
+    "h6h7"
+   ],
+   "rating": 810,
+   "themes": [
+    "advancedPawn",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Euwe_Attack"
+   ]
+  },
+  {
+   "id": "zJ6vv",
+   "fen": "2kr4/pp1nqpp1/2Q1pnp1/6N1/1bBP1B2/8/P1P2Pr1/2KRR3 b - - 0 16",
+   "solutionMoves": [
+    "b7c6",
+    "c4a6"
+   ],
+   "rating": 705,
+   "themes": [
+    "bodenMate",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "brPUx",
+   "fen": "r2q1rk1/5p2/p1n1pN1p/1p1p4/3P3b/2PQ3P/PPB2PP1/R4RK1 b - - 1 18",
+   "solutionMoves": [
+    "d8f6",
+    "d3h7"
+   ],
+   "rating": 480,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "cDNZd",
+   "fen": "rnb2bk1/pp4pr/2p1BnNp/8/3q2P1/8/PPP1QP1P/R1B1K2R b KQ - 0 13",
+   "solutionMoves": [
+    "c8e6",
+    "e2e6"
+   ],
+   "rating": 623,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "1DoRX",
+   "fen": "r3k2r/pp3pp1/3qpnp1/3p4/3P4/2N2Q2/PPP2PPP/R4RK1 w kq - 4 14",
+   "solutionMoves": [
+    "c3b5",
+    "d6h2"
+   ],
+   "rating": 451,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1DtmU",
+   "fen": "3rkbnr/p2n2pp/1pp2p2/4p3/1PN1P3/2P1BP2/P1K3PP/R5NR b k - 0 12",
+   "solutionMoves": [
+    "g8e7",
+    "c4d6"
+   ],
+   "rating": 621,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zJ1xR",
+   "fen": "r1bq1rk1/1p3pp1/p2b3p/3p4/2nN4/2PQB2P/PPB2PP1/R4RK1 b - - 2 15",
+   "solutionMoves": [
+    "c4e3",
+    "d3h7"
+   ],
+   "rating": 794,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "zIavL",
+   "fen": "1br2rk1/1p3p2/p1nqpnbQ/3p4/3P3N/P1N4P/1PP1BPP1/3R1RK1 w - - 3 18",
+   "solutionMoves": [
+    "h4g6",
+    "d6h2"
+   ],
+   "rating": 506,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zIUEB",
+   "fen": "r2qk2r/pp3Npb/n1p1pb1p/7P/2BP1P2/4Q1N1/PPP3P1/2KR3R b kq - 0 16",
+   "solutionMoves": [
+    "e8f7",
+    "e3e6",
+    "f7f8",
+    "e6f7"
+   ],
+   "rating": 997,
+   "themes": [
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "1Ejwz",
+   "fen": "1r2k2r/2b2ppp/p1pqpn2/3p2B1/3P4/5P1P/PPP1NP2/1R1Q1RK1 w k - 5 16",
+   "solutionMoves": [
+    "g5f6",
+    "d6h2"
+   ],
+   "rating": 692,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1ElTZ",
+   "fen": "r3k1nr/ppb2ppp/3qp3/3pn3/8/PB1PBN2/1PP2PPP/R2Q1RK1 w kq - 1 12",
+   "solutionMoves": [
+    "e3f4",
+    "e5f3",
+    "d1f3",
+    "d6f4",
+    "f3f4",
+    "c7f4"
+   ],
+   "rating": 850,
+   "themes": [
+    "advantage",
+    "discoveredAttack",
+    "kingsideAttack",
+    "long",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+   ]
+  },
+  {
+   "id": "zI62S",
+   "fen": "r4rk1/3b1pp1/ppnqp2p/8/2B3n1/P1NP1N2/1PQ2PPP/3R1RK1 w - - 2 18",
+   "solutionMoves": [
+    "h2h3",
+    "c6d4",
+    "h3g4",
+    "d4c2"
+   ],
+   "rating": 1584,
+   "themes": [
+    "crushing",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Accelerated_Panov_Attack"
+   ]
+  },
+  {
+   "id": "1ErE9",
+   "fen": "r3kb1r/pp3ppp/4p3/4n2q/4N1n1/5N2/PP1PBPP1/R1BQ1RK1 w kq - 2 12",
+   "solutionMoves": [
+    "e4g3",
+    "e5f3",
+    "g2f3",
+    "h5h2"
+   ],
+   "rating": 1176,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Accelerated_Panov_Attack"
+   ]
+  },
+  {
+   "id": "1F07Y",
+   "fen": "1rb2rk1/5ppp/p1p1pq2/3p2b1/NP1Pn3/P3B1PP/2P2P2/R2QKB1R w KQ - 1 16",
+   "solutionMoves": [
+    "e3g5",
+    "f6f2"
+   ],
+   "rating": 1075,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "1F8Hp",
+   "fen": "r1bqkb1r/pp1np1p1/2p1pn1p/7Q/3P4/3B4/PPP2PPP/R1B1K1NR b KQkq - 1 8",
+   "solutionMoves": [
+    "f6h5",
+    "d3g6"
+   ],
+   "rating": 643,
+   "themes": [
+    "bodenMate",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Karpov_Variation"
+   ]
+  },
+  {
+   "id": "1FAC7",
+   "fen": "2kr1b2/pp4p1/2p2nB1/3qn3/5B2/6Q1/PPP2PP1/2K4R w - - 0 18",
+   "solutionMoves": [
+    "f4e5",
+    "d5d2",
+    "c1b1",
+    "d2d1",
+    "h1d1",
+    "d8d1"
+   ],
+   "rating": 1080,
+   "themes": [
+    "backRankMate",
+    "long",
+    "mate",
+    "mateIn3",
+    "middlegame",
+    "sacrifice"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "1FBjw",
+   "fen": "r4rk1/pp1q1ppp/1bp1p3/3nPnN1/1P1P2P1/P2Q4/1B2NP1P/2R2RK1 b - - 0 18",
+   "solutionMoves": [
+    "f5e7",
+    "d3h7"
+   ],
+   "rating": 596,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "br3kX",
+   "fen": "r2qk2r/pp1nbpp1/2p1p2p/4N3/2BPb1PB/7P/PPP2Q2/2KR3R b kq - 1 15",
+   "solutionMoves": [
+    "e7h4",
+    "f2f7"
+   ],
+   "rating": 583,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1FdrL",
+   "fen": "rn1qkb1r/pp2pppp/5n2/4N3/2B2Nb1/8/PPQP1PPP/R1B1K2R b KQkq - 4 9",
+   "solutionMoves": [
+    "b8c6",
+    "c4f7"
+   ],
+   "rating": 1343,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zHmAR",
+   "fen": "r2q2kr/pp1np3/2p2p1b/7p/3P4/2N2Q2/PPP3PP/R1B2RK1 w - - 2 13",
+   "solutionMoves": [
+    "f3h5",
+    "h6e3",
+    "c1e3",
+    "h8h5"
+   ],
+   "rating": 999,
+   "themes": [
+    "advantage",
+    "collinearMove",
+    "discoveredAttack",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_von_Hennig_Gambit"
+   ]
+  },
+  {
+   "id": "zHeO9",
+   "fen": "rb1q1rk1/pb3pp1/1p2p2p/nN6/3P2n1/3QBN2/PP3PPP/1B1R1RK1 b - - 7 18",
+   "solutionMoves": [
+    "b7f3",
+    "d3h7"
+   ],
+   "rating": 602,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Accelerated_Panov_Attack"
+   ]
+  },
+  {
+   "id": "cEYVJ",
+   "fen": "r1b1kb1r/ppB1pppp/2p5/8/1q2n3/2P3Q1/PP3PPP/3RKBNR b Kkq - 0 11",
+   "solutionMoves": [
+    "e4g3",
+    "d1d8"
+   ],
+   "rating": 619,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening",
+    "operaMate"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zHQUG",
+   "fen": "r2qk2r/pp1n1N1p/2p1pbpB/8/3P4/2P5/PP2QPPP/R3R1K1 b kq - 0 14",
+   "solutionMoves": [
+    "e8f7",
+    "e2e6"
+   ],
+   "rating": 399,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Main_Line"
+   ]
+  },
+  {
+   "id": "1GVlg",
+   "fen": "r1b2rk1/ppqn2bp/2p2pp1/8/N2pP1nB/P1PB4/1P1QN1PP/R4RK1 w - - 0 16",
+   "solutionMoves": [
+    "c3d4",
+    "c7h2"
+   ],
+   "rating": 616,
+   "themes": [
+    "kingsideAttack",
+    "master",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "zHAEV",
+   "fen": "rnb2rk1/pp3ppp/2p2p2/8/1b6/3BB3/PqPN1PPP/R2Q1RK1 b - - 5 10",
+   "solutionMoves": [
+    "f8e8",
+    "d2c4",
+    "b2a1",
+    "d1a1"
+   ],
+   "rating": 1608,
+   "themes": [
+    "crushing",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Alekhine_Gambit"
+   ]
+  },
+  {
+   "id": "zGpi8",
+   "fen": "rn2qrk1/3pb1pp/2p1pN2/p3N3/3P4/3Q4/PPB2PPP/R1B2K2 b - - 0 17",
+   "solutionMoves": [
+    "e7f6",
+    "d3h7"
+   ],
+   "rating": 525,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zGo7L",
+   "fen": "rn1q1bkr/pp2p1pb/2p2n1p/4N3/2BP4/5Q2/PPP2PPP/R1B1K2R b KQ - 7 10",
+   "solutionMoves": [
+    "e7e6",
+    "c4e6"
+   ],
+   "rating": 871,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Alien_Gambit"
+   ]
+  },
+  {
+   "id": "zGVoU",
+   "fen": "rn1qkb1r/pp1npppb/7p/1Bp1N3/3P2PP/5P2/PPP5/R1BQK1NR w KQkq - 2 13",
+   "solutionMoves": [
+    "d4c5",
+    "d8a5",
+    "c2c3",
+    "a5b5"
+   ],
+   "rating": 881,
+   "themes": [
+    "advantage",
+    "fork",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Main_Line"
+   ]
+  },
+  {
+   "id": "1Hto2",
+   "fen": "2r2rk1/pp3ppp/1q2p3/3pP3/3P2P1/bP1QP2R/P6P/R5K1 b - - 4 18",
+   "solutionMoves": [
+    "b6b4",
+    "d3h7"
+   ],
+   "rating": 540,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zGHpu",
+   "fen": "r2qk1nr/pp1np3/2pN1ppb/6Np/3P3P/3Q4/PPP2PP1/R1B1K2R b KQkq - 1 12",
+   "solutionMoves": [
+    "e7d6",
+    "d3g6",
+    "e8e7",
+    "g6f7"
+   ],
+   "rating": 1070,
+   "themes": [
+    "mate",
+    "mateIn2",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "bqECB",
+   "fen": "r3kb1r/5pp1/p3p1p1/3pP3/7q/2N2Q2/PP3PPP/3R1RK1 w kq - 2 17",
+   "solutionMoves": [
+    "g2g3",
+    "h4h2"
+   ],
+   "rating": 547,
+   "themes": [
+    "kingsideAttack",
+    "master",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "1Iboz",
+   "fen": "r4rk1/2q1nppp/p1n1p3/3p4/1p1P2b1/2PQ1NP1/PPBN2PP/R4RK1 b - - 2 15",
+   "solutionMoves": [
+    "b4c3",
+    "d3h7"
+   ],
+   "rating": 668,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "1IuT4",
+   "fen": "6rk/pp2qprp/2n1pn1Q/3p1pN1/3P1P2/2P4R/PP1N2PP/R5K1 b - - 0 18",
+   "solutionMoves": [
+    "f6g4",
+    "h6h7",
+    "g7h7",
+    "h3h7"
+   ],
+   "rating": 1193,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "sacrifice",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "cF4vn",
+   "fen": "r4rk1/p1q1bppp/4p3/2pp2B1/Q2P2n1/2P5/PP1N1PPP/R4RK1 w - - 0 14",
+   "solutionMoves": [
+    "g5e7",
+    "c7h2"
+   ],
+   "rating": 734,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "zF8X3",
+   "fen": "r2k3r/pp1n2p1/2p1pn1p/q7/2PP2P1/3Q1N1P/PP1K1P2/R5NR w - - 1 17",
+   "solutionMoves": [
+    "d3c3",
+    "f6e4",
+    "d2c2",
+    "e4c3"
+   ],
+   "rating": 985,
+   "themes": [
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Main_Line"
+   ]
+  },
+  {
+   "id": "1Jkoz",
+   "fen": "r3k1nr/p4ppp/1qp1P3/2b1P3/8/5N2/PP3PPP/RNBQ1bK1 b kq - 0 11",
+   "solutionMoves": [
+    "f1a6",
+    "d1d7",
+    "e8f8",
+    "d7f7"
+   ],
+   "rating": 1125,
+   "themes": [
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "1Jndu",
+   "fen": "r4rk1/ppqn2pp/4pp2/5b2/2BPn2N/PQP5/5PPP/R1B2RK1 b - - 0 15",
+   "solutionMoves": [
+    "d7b6",
+    "c4e6",
+    "f5e6",
+    "b3e6"
+   ],
+   "rating": 806,
+   "themes": [
+    "advantage",
+    "kingsideAttack",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zF2K6",
+   "fen": "r1bq1rk1/1p3pp1/p1nPp1np/3p4/3P1B2/P2Q4/1P2NPPP/RB3RK1 b - - 0 16",
+   "solutionMoves": [
+    "g6f4",
+    "d3h7"
+   ],
+   "rating": 481,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "bpcc9",
+   "fen": "r4rk1/pp3ppp/2n5/1B1pP3/Q4Pb1/1N5n/PP4PP/R1B2RqK w - - 10 18",
+   "solutionMoves": [
+    "f1g1",
+    "h3f2"
+   ],
+   "rating": 898,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "smotheredMate"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "1KOnA",
+   "fen": "r3kb1r/pp3ppp/1q2p3/2npP3/1P6/P1NPnN2/5PPP/R2Q1RK1 w kq - 0 13",
+   "solutionMoves": [
+    "b4c5",
+    "e3d1",
+    "c5b6",
+    "d1c3"
+   ],
+   "rating": 1637,
+   "themes": [
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "1KWt8",
+   "fen": "rn2k2r/ppq3pp/2pbp3/4N3/8/8/PPPPQPPP/R1B1K2R w KQkq - 2 11",
+   "solutionMoves": [
+    "e2h5",
+    "g7g6",
+    "e5g6",
+    "c7f7"
+   ],
+   "rating": 1674,
+   "themes": [
+    "advantage",
+    "defensiveMove",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "1Kmgt",
+   "fen": "r3kbnr/1pq3p1/2pp1pp1/p2Pn3/P3PBP1/2NB3P/1PP5/R2QK2R w KQkq - 0 14",
+   "solutionMoves": [
+    "d1d2",
+    "e5f3",
+    "e1d1",
+    "f3d2"
+   ],
+   "rating": 863,
+   "themes": [
+    "advantage",
+    "fork",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zE8xK",
+   "fen": "rn2k1r1/pp3pPp/1qp5/8/N1b1P3/5N1P/PPP1KbP1/R1BQ1B1R w q - 3 13",
+   "solutionMoves": [
+    "e2d2",
+    "b6e3"
+   ],
+   "rating": 1000,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "1LNVM",
+   "fen": "r4rk1/1q1nbpp1/p1pNp3/1p2PnNp/P2P3P/3Q2P1/1P3P2/R1B2RK1 b - - 1 18",
+   "solutionMoves": [
+    "f5d6",
+    "d3h7"
+   ],
+   "rating": 400,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "1LUQ5",
+   "fen": "2r1k2r/2q2pp1/p1p1p1p1/2Pp1bB1/Nb1P2P1/1P6/P3QP1P/R4RK1 w k - 1 18",
+   "solutionMoves": [
+    "g4f5",
+    "c7h2"
+   ],
+   "rating": 564,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "bpcQt",
+   "fen": "r1bqk2r/pp3ppp/2pbpn2/4N3/3P1Q2/3B4/PPP2PPP/R1B1K2R b KQkq - 3 10",
+   "solutionMoves": [
+    "f6d7",
+    "f4f7"
+   ],
+   "rating": 583,
+   "themes": [
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "zCora",
+   "fen": "rn3r2/pp1q1kpp/2p1Bpb1/2b5/3N1PP1/8/PPP1Q2P/R1B2RK1 b - - 0 16",
+   "solutionMoves": [
+    "d7e6",
+    "e2e6"
+   ],
+   "rating": 569,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "1Lhw2",
+   "fen": "r1bqkbnr/pp1n2pp/2p1pp2/8/3PN3/P2B1N2/1PP2PPP/R1BQK2R b KQkq - 1 7",
+   "solutionMoves": [
+    "g8e7",
+    "e4d6"
+   ],
+   "rating": 1012,
+   "themes": [
+    "master",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1LoDg",
+   "fen": "1k1r3r/2q2ppp/Q3p3/3pPb2/3n1P2/8/PPP3PP/2KR1B1R w - - 0 18",
+   "solutionMoves": [
+    "d1d4",
+    "c7c2"
+   ],
+   "rating": 509,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "queensideAttack"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "zCMPa",
+   "fen": "rnbq2k1/pp3Rpp/2p5/8/2Bbr3/4B3/PPP3PP/R2Q2K1 b - - 0 13",
+   "solutionMoves": [
+    "d4e3",
+    "f7f2",
+    "d8d5",
+    "c4d5"
+   ],
+   "rating": 1714,
+   "themes": [
+    "crushing",
+    "discoveredAttack",
+    "discoveredCheck",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "zCJhO",
+   "fen": "r4rk1/pp2nppp/4p3/q2pP3/1b1n4/P1N2P2/1P1B1P1P/R2QKB1R w KQ - 1 14",
+   "solutionMoves": [
+    "a3b4",
+    "a5a1",
+    "d1a1",
+    "d4c2",
+    "e1d1",
+    "c2a1"
+   ],
+   "rating": 1623,
+   "themes": [
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Accelerated_Panov_Attack"
+   ]
+  },
+  {
+   "id": "bo3v9",
+   "fen": "r2q1rk1/pp1nbppp/4p3/1B1N4/1n4Q1/1P5P/PBPP1PP1/2KR3R b - - 0 13",
+   "solutionMoves": [
+    "b4d5",
+    "g4g7"
+   ],
+   "rating": 554,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "1M9t4",
+   "fen": "rn1qk2r/pp3ppp/5n2/b1p5/2B1P1b1/1NP1BQ2/PP4PP/RN2K2R w KQkq - 4 12",
+   "solutionMoves": [
+    "f3f2",
+    "d8d1"
+   ],
+   "rating": 572,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "bnPT8",
+   "fen": "rn1qkb1r/pp2p1pb/2p1P2P/3p4/3Pn3/8/PPP4P/RNBQKBNR b KQkq - 0 10",
+   "solutionMoves": [
+    "g7h6",
+    "d1h5",
+    "h7g6",
+    "h5g6"
+   ],
+   "rating": 508,
+   "themes": [
+    "mate",
+    "mateIn2",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "1MtAY",
+   "fen": "r2qkbnr/1p3ppp/p1n1p1b1/3pN3/3P2P1/2NB1Q2/PPP2P1P/R1B1K2R b KQkq - 2 9",
+   "solutionMoves": [
+    "g6d3",
+    "f3f7"
+   ],
+   "rating": 808,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "zByf6",
+   "fen": "rn2k2r/pp2n1pp/2p1p3/2b5/3NP2q/2N5/PPP3PP/R1BQ1K1R w kq - 5 11",
+   "solutionMoves": [
+    "d4f3",
+    "h4f2"
+   ],
+   "rating": 766,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "zBrEv",
+   "fen": "rn2r1k1/p4p1p/2pb1pp1/1p6/q2Pb1P1/2P1BN1P/PP2BP2/Q1KR3R w - - 9 17",
+   "solutionMoves": [
+    "h1g1",
+    "a4c2"
+   ],
+   "rating": 676,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "1NLb9",
+   "fen": "r4rk1/pp1qnpnp/4p1pQ/3p2N1/3P2P1/2N5/PPP2P1P/R4RK1 b - - 4 16",
+   "solutionMoves": [
+    "f7f6",
+    "h6h7"
+   ],
+   "rating": 760,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Gurgenidze_System"
+   ]
+  },
+  {
+   "id": "1NRkA",
+   "fen": "r4rk1/pbqn1ppp/2p5/1p2PQN1/2pP4/P7/3BB1PP/b4RK1 b - - 1 18",
+   "solutionMoves": [
+    "c6c5",
+    "f5h7"
+   ],
+   "rating": 739,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "English_Opening English_Opening_Caro-Kann_Defensive_System"
+   ]
+  },
+  {
+   "id": "1NrHe",
+   "fen": "2rqkb1r/pQ2pppp/8/3pP3/2P1n1b1/8/PP3PPP/RNB1KB1R w KQk - 1 10",
+   "solutionMoves": [
+    "c4d5",
+    "c8c1"
+   ],
+   "rating": 1375,
+   "themes": [
+    "hangingPiece",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+   ]
+  },
+  {
+   "id": "zBRvQ",
+   "fen": "r1b4k/p4ppp/n1p1p3/1p4N1/1b1r4/1B2B1Q1/Pq3PPP/2RK3R w - - 0 17",
+   "solutionMoves": [
+    "e3d4",
+    "b2d2"
+   ],
+   "rating": 1188,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1OEXn",
+   "fen": "r3kbnr/pp1npppp/2p2q2/8/6Q1/2N1B2P/PPP3P1/2KR1B1R b kq - 5 10",
+   "solutionMoves": [
+    "h7h5",
+    "g4d7"
+   ],
+   "rating": 583,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Rasa-Studier_Gambit"
+   ]
+  },
+  {
+   "id": "1OJ30",
+   "fen": "r4rk1/1b3ppp/pq2p3/1p1n3Q/3nN3/P1BB4/1P3PPP/R3R1K1 b - - 1 17",
+   "solutionMoves": [
+    "d5c3",
+    "e4f6",
+    "g7f6",
+    "h5h7"
+   ],
+   "rating": 1092,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "sacrifice",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Accelerated_Panov_Attack"
+   ]
+  },
+  {
+   "id": "zAl84",
+   "fen": "r2q3r/pp1n1kp1/2pbpn1p/5Q1P/2B5/8/PP1P1PP1/R1B2RK1 b - - 0 16",
+   "solutionMoves": [
+    "d7b6",
+    "f5e6",
+    "f7f8",
+    "e6f7"
+   ],
+   "rating": 1133,
+   "themes": [
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "zASCh",
+   "fen": "rnbq1rkn/pp2bppp/4p3/2ppP2P/3P4/2PB1NP1/PPQ2P2/RNB1K2R b KQ - 2 10",
+   "solutionMoves": [
+    "h7h6",
+    "d3h7"
+   ],
+   "rating": 738,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "1PEDQ",
+   "fen": "rnb2rk1/pp2bpp1/4p2p/7q/2BQ4/5NR1/PPP2PP1/R1B2K2 b - - 0 14",
+   "solutionMoves": [
+    "b8c6",
+    "d4g7"
+   ],
+   "rating": 663,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "1PUo3",
+   "fen": "r3kb1r/pp1bpppp/5nq1/1B1N2N1/3Q4/8/PP3PPP/R1B2RK1 b kq - 4 13",
+   "solutionMoves": [
+    "d7b5",
+    "d5c7"
+   ],
+   "rating": 911,
+   "themes": [
+    "cornerMate",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Accelerated_Panov_Attack"
+   ]
+  },
+  {
+   "id": "1PjnS",
+   "fen": "r2qrnk1/pp3ppp/3b1p2/2p5/2PP4/3QBN2/PP3PPP/R4RK1 w - - 0 14",
+   "solutionMoves": [
+    "d4c5",
+    "d6h2",
+    "f3h2",
+    "d8d3"
+   ],
+   "rating": 781,
+   "themes": [
+    "advantage",
+    "discoveredAttack",
+    "kingsideAttack",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "1Plvb",
+   "fen": "r3r1k1/ppb1q1pp/4p3/2P2p2/4n3/1Q2BN2/PP3PPP/R3R1K1 w - - 0 18",
+   "solutionMoves": [
+    "b3b7",
+    "c7h2",
+    "g1h2",
+    "e7b7"
+   ],
+   "rating": 1358,
+   "themes": [
+    "crushing",
+    "discoveredAttack",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "1PmvH",
+   "fen": "r3r1k1/pp1b1p2/4pBpQ/2bpP2p/8/2N5/PqP2PPP/R4RK1 b - - 3 17",
+   "solutionMoves": [
+    "c5f8",
+    "h6h8"
+   ],
+   "rating": 773,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "z9pxO",
+   "fen": "r3k2r/1p1bbppp/pqn1pn2/3p4/Q2P1B2/1NPB1N2/PP3PPP/R4RK1 w kq - 2 12",
+   "solutionMoves": [
+    "f3e5",
+    "c6e5",
+    "d4e5",
+    "d7a4"
+   ],
+   "rating": 1133,
+   "themes": [
+    "crushing",
+    "discoveredAttack",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "cGM2B",
+   "fen": "rn2k1nr/pp3ppp/1qp5/3pP3/4P2P/5P1R/PPP2bP1/RNBQKB2 w Qkq - 1 8",
+   "solutionMoves": [
+    "e1d2",
+    "b6e3"
+   ],
+   "rating": 856,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "1QU7U",
+   "fen": "r3k2r/pp1nb2p/1q2Qpb1/1B6/5B2/2P5/PP3PPP/2KR3R w kq - 3 15",
+   "solutionMoves": [
+    "d1d7",
+    "b6e6",
+    "d7d6",
+    "e8f7",
+    "d6e6",
+    "f7e6"
+   ],
+   "rating": 1317,
+   "themes": [
+    "advantage",
+    "hangingPiece",
+    "long",
+    "master",
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "1QblR",
+   "fen": "r3k2r/pp1n1pp1/2pqp1p1/3n4/3P4/2P3N1/PP1QNPPP/R4RK1 w kq - 0 14",
+   "solutionMoves": [
+    "g3e4",
+    "d6h2"
+   ],
+   "rating": 556,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "z9Vqm",
+   "fen": "r1b2rk1/pp4pp/1b2pp2/8/1P6/P1qB1QPP/2P2P1K/R4R2 b - - 1 18",
+   "solutionMoves": [
+    "e6e5",
+    "d3h7",
+    "g8h7",
+    "f3c3"
+   ],
+   "rating": 1653,
+   "themes": [
+    "advantage",
+    "discoveredAttack",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1RVWV",
+   "fen": "r1b2rk1/pp3pp1/4pn2/4q1N1/3nN2Q/8/PP3PPP/R4RK1 b - - 3 16",
+   "solutionMoves": [
+    "d4f5",
+    "e4f6",
+    "g7f6",
+    "h4h7"
+   ],
+   "rating": 1158,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+   ]
+  },
+  {
+   "id": "z9HAj",
+   "fen": "r2qkb1r/1p1n1ppp/p4n2/3p2B1/3P4/2N2Q1P/PP3PP1/R3KB1R w KQkq - 2 11",
+   "solutionMoves": [
+    "c3d5",
+    "d8a5",
+    "d5c3",
+    "a5g5"
+   ],
+   "rating": 1419,
+   "themes": [
+    "advantage",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+   ]
+  },
+  {
+   "id": "z92At",
+   "fen": "r3kb1r/pp1n2pp/1qp1N1n1/3pP3/3P2p1/2NQ3P/PPP2PK1/R1B4R w kq - 0 14",
+   "solutionMoves": [
+    "d3f5",
+    "g6h4",
+    "g2f1",
+    "h4f5"
+   ],
+   "rating": 1146,
+   "themes": [
+    "crushing",
+    "fork",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "bmcZE",
+   "fen": "r2r3k/pq1n1p1p/2p2p1Q/4b3/8/2PB1P2/PP3P1P/2KR2R1 b - - 3 18",
+   "solutionMoves": [
+    "d7f8",
+    "h6g7"
+   ],
+   "rating": 1201,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "1Sc4f",
+   "fen": "rn2k2r/pp3ppp/2p2n2/4q1B1/4P3/2N5/PP3QPP/R4RK1 b kq - 1 15",
+   "solutionMoves": [
+    "f6g4",
+    "f2f7"
+   ],
+   "rating": 423,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "z8fFx",
+   "fen": "rn1qkb1r/pp3ppp/2p1p3/3pP3/3n1P2/2NP1b2/PPPB2PP/R2QKB1R w KQkq - 0 10",
+   "solutionMoves": [
+    "g2f3",
+    "d8h4"
+   ],
+   "rating": 1066,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1SeUA",
+   "fen": "2r2rk1/1p3ppp/p3p3/3pP1q1/3P4/2PQ3R/PP4PP/R5K1 b - - 1 18",
+   "solutionMoves": [
+    "b7b5",
+    "d3h7"
+   ],
+   "rating": 612,
+   "themes": [
+    "endgame",
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Apocalypse_Attack"
+   ]
+  },
+  {
+   "id": "z7yjU",
+   "fen": "r3k1nr/pp3pp1/4p3/3pn2p/1bPp3P/1N4Q1/P1q1NPP1/R1B2K1R w kq - 2 15",
+   "solutionMoves": [
+    "g3e5",
+    "c2d1"
+   ],
+   "rating": 1193,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "z7kq6",
+   "fen": "3rk2r/pp3ppp/4p3/3q4/1b1n1BP1/5N1P/PP2QP2/R4K1R w k - 0 17",
+   "solutionMoves": [
+    "f3d4",
+    "d5h1"
+   ],
+   "rating": 788,
+   "themes": [
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Accelerated_Panov_Attack"
+   ]
+  },
+  {
+   "id": "1Td7e",
+   "fen": "3rr1k1/ppq2ppp/2n1pb2/3B4/1P2Q3/P7/3P1PPP/RNB1R1K1 b - - 0 17",
+   "solutionMoves": [
+    "e6d5",
+    "e4e8",
+    "d8e8",
+    "e1e8"
+   ],
+   "rating": 721,
+   "themes": [
+    "backRankMate",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1TdB3",
+   "fen": "r2qnrk1/p4ppp/1n1pb2b/2p4N/1p2PP2/4B3/PPPQ3P/1NKR1BR1 b - - 1 17",
+   "solutionMoves": [
+    "a8c8",
+    "f4f5",
+    "h6e3",
+    "d2e3"
+   ],
+   "rating": 1746,
+   "themes": [
+    "advantage",
+    "master",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "bm3jU",
+   "fen": "2rq1rk1/1b3ppp/p3pn2/2bp2N1/8/1P1Q2N1/PBP2PPP/R4RK1 b - - 1 15",
+   "solutionMoves": [
+    "h7h6",
+    "b2f6",
+    "h6g5",
+    "f6d8"
+   ],
+   "rating": 1346,
+   "themes": [
+    "advantage",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Euwe_Attack"
+   ]
+  },
+  {
+   "id": "z7cIY",
+   "fen": "r3k2r/pR1n1ppp/2p1pn2/8/8/q2BQ1NP/P1PK1PP1/R7 b kq - 0 15",
+   "solutionMoves": [
+    "e8g8",
+    "d3h7",
+    "g8h7",
+    "e3a3"
+   ],
+   "rating": 1111,
+   "themes": [
+    "advantage",
+    "discoveredAttack",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Main_Line"
+   ]
+  },
+  {
+   "id": "1Tocm",
+   "fen": "r4k1r/pp3pp1/4p1p1/1Q1p4/1n1Pn1P1/qN2BN1P/2P2P2/1K1R3R w - - 6 18",
+   "solutionMoves": [
+    "b5a5",
+    "e4c3"
+   ],
+   "rating": 1246,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "z7CBX",
+   "fen": "r2q1bkr/pp1npNp1/5n1p/8/3p4/3B4/PPP1QPPP/R1B1R1K1 b - - 0 13",
+   "solutionMoves": [
+    "g8f7",
+    "e2e6",
+    "f7e8",
+    "d3g6"
+   ],
+   "rating": 1575,
+   "themes": [
+    "mate",
+    "mateIn2",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Alien_Gambit"
+   ]
+  },
+  {
+   "id": "1Ug9n",
+   "fen": "2r2rk1/ppq1bppp/2p1pn2/8/7Q/1P1B3P/PBP2PP1/R2R2K1 b - - 8 18",
+   "solutionMoves": [
+    "g7g6",
+    "b2f6",
+    "e7f6",
+    "h4f6"
+   ],
+   "rating": 1143,
+   "themes": [
+    "advantage",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1Uh4v",
+   "fen": "rb2k2r/1pq1nppp/p1n5/3p4/3P4/2N1Bb1P/PP2BPP1/2RQ1RK1 w kq - 0 15",
+   "solutionMoves": [
+    "e2f3",
+    "c7h2"
+   ],
+   "rating": 400,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "1UmcB",
+   "fen": "5rk1/pp3pp1/3b3p/3pq3/8/2PQ2N1/PP3PPP/5RK1 w - - 0 18",
+   "solutionMoves": [
+    "g3f5",
+    "e5h2"
+   ],
+   "rating": 636,
+   "themes": [
+    "endgame",
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "1VKFj",
+   "fen": "rn3rk1/p3ppbp/2p3p1/1p2P3/3P1B2/1bP2N1P/1PKQ2P1/qB1R3R w - - 7 18",
+   "solutionMoves": [
+    "c2b3",
+    "a1a4"
+   ],
+   "rating": 844,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Gurgenidze_System"
+   ]
+  },
+  {
+   "id": "z6S3d",
+   "fen": "r3r1k1/pp3ppp/2nb1n2/3pq3/B7/2NP4/PP1Q1PPP/R1B2RK1 w - - 5 16",
+   "solutionMoves": [
+    "c3b5",
+    "e5h2"
+   ],
+   "rating": 722,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+   ]
+  },
+  {
+   "id": "blZdH",
+   "fen": "r3kb1r/1p4p1/p3p1p1/3p1p2/3P2Pq/2NQBK2/PPP2P2/R4R2 w kq - 0 17",
+   "solutionMoves": [
+    "f1h1",
+    "h4g4"
+   ],
+   "rating": 1067,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "1VlGQ",
+   "fen": "rn2k2r/pp3p2/q1p1p3/3pP1Qp/1P1n4/P7/2PB1PPP/RN2K2R w KQkq - 0 15",
+   "solutionMoves": [
+    "a1a2",
+    "a6e2"
+   ],
+   "rating": 931,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "blId5",
+   "fen": "r2q1b1r/pp4pp/2p1Qnk1/8/2BP4/8/PPb2PPP/R1B2RK1 b - - 2 13",
+   "solutionMoves": [
+    "c2f5",
+    "e6f7"
+   ],
+   "rating": 902,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "bkWG1",
+   "fen": "rn2r2R/ppq1kQ2/2pb1p2/8/2BP4/4BP2/PPP2P2/2K5 b - - 0 18",
+   "solutionMoves": [
+    "e7d8",
+    "h8e8"
+   ],
+   "rating": 674,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Forgacs_Variation"
+   ]
+  },
+  {
+   "id": "1WhMc",
+   "fen": "r3kbnr/pp1n1pp1/4p1p1/3pP3/3P3q/8/PP2BPPP/RNBQ1RK1 w kq - 1 11",
+   "solutionMoves": [
+    "b1c3",
+    "h4h2"
+   ],
+   "rating": 669,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "1X1oK",
+   "fen": "r3k2r/ppqnbpp1/2p1p1p1/6B1/4N1n1/1B1P3P/PPP2PP1/R3QRK1 w kq - 3 14",
+   "solutionMoves": [
+    "g5e7",
+    "c7h2"
+   ],
+   "rating": 763,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+   ]
+  },
+  {
+   "id": "1Y5Of",
+   "fen": "2r2rk1/pp2qpp1/2n1p3/3pPnNp/3P3P/1N1Q4/PP3PP1/2RR2K1 b - - 3 17",
+   "solutionMoves": [
+    "f5h4",
+    "d3h7"
+   ],
+   "rating": 504,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "z4b9O",
+   "fen": "r2qkb1r/pp1npppp/5nb1/1BpP4/8/5NN1/PPP2PPP/R1BQK2R w KQkq - 3 9",
+   "solutionMoves": [
+    "f3e5",
+    "d8a5",
+    "c1d2",
+    "a5b5"
+   ],
+   "rating": 1035,
+   "themes": [
+    "advantage",
+    "fork",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "1YmH3",
+   "fen": "r4rk1/ppqnbppp/2n1p3/2ppP1N1/3P3P/2PQB3/PP2NPP1/R4RK1 b - - 2 13",
+   "solutionMoves": [
+    "h7h6",
+    "d3h7"
+   ],
+   "rating": 501,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "cHllR",
+   "fen": "r3kb1r/pp2ppp1/2n4p/8/4q1b1/4BN2/PPPQ1PPP/2KR3R b kq - 1 14",
+   "solutionMoves": [
+    "e7e6",
+    "d2d7"
+   ],
+   "rating": 951,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Main_Line"
+   ]
+  },
+  {
+   "id": "cHydL",
+   "fen": "2kr3r/pp3ppp/2p1pb2/3q4/3Pb1P1/5N1P/PPP1QPB1/1K1RR3 b - - 4 16",
+   "solutionMoves": [
+    "a7a5",
+    "e2e4",
+    "d5e4",
+    "e1e4"
+   ],
+   "rating": 1493,
+   "themes": [
+    "crushing",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Main_Line"
+   ]
+  },
+  {
+   "id": "z4Itu",
+   "fen": "4k2r/pp1nnpp1/q3p3/3pP1Bp/3P3P/P4N2/1P3PP1/2Q1K2R b Kk - 0 16",
+   "solutionMoves": [
+    "e7f5",
+    "c1c8"
+   ],
+   "rating": 422,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "z3soy",
+   "fen": "r2q1rk1/1p1nbppp/1n2p3/p1ppP1N1/P2P1P2/1PPQB3/3N2PP/R4RK1 b - - 1 14",
+   "solutionMoves": [
+    "c5d4",
+    "d3h7"
+   ],
+   "rating": 549,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "z3iYU",
+   "fen": "r2q3r/pp3kB1/2nbp1p1/3p1nPp/3P1N1P/3Q1P2/PPPN4/2KR3R b - - 0 17",
+   "solutionMoves": [
+    "f7g7",
+    "f4e6",
+    "g7h7",
+    "e6d8"
+   ],
+   "rating": 867,
+   "themes": [
+    "advantage",
+    "fork",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "1aEci",
+   "fen": "r1b1kn1Q/pp3p2/2pP4/8/4PB2/4nN2/PPP2qP1/2KR1B2 w q - 3 16",
+   "solutionMoves": [
+    "f4h6",
+    "f2c2"
+   ],
+   "rating": 840,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "queensideAttack"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1bTh8",
+   "fen": "r2q1rk1/pp3pp1/3bpn1p/2p5/2PP3P/3Q1N2/PP1B1PP1/R4RK1 w - - 0 16",
+   "solutionMoves": [
+    "d4c5",
+    "d6h2",
+    "f3h2",
+    "d8d3"
+   ],
+   "rating": 1050,
+   "themes": [
+    "advantage",
+    "discoveredAttack",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "1bjrw",
+   "fen": "3k1b1r/pp2ppp1/2p2n1p/B7/6b1/5N2/PqP2PPP/3RKB1R b K - 1 14",
+   "solutionMoves": [
+    "d8c8",
+    "d1d8"
+   ],
+   "rating": 661,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Karpov_Variation"
+   ]
+  },
+  {
+   "id": "cI5Oo",
+   "fen": "rn1qk2r/pp2bppp/2p1pn2/8/4N3/2NP4/PPP1QPPP/R1B1K2R w KQkq - 1 9",
+   "solutionMoves": [
+    "c1g5",
+    "f6e4",
+    "g5e7",
+    "e4c3"
+   ],
+   "rating": 1600,
+   "themes": [
+    "advantage",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Endgame_Offer"
+   ]
+  },
+  {
+   "id": "biQ37",
+   "fen": "rn1qk2r/pp3ppp/2p1p3/8/4n1b1/P1QP4/1PP2PPP/R1B1KB1R w KQkq - 0 10",
+   "solutionMoves": [
+    "d3e4",
+    "d8d1"
+   ],
+   "rating": 491,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Endgame_Offer"
+   ]
+  },
+  {
+   "id": "1d8pI",
+   "fen": "2krnb1r/Bp2pppp/2p5/4P3/2N2Pb1/5N2/PP2K1PP/R6R b - - 0 14",
+   "solutionMoves": [
+    "e8c7",
+    "c4b6"
+   ],
+   "rating": 910,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1daFX",
+   "fen": "5rk1/ppr1bppb/1qn1p2p/3pP2N/1P1P4/P3PNQ1/4B1PP/R4RK1 b - - 8 18",
+   "solutionMoves": [
+    "g8h8",
+    "g3g7"
+   ],
+   "rating": 434,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "1dbRI",
+   "fen": "r1b1kR2/1p1nb3/pnpqQ1pp/8/8/1B5P/PPP2PP1/RNB3K1 b q - 0 18",
+   "solutionMoves": [
+    "e8f8",
+    "e6f7"
+   ],
+   "rating": 943,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1dtTy",
+   "fen": "r3k2r/pp3ppp/2n5/qBPN4/3Q4/b4b2/P1P2PPP/1R3K1R w kq - 2 15",
+   "solutionMoves": [
+    "g2f3",
+    "a5b5",
+    "b1b5",
+    "c6d4"
+   ],
+   "rating": 992,
+   "themes": [
+    "advantage",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1eAie",
+   "fen": "2r2rk1/pp1q1ppp/8/2npP3/3Q4/5N2/PP3PPP/2R2RK1 b - - 3 17",
+   "solutionMoves": [
+    "f8d8",
+    "c1c5",
+    "c8c5",
+    "d4c5"
+   ],
+   "rating": 1226,
+   "themes": [
+    "advantage",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "1ePTR",
+   "fen": "rb3rk1/1p3ppp/2nqp3/PP1p1n2/1P1P4/B4B1P/5PP1/R2Q1RK1 w - - 1 18",
+   "solutionMoves": [
+    "b5c6",
+    "d6h2"
+   ],
+   "rating": 606,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1eTgh",
+   "fen": "rn2kbnr/pp2pppp/2p5/8/5qbP/2N2P2/PP1PP3/R1BQKBNR w KQkq - 1 7",
+   "solutionMoves": [
+    "f3g4",
+    "f4g3"
+   ],
+   "rating": 979,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "English_Opening English_Opening_Caro-Kann_Defensive_System"
+   ]
+  },
+  {
+   "id": "z2QaX",
+   "fen": "r1b1k1nr/pp3ppp/1qn5/3pp3/7b/PB1P1P2/1PP1N1PP/RNBQ1K1R w kq - 5 10",
+   "solutionMoves": [
+    "b1c3",
+    "b6f2"
+   ],
+   "rating": 747,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+   ]
+  },
+  {
+   "id": "1ej1k",
+   "fen": "r1b1r1k1/1p3pp1/pN1qp2p/8/3n2n1/3B1N2/PPPQ1PPP/4RRK1 w - - 0 17",
+   "solutionMoves": [
+    "f3d4",
+    "d6h2"
+   ],
+   "rating": 1500,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "1f1F8",
+   "fen": "r4rk1/ppq2p2/2p1pn1p/6p1/3P1b2/2PB1QB1/PP3PP1/R3R2K b - - 1 18",
+   "solutionMoves": [
+    "f4g3",
+    "f3f6",
+    "c7f4",
+    "f6h6",
+    "f4h4",
+    "h6h4"
+   ],
+   "rating": 1696,
+   "themes": [
+    "advantage",
+    "hangingPiece",
+    "long",
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Main_Line"
+   ]
+  },
+  {
+   "id": "z2441",
+   "fen": "rnb1k1nr/ppB1pp1p/2p3p1/8/8/2P2p2/P1PR2PP/2K2BNR b kq - 1 10",
+   "solutionMoves": [
+    "g8f6",
+    "d2d8"
+   ],
+   "rating": 400,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "operaMate"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Gurgenidze_System"
+   ]
+  },
+  {
+   "id": "1fAR8",
+   "fen": "r1q2b1r/pQBknppp/B1n1p3/3p1b2/3P4/2P5/PP3PPP/RN2K1NR w KQ - 5 10",
+   "solutionMoves": [
+    "c7b8",
+    "c8b7",
+    "a6b7",
+    "a8b8"
+   ],
+   "rating": 1170,
+   "themes": [
+    "advantage",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "1fNLI",
+   "fen": "r4rk1/pp3ppp/2n1pn2/3p4/3P4/P1N2B1P/1qPQ1PP1/R3R1K1 b - - 1 14",
+   "solutionMoves": [
+    "a8c8",
+    "e1b1",
+    "b2a1",
+    "b1a1"
+   ],
+   "rating": 1591,
+   "themes": [
+    "advantage",
+    "middlegame",
+    "short",
+    "trappedPiece"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "z1vTN",
+   "fen": "r1b1k2r/pp3pbp/2p1p3/5B2/5q2/1P6/P1PQ1PPP/2KR2NR b kq - 2 14",
+   "solutionMoves": [
+    "f4f5",
+    "d2d8"
+   ],
+   "rating": 480,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Euwe_Attack"
+   ]
+  },
+  {
+   "id": "biPf2",
+   "fen": "r1k3nr/Bp3ppp/4p3/2bpP3/Q7/2N2P2/Pq3P1P/R1R3K1 w - - 3 16",
+   "solutionMoves": [
+    "c3d5",
+    "b2f2",
+    "g1h1",
+    "f2f3"
+   ],
+   "rating": 1281,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1foul",
+   "fen": "rn2kb1r/pp2ppp1/2pqP1b1/3p2Pp/3Pn2P/3B4/PPP2P2/RNBQK1NR w KQkq - 3 9",
+   "solutionMoves": [
+    "f2f3",
+    "d6g3",
+    "e1f1",
+    "g3f2"
+   ],
+   "rating": 1030,
+   "themes": [
+    "mate",
+    "mateIn2",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "cIloF",
+   "fen": "r2q3r/pp1n1k2/2pbQn1p/6B1/2BP2P1/2P2b1P/PP3P2/R3K2R b KQ - 0 14",
+   "solutionMoves": [
+    "f7g7",
+    "e6f7"
+   ],
+   "rating": 1117,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "z1bnV",
+   "fen": "r1b2r1k/pp2b1P1/4p2p/2np3Q/5q2/2P5/PPBN1PPP/R3R1K1 b - - 0 17",
+   "solutionMoves": [
+    "h8g7",
+    "h5g6",
+    "g7h8",
+    "g6h7"
+   ],
+   "rating": 902,
+   "themes": [
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "1fyk4",
+   "fen": "r1b1rnk1/pp1q1p2/1b2pQnP/2ppP1B1/3P4/8/PPP2PP1/RN2K2R b KQ - 1 18",
+   "solutionMoves": [
+    "f8h7",
+    "f6g7"
+   ],
+   "rating": 865,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Endgame_Offer"
+   ]
+  },
+  {
+   "id": "z14rH",
+   "fen": "rn1qkb1r/pp2ppp1/2p4p/5b2/3PN3/2P5/PP2QPPP/R1B1KB1R b KQkq - 0 9",
+   "solutionMoves": [
+    "b8d7",
+    "e4d6"
+   ],
+   "rating": 1064,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening",
+    "pin",
+    "smotheredMate"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1iPFS",
+   "fen": "r3kb1r/ppq2pp1/4p2p/2Pp4/1P4nn/P1P2N2/4QPPP/RNB2RK1 w kq - 4 15",
+   "solutionMoves": [
+    "h2h3",
+    "h4f3",
+    "g2f3",
+    "c7h2"
+   ],
+   "rating": 1140,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "cJ03h",
+   "fen": "rnb2q1r/pp2pk2/2p1pnpp/3pN1Q1/3P4/2N5/PPP2PPP/R3KB1R b KQ - 1 12",
+   "solutionMoves": [
+    "f7g7",
+    "g5g6"
+   ],
+   "rating": 624,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Campomanes_Attack"
+   ]
+  },
+  {
+   "id": "1iVAl",
+   "fen": "rb2k2r/pp3ppp/2nqp3/8/2QP4/5b2/PP2BPPP/R1B2RK1 w kq - 0 15",
+   "solutionMoves": [
+    "e2f3",
+    "d6h2"
+   ],
+   "rating": 946,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "1ilJR",
+   "fen": "rn2k2r/pp3ppp/2p2nb1/q7/1b1pP1P1/P1NP1P1P/1P2N1B1/R1BQK2R w KQkq - 1 13",
+   "solutionMoves": [
+    "e2d4",
+    "b4c3",
+    "b2c3",
+    "a5c3"
+   ],
+   "rating": 780,
+   "themes": [
+    "advantage",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "English_Opening English_Opening_Caro-Kann_Defensive_System"
+   ]
+  },
+  {
+   "id": "bho6z",
+   "fen": "rn1qkbnr/pp1bp2p/5pN1/1B1p3Q/3P4/8/PPP2PPP/RNB1K2R b KQkq - 0 8",
+   "solutionMoves": [
+    "h7g6",
+    "h5g6"
+   ],
+   "rating": 684,
+   "themes": [
+    "master",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Apocalypse_Attack"
+   ]
+  },
+  {
+   "id": "1jI3J",
+   "fen": "r4rk1/pp1nnpb1/2p1p1p1/6NN/2PP1q1P/2BQ4/PP3PP1/1K1R3R b - - 0 16",
+   "solutionMoves": [
+    "g6h5",
+    "d3h7"
+   ],
+   "rating": 443,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "z0idK",
+   "fen": "rn2k2r/p4ppp/4p3/1pp1P3/8/1BP4n/PP4PP/RNB2RqK w kq - 5 18",
+   "solutionMoves": [
+    "f1g1",
+    "h3f2"
+   ],
+   "rating": 880,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "smotheredMate"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "z0ZoE",
+   "fen": "r1b2rk1/pp3ppp/1q1b1n2/3pn3/8/2PBB2P/PP1NNPP1/R1Q1K2R w KQ - 0 12",
+   "solutionMoves": [
+    "e3b6",
+    "e5d3",
+    "e1f1",
+    "d3c1"
+   ],
+   "rating": 931,
+   "themes": [
+    "advantage",
+    "fork",
+    "hangingPiece",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "1jJa8",
+   "fen": "r4rk1/pp2bppp/1qn1bp2/1B1p4/8/2N2N2/PPP1QPPP/2KRR3 b - - 9 13",
+   "solutionMoves": [
+    "e7c5",
+    "c3a4",
+    "b6a5",
+    "a4c5"
+   ],
+   "rating": 1661,
+   "themes": [
+    "advantage",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "z0P4W",
+   "fen": "r2q1k1r/pp3ppB/2n5/3p4/8/7Q/PP3PPP/2KRR3 b - - 0 17",
+   "solutionMoves": [
+    "g7g6",
+    "h3h6"
+   ],
+   "rating": 943,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1juDM",
+   "fen": "r2q1b1r/1pNbkppp/p3pn2/8/1Qn2B2/3P1N2/PP3PPP/R3K2R b KQ - 3 14",
+   "solutionMoves": [
+    "c4d6",
+    "b4d6"
+   ],
+   "rating": 655,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Accelerated_Panov_Attack"
+   ]
+  },
+  {
+   "id": "yzxLi",
+   "fen": "rn2k2r/pp1b1pp1/1qp1pn2/7p/3P1N1P/3B1PN1/PPP3P1/R2QK2R w KQkq - 1 12",
+   "solutionMoves": [
+    "e1g1",
+    "b6d4",
+    "f1f2",
+    "d4f4"
+   ],
+   "rating": 1283,
+   "themes": [
+    "crushing",
+    "fork",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Main_Line"
+   ]
+  },
+  {
+   "id": "1kEW0",
+   "fen": "1r3rk1/p1b3pp/2pqppb1/3pNn2/PP1P4/2P1B2P/3N1PP1/R3QRK1 w - - 0 18",
+   "solutionMoves": [
+    "e5g6",
+    "d6h2"
+   ],
+   "rating": 609,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+   ]
+  },
+  {
+   "id": "1kIGz",
+   "fen": "2kr3r/pp3ppp/2nbp3/P1N4q/8/2PP1b2/1P2QBPP/R4RK1 w - - 0 18",
+   "solutionMoves": [
+    "e2f3",
+    "h5h2"
+   ],
+   "rating": 928,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "yyyas",
+   "fen": "r4rk1/pp3pp1/3bp2p/3pN3/3P2Pq/2P2N1n/PPQ2P2/4RR1K b - - 3 18",
+   "solutionMoves": [
+    "h3f2",
+    "h1g2",
+    "h4h3",
+    "g2f2"
+   ],
+   "rating": 1035,
+   "themes": [
+    "advantage",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "1kyUV",
+   "fen": "r2qkb1r/pp3p1p/2p2pp1/4R3/2B5/5Q1P/PPPP1PP1/R1B3K1 b kq - 0 11",
+   "solutionMoves": [
+    "f6e5",
+    "f3f7"
+   ],
+   "rating": 784,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "1lWoW",
+   "fen": "rn1qkbnr/pp2p1pp/2p5/5p2/3PB3/8/PPP2PPP/R1BQK1NR w KQkq - 0 7",
+   "solutionMoves": [
+    "e4f5",
+    "d8a5",
+    "c1d2",
+    "a5f5"
+   ],
+   "rating": 1162,
+   "themes": [
+    "advantage",
+    "fork",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "yyk4k",
+   "fen": "k2r4/pp2bppp/1np1pnb1/8/2P3P1/1PN2P1N/P2BP1BP/2K4R w - - 1 17",
+   "solutionMoves": [
+    "h1d1",
+    "e7a3"
+   ],
+   "rating": 864,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "English_Opening English_Opening_Caro-Kann_Defensive_System"
+   ]
+  },
+  {
+   "id": "1lwaC",
+   "fen": "r1bq1bk1/pp4pr/2n1QnNp/8/2Bp4/2P5/PP3PPP/R1B1K2R b KQ - 0 13",
+   "solutionMoves": [
+    "c8e6",
+    "c4e6"
+   ],
+   "rating": 571,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Alien_Gambit"
+   ]
+  },
+  {
+   "id": "yy7CQ",
+   "fen": "r5rk/ppq1bR1p/2n1p3/3pP2Q/3P4/2P4P/PP1N2P1/R5K1 b - - 0 18",
+   "solutionMoves": [
+    "a8f8",
+    "h5h7"
+   ],
+   "rating": 821,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "yy0Vo",
+   "fen": "r2q2kr/pp1np1b1/2p1NnQ1/3p4/3P1B1P/2N5/PPP5/2KR3R b - - 0 16",
+   "solutionMoves": [
+    "d7f8",
+    "g6g7"
+   ],
+   "rating": 959,
+   "themes": [
+    "epauletteMate",
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "bhXqO",
+   "fen": "r2qkb1r/1p1nnpp1/2p1p1b1/p5Pp/4N2P/1P6/PBPPQPB1/2KR2NR b kq - 0 11",
+   "solutionMoves": [
+    "a5a4",
+    "e4d6"
+   ],
+   "rating": 844,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening",
+    "smotheredMate"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Euwe_Attack"
+   ]
+  },
+  {
+   "id": "1nKML",
+   "fen": "r2q3r/p3bkpp/2Q1p3/3p1b2/3pn3/5N2/PPP3PP/R1B2RK1 b - - 5 17",
+   "solutionMoves": [
+    "d8b6",
+    "f3e5",
+    "f7f6",
+    "e5d7",
+    "f6g6",
+    "d7b6"
+   ],
+   "rating": 1362,
+   "themes": [
+    "advantage",
+    "fork",
+    "long",
+    "middlegame"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1nYUk",
+   "fen": "r1bq2k1/pp1n1pp1/3b3p/3pr3/8/P2BB2P/1PP2PP1/R2QRNK1 w - - 0 15",
+   "solutionMoves": [
+    "e3f4",
+    "e5e1",
+    "d1e1",
+    "d6f4"
+   ],
+   "rating": 895,
+   "themes": [
+    "crushing",
+    "discoveredAttack",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "1o7Pf",
+   "fen": "r1b2rk1/pp3ppp/8/7q/2Pp2n1/1P1B2P1/P2B1P1P/R2Q1RK1 w - - 1 17",
+   "solutionMoves": [
+    "d3e2",
+    "h5h2"
+   ],
+   "rating": 489,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "bhSG4",
+   "fen": "5k1r/ppN2p2/2nbP3/2p2Qpp/3P3q/1P6/PB3PP1/RN3RK1 w - - 1 18",
+   "solutionMoves": [
+    "d4c5",
+    "h4h2"
+   ],
+   "rating": 919,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "1ojvq",
+   "fen": "r4rk1/pp4pp/2nb4/3p4/6n1/1NPB1N1q/PP3P2/R1BQR1K1 w - - 2 15",
+   "solutionMoves": [
+    "d3f1",
+    "d6h2",
+    "f3h2",
+    "h3h2"
+   ],
+   "rating": 1407,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "cJFqB",
+   "fen": "r2q1rk1/pp2nppp/2nbp3/1B1p2N1/2PP2b1/3Q4/PP1N1PPP/R1B2RK1 b - - 2 10",
+   "solutionMoves": [
+    "d5c4",
+    "d3h7"
+   ],
+   "rating": 1500,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "1pcAX",
+   "fen": "3rk2r/p4ppp/2p1p3/2b5/8/2P5/PqQ1RPPP/RN4K1 w k - 0 18",
+   "solutionMoves": [
+    "c2b2",
+    "d8d1",
+    "e2e1",
+    "d1e1"
+   ],
+   "rating": 578,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "bgyzU",
+   "fen": "2r2rk1/4bppp/1q2p2B/pp1p3n/3P2Q1/1NP5/PP3PPP/R4RK1 b - - 3 18",
+   "solutionMoves": [
+    "h5f6",
+    "g4g7"
+   ],
+   "rating": 567,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+   ]
+  },
+  {
+   "id": "1q1bc",
+   "fen": "r2q1rk1/pp1bnpp1/2n1p3/2Pp2NQ/5P2/P1P1B3/2P3PP/R3K2R b KQ - 3 15",
+   "solutionMoves": [
+    "f7f6",
+    "h5h7"
+   ],
+   "rating": 752,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "1qRQX",
+   "fen": "rn1qk2r/pp2bppp/2p1p2B/4N3/3P2P1/5Q2/PPP2P1P/R3KB1R b KQkq - 0 12",
+   "solutionMoves": [
+    "g7h6",
+    "f3f7"
+   ],
+   "rating": 639,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+   ]
+  },
+  {
+   "id": "bgy2u",
+   "fen": "r1bq1br1/pp2p1k1/2p1p1Qp/3nP1p1/2P5/3B4/PP3PPP/R1B1K2R b KQ - 4 14",
+   "solutionMoves": [
+    "g7h8",
+    "g6h7"
+   ],
+   "rating": 833,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Karpov_Variation"
+   ]
+  },
+  {
+   "id": "yuxTD",
+   "fen": "r3knnr/p1qb2b1/1p2p1pp/3pP1B1/N1pP2P1/2P2P2/PPBQN3/2KR3R b kq - 1 18",
+   "solutionMoves": [
+    "d7a4",
+    "c2a4",
+    "b6b5",
+    "a4b5"
+   ],
+   "rating": 976,
+   "themes": [
+    "advantage",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "1r5fV",
+   "fen": "r2q1rk1/1p3pp1/p2b3p/2pP4/4QP2/3B3P/PP4P1/3R1RK1 b - - 0 18",
+   "solutionMoves": [
+    "b7b5",
+    "e4h7"
+   ],
+   "rating": 596,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "yuvpF",
+   "fen": "r4rk1/5ppp/p1n1pq2/1p1p2N1/7P/3Q4/PPP2PP1/R4RK1 b - - 2 17",
+   "solutionMoves": [
+    "c6e5",
+    "d3h7"
+   ],
+   "rating": 452,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "yubzg",
+   "fen": "r1b2rk1/pp4pp/1qn1p3/3pP3/1b2nP1P/P4NP1/1P2N1B1/R1BQ1K1R w - - 1 17",
+   "solutionMoves": [
+    "a3b4",
+    "b6f2"
+   ],
+   "rating": 938,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "bgt0D",
+   "fen": "2B1k2r/4nppp/2p3b1/3pQ3/q5P1/2B4P/PPP2P2/2KR3R w k - 1 18",
+   "solutionMoves": [
+    "e5g7",
+    "a4c2"
+   ],
+   "rating": 900,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "queensideAttack"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "1s4cL",
+   "fen": "r3k2r/ppqn1pp1/1bp1p1bp/3pP3/N2n1BPP/3P4/PPP1NP2/R2QKB1R w KQkq - 5 14",
+   "solutionMoves": [
+    "a4b6",
+    "d4f3"
+   ],
+   "rating": 1506,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1sCOE",
+   "fen": "r2qkb1r/pp3pp1/2n1p3/2p1PnNb/3p1B1P/3P4/PPPQN1B1/2K3RR b kq - 5 17",
+   "solutionMoves": [
+    "d8a5",
+    "g2c6",
+    "b7c6",
+    "d2a5"
+   ],
+   "rating": 1059,
+   "themes": [
+    "crushing",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "yuHmO",
+   "fen": "r3kb1r/pp1n1ppp/2p1p3/6BP/2Bq4/2N5/PP3QP1/R4RK1 b kq - 1 14",
+   "solutionMoves": [
+    "d4c4",
+    "f2f7"
+   ],
+   "rating": 679,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_von_Hennig_Gambit"
+   ]
+  },
+  {
+   "id": "1t34v",
+   "fen": "r2q1bkr/pp1n2pp/2p3n1/4N3/3PP1b1/1QP5/PP4PP/RNB2RK1 b - - 2 11",
+   "solutionMoves": [
+    "g4e6",
+    "b3e6"
+   ],
+   "rating": 779,
+   "themes": [
+    "hangingPiece",
+    "kingsideAttack",
+    "master",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "bggd6",
+   "fen": "r2qr2k/pp2Nppp/2p2Q2/8/2P5/1P1n1N2/PB1P1PPP/R3R1K1 b - - 0 17",
+   "solutionMoves": [
+    "g7f6",
+    "b2f6"
+   ],
+   "rating": 955,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+   ]
+  },
+  {
+   "id": "yuAKS",
+   "fen": "r2qkbnr/1p2p2p/p1n1PpQ1/3p4/8/3B3P/PP3PP1/RNB1K2R b KQkq - 0 13",
+   "solutionMoves": [
+    "h7g6",
+    "d3g6"
+   ],
+   "rating": 531,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "bgdGB",
+   "fen": "2r2rk1/pp2qppp/4p3/3p4/3P1n2/2PQ4/PP1N1PPP/3R1RK1 w - - 0 16",
+   "solutionMoves": [
+    "d3g3",
+    "f4e2",
+    "g1h1",
+    "e2g3"
+   ],
+   "rating": 808,
+   "themes": [
+    "crushing",
+    "fork",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "cJjvp",
+   "fen": "1r3rk1/p1q2ppp/2p1p3/3p4/3Pn3/P1P4P/1P1N1PPb/R1BQR1K1 w - - 3 16",
+   "solutionMoves": [
+    "g1h1",
+    "e4f2"
+   ],
+   "rating": 675,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "cJnFc",
+   "fen": "r2qkb1r/4pppp/p1p5/3n4/Q2P2b1/2N2N2/PP3PPP/R1B1K2R b KQkq - 1 10",
+   "solutionMoves": [
+    "g4f3",
+    "a4c6",
+    "d8d7",
+    "c6a8"
+   ],
+   "rating": 920,
+   "themes": [
+    "crushing",
+    "deflection",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+   ]
+  },
+  {
+   "id": "1uUnQ",
+   "fen": "2krr3/pbb3pp/1pp2n2/2Ppq3/PP6/2N1B3/4BPPP/R2Q1RK1 w - - 0 17",
+   "solutionMoves": [
+    "e3d4",
+    "e5h2"
+   ],
+   "rating": 796,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "ytmGR",
+   "fen": "rn3rk1/pp3pp1/3q3p/3B1b2/8/8/PP2NPPP/R2Q1RK1 b - - 0 15",
+   "solutionMoves": [
+    "b8c6",
+    "d5f7",
+    "f8f7",
+    "d1d6"
+   ],
+   "rating": 731,
+   "themes": [
+    "advantage",
+    "discoveredAttack",
+    "kingsideAttack",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "bfU8k",
+   "fen": "r1bq1rk1/1p2bppp/p3p3/2Pp2N1/2n2P2/3QB3/PPP3PP/RN3RK1 b - - 2 13",
+   "solutionMoves": [
+    "c4e3",
+    "d3h7"
+   ],
+   "rating": 558,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "1ukvM",
+   "fen": "r2qkb1r/1p1nnpp1/4P1bp/1Npp1p2/3P1NPP/8/PPP5/R1BQK2R b KQkq - 0 13",
+   "solutionMoves": [
+    "f7e6",
+    "b5d6"
+   ],
+   "rating": 991,
+   "themes": [
+    "master",
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "1usUg",
+   "fen": "r3kbnr/pp3ppp/1qn1p3/1N1p4/P2P4/1QP2P2/1P3P1P/R1B1KB1R b KQkq - 0 10",
+   "solutionMoves": [
+    "a7a6",
+    "b5d6",
+    "f8d6",
+    "b3b6"
+   ],
+   "rating": 1096,
+   "themes": [
+    "advantage",
+    "discoveredAttack",
+    "opening",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "1vBs8",
+   "fen": "rnb2rk1/pp4pp/2p5/3p4/3b4/1B4Q1/PPP3PP/R1B2RK1 w - - 0 15",
+   "solutionMoves": [
+    "g1h1",
+    "f8f1"
+   ],
+   "rating": 602,
+   "themes": [
+    "backRankMate",
+    "hangingPiece",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Rasa-Studier_Gambit"
+   ]
+  },
+  {
+   "id": "1vLXB",
+   "fen": "2rqk2r/pQ3ppp/8/4P3/1bp1n1b1/2N5/PP3PPP/R3KBNR w KQk - 3 13",
+   "solutionMoves": [
+    "b7b4",
+    "d8d2"
+   ],
+   "rating": 876,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+   ]
+  },
+  {
+   "id": "1vqO2",
+   "fen": "3rkb1r/p1q2ppp/1pp1pn2/8/8/3BQP2/PPP1N1PP/R1B2RK1 w k - 0 14",
+   "solutionMoves": [
+    "b2b3",
+    "f8c5",
+    "e3c5",
+    "b6c5"
+   ],
+   "rating": 1173,
+   "themes": [
+    "advantage",
+    "opening",
+    "pin",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Main_Line"
+   ]
+  },
+  {
+   "id": "1w8EW",
+   "fen": "rnb2b1r/pp2kNp1/4pnBp/2p5/8/4B3/PPP2PPP/3RK2R b K - 0 13",
+   "solutionMoves": [
+    "h8g8",
+    "e3c5",
+    "e7e8",
+    "f7e5"
+   ],
+   "rating": 1160,
+   "themes": [
+    "discoveredAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Alien_Gambit"
+   ]
+  },
+  {
+   "id": "ysuV2",
+   "fen": "r1bqr1k1/4bp2/p3pn1B/1p1p4/3n4/1BN3Q1/PPP2PPP/R3R1K1 b - - 1 17",
+   "solutionMoves": [
+    "g8h7",
+    "g3g7"
+   ],
+   "rating": 680,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "beR2M",
+   "fen": "r4rk1/pp2bppp/1q2p3/3pnP2/3P2P1/4Q2P/PP5K/RNB2R2 w - - 0 17",
+   "solutionMoves": [
+    "e3e5",
+    "e7d6",
+    "e5d6",
+    "b6d6"
+   ],
+   "rating": 1106,
+   "themes": [
+    "crushing",
+    "middlegame",
+    "pin",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "1wvM3",
+   "fen": "rnb1k1nr/pp3ppp/1qp5/3pP3/4P2b/2NB1P2/PPP3PP/R1BQ1KNR w kq - 5 8",
+   "solutionMoves": [
+    "e4d5",
+    "b6f2"
+   ],
+   "rating": 834,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "oneMove",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "ysl3e",
+   "fen": "r1b2q1r/pp1k1N1p/1bp3p1/3nQ1B1/8/2P5/PP3PPP/3RKBNR w K - 3 18",
+   "solutionMoves": [
+    "f7h8",
+    "f8f2"
+   ],
+   "rating": 551,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Breyer_Variation"
+   ]
+  },
+  {
+   "id": "ysVDX",
+   "fen": "2rqk2r/p3bppp/2p1pn2/3pN1B1/3PN3/5Q1P/PP3PP1/R4RK1 b k - 0 14",
+   "solutionMoves": [
+    "f6e4",
+    "f3f7"
+   ],
+   "rating": 704,
+   "themes": [
+    "attackingF2F7",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+   ]
+  },
+  {
+   "id": "yrrb5",
+   "fen": "r3k2r/1pb2pp1/2nqpnp1/pB1p4/P2P4/2P2Q1P/1P1N1PP1/R1B2RK1 w kq - 6 14",
+   "solutionMoves": [
+    "g2g4",
+    "d6h2"
+   ],
+   "rating": 501,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1xzOF",
+   "fen": "r2Qk2r/pp3pp1/q3p3/4P1Bp/2p4P/bP6/P4PP1/R2R2K1 b kq - 3 18",
+   "solutionMoves": [
+    "a8d8",
+    "d1d8"
+   ],
+   "rating": 612,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove",
+    "operaMate"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "1yFGD",
+   "fen": "2rq1rk1/pb2bppN/1p2pn1p/8/3P4/P1PQB3/2B2PPP/R4RK1 b - - 1 18",
+   "solutionMoves": [
+    "d8d5",
+    "h7f6",
+    "g7f6",
+    "d3h7"
+   ],
+   "rating": 1095,
+   "themes": [
+    "clearance",
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+   ]
+  },
+  {
+   "id": "yp4e7",
+   "fen": "r3kbnr/pp2pppp/1qn5/3NNb2/3P1P2/8/PPP3PP/R1BQ1RK1 b kq - 0 10",
+   "solutionMoves": [
+    "b6d4",
+    "d1d4",
+    "c6d4",
+    "d5c7",
+    "e8d8",
+    "c7a8"
+   ],
+   "rating": 1520,
+   "themes": [
+    "advantage",
+    "fork",
+    "long",
+    "opening"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "1zes1",
+   "fen": "rn3rk1/1p4bp/p1pp2p1/3Pp1B1/2P1P2q/1PNB1Pp1/P5b1/R2Q1R1K w - - 0 17",
+   "solutionMoves": [
+    "h1g2",
+    "h4h2"
+   ],
+   "rating": 777,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "yoyiD",
+   "fen": "2kr2n1/pp1nb3/3q2p1/3N4/8/2Q5/PPP2PPP/R1B3K1 b - - 2 17",
+   "solutionMoves": [
+    "c8b8",
+    "c1f4",
+    "d6f4",
+    "d5f4"
+   ],
+   "rating": 1241,
+   "themes": [
+    "crushing",
+    "middlegame",
+    "pin",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "yohpo",
+   "fen": "r2qk2r/pp1n1pp1/2p1p2n/3pP1Np/3P3P/3Q2P1/PPP2P2/RN3RK1 b kq - 0 11",
+   "solutionMoves": [
+    "e8g8",
+    "d3h7"
+   ],
+   "rating": 501,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "20Jfx",
+   "fen": "r4kr1/pp2n1p1/3Np3/q1p1P1Np/3n3P/5Q2/PP3PP1/R4K1R b - - 1 17",
+   "solutionMoves": [
+    "d4f3",
+    "g5e6"
+   ],
+   "rating": 755,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "20XLm",
+   "fen": "r1b2r1k/1p1n1p2/p3p1B1/1P1pPnq1/8/2B4Q/1PP2PPP/R3R1K1 b - - 0 18",
+   "solutionMoves": [
+    "h8g7",
+    "h3h7"
+   ],
+   "rating": 679,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "20r7v",
+   "fen": "r4rk1/pp3ppp/4pn2/3p4/3P4/P2B1Q1P/2Pq1PP1/RR4K1 b - - 1 15",
+   "solutionMoves": [
+    "d2c3",
+    "d3h7",
+    "f6h7",
+    "f3c3"
+   ],
+   "rating": 945,
+   "themes": [
+    "advantage",
+    "discoveredAttack",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "cJzNh",
+   "fen": "1b1r1k1r/pp3ppp/3qpn2/3p4/QP6/2P1BB1P/P4PP1/R4RK1 w - - 3 18",
+   "solutionMoves": [
+    "e3a7",
+    "d6h2"
+   ],
+   "rating": 578,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  },
+  {
+   "id": "20tpG",
+   "fen": "rnbqkb1r/pp2p2p/1np1P1Q1/3p2N1/3P4/2NB4/PPP3PP/R1B1K2R b KQkq - 0 12",
+   "solutionMoves": [
+    "h7g6",
+    "d3g6"
+   ],
+   "rating": 583,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+   ]
+  },
+  {
+   "id": "bePky",
+   "fen": "r3rnk1/ppb2ppp/2p5/2P2p2/3P4/3BBN1q/PP2QP2/3RR1K1 w - - 1 18",
+   "solutionMoves": [
+    "f3g5",
+    "h3h2",
+    "g1f1",
+    "h2h1"
+   ],
+   "rating": 958,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn2",
+    "middlegame",
+    "short"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+   ]
+  },
+  {
+   "id": "yoSE5",
+   "fen": "rnbk3r/pp3Bp1/2p4p/4q3/1Q2N1n1/2p5/PP4PP/RNB2R1K w - - 1 16",
+   "solutionMoves": [
+    "b1c3",
+    "e5h2"
+   ],
+   "rating": 664,
+   "themes": [
+    "kingsideAttack",
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "yoL7Q",
+   "fen": "r1bq1rk1/pp3pp1/2p1pR1p/8/3PQ3/P1PB4/2P3PP/R1B3K1 b - - 0 14",
+   "solutionMoves": [
+    "d8f6",
+    "e4h7"
+   ],
+   "rating": 466,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+   ]
+  },
+  {
+   "id": "beHZ0",
+   "fen": "r3kb1r/pp1n1pp1/1qn1P2p/3p4/3P3B/3Q1N2/PP3PPP/R4RK1 b kq - 0 14",
+   "solutionMoves": [
+    "f7e6",
+    "d3g6"
+   ],
+   "rating": 633,
+   "themes": [
+    "mate",
+    "mateIn1",
+    "middlegame",
+    "oneMove"
+   ],
+   "popularity": 100,
+   "openingTags": [
+    "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+   ]
+  }
+ ]
+}

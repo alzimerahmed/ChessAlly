@@ -1,0 +1,31 @@
+# Secrets
+.env
+
+# Generated datasets cache (large Lichess downloads)
+cache/
+
+# Flutter / Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Android
+android/.gradle/
+android/local.properties
+android/app/.cxx/
+*.jks
+*.keystore
+
+# Misc
+*.log
+.playwright-mcp/
+Drill Feedback Reddit/
+nul

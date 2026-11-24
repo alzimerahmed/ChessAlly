@@ -1,0 +1,4719 @@
+{
+ "path": [
+  "e4",
+  "e6",
+  "d4",
+  "d5"
+ ],
+ "moves": [
+  {
+   "san": "e5",
+   "uci": "e4e5",
+   "games": 23328815,
+   "white": 10616261,
+   "draws": 1018823,
+   "black": 11693731,
+   "avg": 1845,
+   "children": [
+    {
+     "san": "c5",
+     "uci": "c7c5",
+     "games": 22408264,
+     "white": 10049517,
+     "draws": 983187,
+     "black": 11375560,
+     "avg": 1859,
+     "children": [
+      {
+       "san": "c3",
+       "uci": "c2c3",
+       "games": 16268299,
+       "white": 7479367,
+       "draws": 731584,
+       "black": 8057348,
+       "avg": 1863,
+       "children": [
+        {
+         "san": "Nc6",
+         "uci": "b8c6",
+         "games": 11818694,
+         "white": 5380667,
+         "draws": 527155,
+         "black": 5910872,
+         "avg": 1885,
+         "children": [
+          {
+           "san": "Nf3",
+           "uci": "g1f3",
+           "games": 8426910,
+           "white": 3941889,
+           "draws": 376636,
+           "black": 4108385,
+           "avg": 1886,
+           "children": [
+            {
+             "san": "Qb6",
+             "uci": "d8b6",
+             "games": 5206856,
+             "white": 2389765,
+             "draws": 232124,
+             "black": 2584967,
+             "avg": 1877,
+             "children": [
+              {
+               "san": "Bd3",
+               "uci": "f1d3",
+               "games": 1998403,
+               "white": 1008368,
+               "draws": 80850,
+               "black": 909185,
+               "avg": 1905,
+               "children": [
+                {
+                 "san": "Bd7",
+                 "uci": "c8d7",
+                 "games": 1090848,
+                 "white": 551732,
+                 "draws": 42998,
+                 "black": 496118,
+                 "avg": 1908,
+                 "children": [
+                  {
+                   "san": "O-O",
+                   "uci": "e1h1",
+                   "games": 629704,
+                   "white": 327175,
+                   "draws": 22849,
+                   "black": 279680,
+                   "avg": 1923,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 544182,
+                     "white": 284806,
+                     "draws": 19673,
+                     "black": 239703,
+                     "avg": 1926,
+                     "children": []
+                    },
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 26235,
+                     "white": 12734,
+                     "draws": 1021,
+                     "black": 12480,
+                     "avg": 1879,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Bc2",
+                   "uci": "d3c2",
+                   "games": 405321,
+                   "white": 191107,
+                   "draws": 17884,
+                   "black": 196330,
+                   "avg": 1887,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 178460,
+                     "white": 85530,
+                     "draws": 8323,
+                     "black": 84607,
+                     "avg": 1895,
+                     "children": []
+                    },
+                    {
+                     "san": "Rc8",
+                     "uci": "a8c8",
+                     "games": 80264,
+                     "white": 35727,
+                     "draws": 3214,
+                     "black": 41323,
+                     "avg": 1929,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "dxc5",
+                   "uci": "d4c5",
+                   "games": 263333,
+                   "white": 150023,
+                   "draws": 10338,
+                   "black": 102972,
+                   "avg": 1954,
+                   "children": [
+                    {
+                     "san": "Bxc5",
+                     "uci": "f8c5",
+                     "games": 259452,
+                     "white": 147906,
+                     "draws": 10188,
+                     "black": 101358,
+                     "avg": 1942,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Be3",
+                   "uci": "c1e3",
+                   "games": 17997,
+                   "white": 4784,
+                   "draws": 497,
+                   "black": 12716,
+                   "avg": 1744,
+                   "children": [
+                    {
+                     "san": "Qxb2",
+                     "uci": "b6b2",
+                     "games": 13822,
+                     "white": 3013,
+                     "draws": 317,
+                     "black": 10492,
+                     "avg": 1804,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Be2",
+                   "uci": "d3e2",
+                   "games": 13602,
+                   "white": 5199,
+                   "draws": 637,
+                   "black": 7766,
+                   "avg": 1814,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 7698,
+                     "white": 3024,
+                     "draws": 373,
+                     "black": 4301,
+                     "avg": 1841,
+                     "children": []
+                    },
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 5219,
+                     "white": 1930,
+                     "draws": 238,
+                     "black": 3051,
+                     "avg": 1830,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Nbd2",
+                   "uci": "b1d2",
+                   "games": 13179,
+                   "white": 5870,
+                   "draws": 483,
+                   "black": 6826,
+                   "avg": 1871,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 14759,
+                     "white": 6311,
+                     "draws": 544,
+                     "black": 7904,
+                     "avg": 1888,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "san": "cxd4",
+                 "uci": "c5d4",
+                 "games": 690643,
+                 "white": 347350,
+                 "draws": 28940,
+                 "black": 314353,
+                 "avg": 1912,
+                 "children": [
+                  {
+                   "san": "cxd4",
+                   "uci": "c3d4",
+                   "games": 599599,
+                   "white": 300503,
+                   "draws": 25408,
+                   "black": 273688,
+                   "avg": 1903,
+                   "children": [
+                    {
+                     "san": "Bd7",
+                     "uci": "c8d7",
+                     "games": 489717,
+                     "white": 230433,
+                     "draws": 21280,
+                     "black": 238004,
+                     "avg": 1928,
+                     "children": []
+                    },
+                    {
+                     "san": "Bb4+",
+                     "uci": "f8b4",
+                     "games": 74569,
+                     "white": 44668,
+                     "draws": 2773,
+                     "black": 27128,
+                     "avg": 1845,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "O-O",
+                   "uci": "e1h1",
+                   "games": 77199,
+                   "white": 41553,
+                   "draws": 2960,
+                   "black": 32686,
+                   "avg": 1981,
+                   "children": [
+                    {
+                     "san": "dxc3",
+                     "uci": "d4c3",
+                     "games": 40115,
+                     "white": 22892,
+                     "draws": 1362,
+                     "black": 15861,
+                     "avg": 1917,
+                     "children": []
+                    },
+                    {
+                     "san": "Bd7",
+                     "uci": "c8d7",
+                     "games": 33390,
+                     "white": 16609,
+                     "draws": 1427,
+                     "black": 15354,
+                     "avg": 2030,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Nxd4",
+                   "uci": "f3d4",
+                   "games": 12169,
+                   "white": 4822,
+                   "draws": 504,
+                   "black": 6843,
+                   "avg": 1749,
+                   "children": [
+                    {
+                     "san": "Nxe5",
+                     "uci": "c6e5",
+                     "games": 5248,
+                     "white": 1689,
+                     "draws": 219,
+                     "black": 3340,
+                     "avg": 1823,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "a3",
+               "uci": "a2a3",
+               "games": 1353202,
+               "white": 684127,
+               "draws": 64511,
+               "black": 604564,
+               "avg": 1929,
+               "children": [
+                {
+                 "san": "cxd4",
+                 "uci": "c5d4",
+                 "games": 384948,
+                 "white": 204529,
+                 "draws": 18279,
+                 "black": 162140,
+                 "avg": 1884,
+                 "children": [
+                  {
+                   "san": "cxd4",
+                   "uci": "c3d4",
+                   "games": 377845,
+                   "white": 201840,
+                   "draws": 17946,
+                   "black": 158059,
+                   "avg": 1899,
+                   "children": [
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 298310,
+                     "white": 156821,
+                     "draws": 14077,
+                     "black": 127412,
+                     "avg": 1873,
+                     "children": []
+                    },
+                    {
+                     "san": "Bd7",
+                     "uci": "c8d7",
+                     "games": 95223,
+                     "white": 50361,
+                     "draws": 4509,
+                     "black": 40353,
+                     "avg": 1905,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Nxd4",
+                   "uci": "f3d4",
+                   "games": 5281,
+                   "white": 1878,
+                   "draws": 266,
+                   "black": 3137,
+                   "avg": 1726,
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "san": "Bd7",
+                 "uci": "c8d7",
+                 "games": 323882,
+                 "white": 166887,
+                 "draws": 15196,
+                 "black": 141799,
+                 "avg": 1918,
+                 "children": [
+                  {
+                   "san": "b4",
+                   "uci": "b2b4",
+                   "games": 321710,
+                   "white": 173148,
+                   "draws": 15344,
+                   "black": 133218,
+                   "avg": 1938,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 262911,
+                     "white": 140923,
+                     "draws": 12700,
+                     "black": 109288,
+                     "avg": 1930,
+                     "children": []
+                    },
+                    {
+                     "san": "cxb4",
+                     "uci": "c5b4",
+                     "games": 36215,
+                     "white": 20637,
+                     "draws": 1615,
+                     "black": 13963,
+                     "avg": 1898,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Be2",
+                   "uci": "f1e2",
+                   "games": 82819,
+                   "white": 38894,
+                   "draws": 3813,
+                   "black": 40112,
+                   "avg": 1900,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 38616,
+                     "white": 18771,
+                     "draws": 1863,
+                     "black": 17982,
+                     "avg": 1894,
+                     "children": []
+                    },
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 23942,
+                     "white": 10673,
+                     "draws": 1058,
+                     "black": 12211,
+                     "avg": 1882,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Bd3",
+                   "uci": "f1d3",
+                   "games": 12719,
+                   "white": 5636,
+                   "draws": 494,
+                   "black": 6589,
+                   "avg": 1906,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 19500,
+                     "white": 7965,
+                     "draws": 676,
+                     "black": 10859,
+                     "avg": 1898,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "Be2",
+               "uci": "f1e2",
+               "games": 1322132,
+               "white": 578294,
+               "draws": 58469,
+               "black": 685369,
+               "avg": 1843,
+               "children": [
+                {
+                 "san": "cxd4",
+                 "uci": "c5d4",
+                 "games": 514881,
+                 "white": 229293,
+                 "draws": 23661,
+                 "black": 261927,
+                 "avg": 1855,
+                 "children": [
+                  {
+                   "san": "cxd4",
+                   "uci": "c3d4",
+                   "games": 477341,
+                   "white": 214789,
+                   "draws": 22116,
+                   "black": 240436,
+                   "avg": 1846,
+                   "children": [
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 224913,
+                     "white": 92728,
+                     "draws": 10417,
+                     "black": 121768,
+                     "avg": 1864,
+                     "children": []
+                    },
+                    {
+                     "san": "Bb4+",
+                     "uci": "f8b4",
+                     "games": 170602,
+                     "white": 87691,
+                     "draws": 7692,
+                     "black": 75219,
+                     "avg": 1819,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Nxd4",
+                   "uci": "f3d4",
+                   "games": 28246,
+                   "white": 10390,
+                   "draws": 1264,
+                   "black": 16592,
+                   "avg": 1740,
+                   "children": [
+                    {
+                     "san": "Nxe5",
+                     "uci": "c6e5",
+                     "games": 14997,
+                     "white": 5216,
+                     "draws": 562,
+                     "black": 9219,
+                     "avg": 1797,
+                     "children": []
+                    },
+                    {
+                     "san": "Nxd4",
+                     "uci": "c6d4",
+                     "games": 7310,
+                     "white": 3067,
+                     "draws": 460,
+                     "black": 3783,
+                     "avg": 1755,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "O-O",
+                   "uci": "e1h1",
+                   "games": 8422,
+                   "white": 3864,
+                   "draws": 252,
+                   "black": 4306,
+                   "avg": 1817,
+                   "children": [
+                    {
+                     "san": "dxc3",
+                     "uci": "d4c3",
+                     "games": 8730,
+                     "white": 4064,
+                     "draws": 287,
+                     "black": 4379,
+                     "avg": 1829,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "san": "Bd7",
+                 "uci": "c8d7",
+                 "games": 330512,
+                 "white": 145509,
+                 "draws": 14499,
+                 "black": 170504,
+                 "avg": 1882,
+                 "children": [
+                  {
+                   "san": "O-O",
+                   "uci": "e1h1",
+                   "games": 413875,
+                   "white": 184709,
+                   "draws": 18097,
+                   "black": 211069,
+                   "avg": 1870,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 145800,
+                     "white": 67711,
+                     "draws": 6721,
+                     "black": 71368,
+                     "avg": 1874,
+                     "children": []
+                    },
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 105153,
+                     "white": 44863,
+                     "draws": 4640,
+                     "black": 55650,
+                     "avg": 1875,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "a3",
+                   "uci": "a2a3",
+                   "games": 29157,
+                   "white": 13711,
+                   "draws": 1365,
+                   "black": 14081,
+                   "avg": 1917,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 38616,
+                     "white": 18771,
+                     "draws": 1863,
+                     "black": 17982,
+                     "avg": 1894,
+                     "children": []
+                    },
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 23942,
+                     "white": 10673,
+                     "draws": 1058,
+                     "black": 12211,
+                     "avg": 1882,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "dxc5",
+                   "uci": "d4c5",
+                   "games": 17257,
+                   "white": 8783,
+                   "draws": 681,
+                   "black": 7793,
+                   "avg": 1916,
+                   "children": [
+                    {
+                     "san": "Bxc5",
+                     "uci": "f8c5",
+                     "games": 16995,
+                     "white": 8634,
+                     "draws": 672,
+                     "black": 7689,
+                     "avg": 1918,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "b3",
+                   "uci": "b2b3",
+                   "games": 14951,
+                   "white": 5740,
+                   "draws": 636,
+                   "black": 8575,
+                   "avg": 1812,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 16966,
+                     "white": 6087,
+                     "draws": 725,
+                     "black": 10154,
+                     "avg": 1833,
+                     "children": []
+                    },
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 6945,
+                     "white": 2812,
+                     "draws": 288,
+                     "black": 3845,
+                     "avg": 1814,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Na3",
+                   "uci": "b1a3",
+                   "games": 7700,
+                   "white": 3312,
+                   "draws": 330,
+                   "black": 4058,
+                   "avg": 1833,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 7495,
+                     "white": 3081,
+                     "draws": 331,
+                     "black": 4083,
+                     "avg": 1853,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Qb3",
+                   "uci": "d1b3",
+                   "games": 5867,
+                   "white": 2373,
+                   "draws": 425,
+                   "black": 3069,
+                   "avg": 1826,
+                   "children": []
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "b3",
+               "uci": "b2b3",
+               "games": 407140,
+               "white": 148599,
+               "draws": 17569,
+               "black": 240972,
+               "avg": 1768,
+               "children": [
+                {
+                 "san": "cxd4",
+                 "uci": "c5d4",
+                 "games": 238067,
+                 "white": 81158,
+                 "draws": 10575,
+                 "black": 146334,
+                 "avg": 1807,
+                 "children": [
+                  {
+                   "san": "cxd4",
+                   "uci": "c3d4",
+                   "games": 209855,
+                   "white": 71131,
+                   "draws": 9302,
+                   "black": 129422,
+                   "avg": 1773,
+                   "children": [
+                    {
+                     "san": "Bb4+",
+                     "uci": "f8b4",
+                     "games": 162235,
+                     "white": 51670,
+                     "draws": 7177,
+                     "black": 103388,
+                     "avg": 1812,
+                     "children": []
+                    },
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 50993,
+                     "white": 19606,
+                     "draws": 2311,
+                     "black": 29076,
+                     "avg": 1789,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Nxd4",
+                   "uci": "f3d4",
+                   "games": 25859,
+                   "white": 9247,
+                   "draws": 1186,
+                   "black": 15426,
+                   "avg": 1735,
+                   "children": [
+                    {
+                     "san": "Nxe5",
+                     "uci": "c6e5",
+                     "games": 14306,
+                     "white": 5005,
+                     "draws": 532,
+                     "black": 8769,
+                     "avg": 1810,
+                     "children": []
+                    },
+                    {
+                     "san": "Nxd4",
+                     "uci": "c6d4",
+                     "games": 8386,
+                     "white": 2982,
+                     "draws": 528,
+                     "black": 4876,
+                     "avg": 1770,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "san": "Nge7",
+                 "uci": "g8e7",
+                 "games": 81584,
+                 "white": 32961,
+                 "draws": 3476,
+                 "black": 45147,
+                 "avg": 1773,
+                 "children": [
+                  {
+                   "san": "Be3",
+                   "uci": "c1e3",
+                   "games": 35291,
+                   "white": 14324,
+                   "draws": 1521,
+                   "black": 19446,
+                   "avg": 1745,
+                   "children": [
+                    {
+                     "san": "Nf5",
+                     "uci": "e7f5",
+                     "games": 38530,
+                     "white": 15553,
+                     "draws": 1625,
+                     "black": 21352,
+                     "avg": 1761,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Be2",
+                   "uci": "f1e2",
+                   "games": 11894,
+                   "white": 4703,
+                   "draws": 512,
+                   "black": 6679,
+                   "avg": 1761,
+                   "children": [
+                    {
+                     "san": "Nf5",
+                     "uci": "e7f5",
+                     "games": 19668,
+                     "white": 8074,
+                     "draws": 844,
+                     "black": 10750,
+                     "avg": 1796,
+                     "children": []
+                    },
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 5743,
+                     "white": 2243,
+                     "draws": 246,
+                     "black": 3254,
+                     "avg": 1876,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Bb2",
+                   "uci": "c1b2",
+                   "games": 10314,
+                   "white": 4383,
+                   "draws": 462,
+                   "black": 5469,
+                   "avg": 1786,
+                   "children": [
+                    {
+                     "san": "Nf5",
+                     "uci": "e7f5",
+                     "games": 8810,
+                     "white": 3764,
+                     "draws": 389,
+                     "black": 4657,
+                     "avg": 1786,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Bd3",
+                   "uci": "f1d3",
+                   "games": 8361,
+                   "white": 3673,
+                   "draws": 329,
+                   "black": 4359,
+                   "avg": 1766,
+                   "children": []
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "Qb3",
+               "uci": "d1b3",
+               "games": 347988,
+               "white": 141427,
+               "draws": 25050,
+               "black": 181511,
+               "avg": 1814,
+               "children": [
+                {
+                 "san": "Qxb3",
+                 "uci": "b6b3",
+                 "games": 147735,
+                 "white": 59282,
+                 "draws": 11315,
+                 "black": 77138,
+                 "avg": 1833,
+                 "children": [
+                  {
+                   "san": "axb3",
+                   "uci": "a2b3",
+                   "games": 147539,
+                   "white": 59277,
+                   "draws": 11310,
+                   "black": 76952,
+                   "avg": 1812,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 125639,
+                     "white": 49196,
+                     "draws": 9634,
+                     "black": 66809,
+                     "avg": 1840,
+                     "children": []
+                    },
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 9214,
+                     "white": 4180,
+                     "draws": 734,
+                     "black": 4300,
+                     "avg": 1782,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "san": "cxd4",
+                 "uci": "c5d4",
+                 "games": 79389,
+                 "white": 32402,
+                 "draws": 6242,
+                 "black": 40745,
+                 "avg": 1834,
+                 "children": [
+                  {
+                   "san": "Qxb6",
+                   "uci": "b3b6",
+                   "games": 69957,
+                   "white": 28585,
+                   "draws": 5700,
+                   "black": 35672,
+                   "avg": 1809,
+                   "children": [
+                    {
+                     "san": "axb6",
+                     "uci": "a7b6",
+                     "games": 69873,
+                     "white": 28488,
+                     "draws": 5702,
+                     "black": 35683,
+                     "avg": 1835,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "cxd4",
+                   "uci": "c3d4",
+                   "games": 8125,
+                   "white": 3326,
+                   "draws": 470,
+                   "black": 4329,
+                   "avg": 1808,
+                   "children": [
+                    {
+                     "san": "Nxd4",
+                     "uci": "c6d4",
+                     "games": 6515,
+                     "white": 2456,
+                     "draws": 350,
+                     "black": 3709,
+                     "avg": 1842,
+                     "children": []
+                    },
+                    {
+                     "san": "Qxb3",
+                     "uci": "b6b3",
+                     "games": 5883,
+                     "white": 2356,
+                     "draws": 421,
+                     "black": 3106,
+                     "avg": 1843,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "Na3",
+               "uci": "b1a3",
+               "games": 280969,
+               "white": 119184,
+               "draws": 12501,
+               "black": 149284,
+               "avg": 1785,
+               "children": [
+                {
+                 "san": "cxd4",
+                 "uci": "c5d4",
+                 "games": 164552,
+                 "white": 69487,
+                 "draws": 7555,
+                 "black": 87510,
+                 "avg": 1828,
+                 "children": [
+                  {
+                   "san": "cxd4",
+                   "uci": "c3d4",
+                   "games": 131915,
+                   "white": 57830,
+                   "draws": 6240,
+                   "black": 67845,
+                   "avg": 1805,
+                   "children": [
+                    {
+                     "san": "Bxa3",
+                     "uci": "f8a3",
+                     "games": 65406,
+                     "white": 29482,
+                     "draws": 3086,
+                     "black": 32838,
+                     "avg": 1836,
+                     "children": []
+                    },
+                    {
+                     "san": "Bb4+",
+                     "uci": "f8b4",
+                     "games": 41917,
+                     "white": 18153,
+                     "draws": 1980,
+                     "black": 21784,
+                     "avg": 1848,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Nxd4",
+                   "uci": "f3d4",
+                   "games": 21357,
+                   "white": 8020,
+                   "draws": 965,
+                   "black": 12372,
+                   "avg": 1739,
+                   "children": [
+                    {
+                     "san": "Nxe5",
+                     "uci": "c6e5",
+                     "games": 8935,
+                     "white": 3117,
+                     "draws": 330,
+                     "black": 5488,
+                     "avg": 1814,
+                     "children": []
+                    },
+                    {
+                     "san": "Nxd4",
+                     "uci": "c6d4",
+                     "games": 5603,
+                     "white": 2288,
+                     "draws": 368,
+                     "black": 2947,
+                     "avg": 1773,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Bb5",
+                   "uci": "f1b5",
+                   "games": 7778,
+                   "white": 2398,
+                   "draws": 252,
+                   "black": 5128,
+                   "avg": 1727,
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "san": "Bd7",
+                 "uci": "c8d7",
+                 "games": 36808,
+                 "white": 15174,
+                 "draws": 1557,
+                 "black": 20077,
+                 "avg": 1824,
+                 "children": [
+                  {
+                   "san": "Nc2",
+                   "uci": "a3c2",
+                   "games": 19823,
+                   "white": 9066,
+                   "draws": 974,
+                   "black": 9783,
+                   "avg": 1854,
+                   "children": [
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 6309,
+                     "white": 2981,
+                     "draws": 297,
+                     "black": 3031,
+                     "avg": 1842,
+                     "children": []
+                    },
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 5619,
+                     "white": 2476,
+                     "draws": 313,
+                     "black": 2830,
+                     "avg": 1860,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Bb5",
+                   "uci": "f1b5",
+                   "games": 9537,
+                   "white": 3794,
+                   "draws": 384,
+                   "black": 5359,
+                   "avg": 1752,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 5454,
+                     "white": 1952,
+                     "draws": 216,
+                     "black": 3286,
+                     "avg": 1806,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Be2",
+                   "uci": "f1e2",
+                   "games": 5393,
+                   "white": 2271,
+                   "draws": 202,
+                   "black": 2920,
+                   "avg": 1787,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 7495,
+                     "white": 3081,
+                     "draws": 331,
+                     "black": 4083,
+                     "avg": 1853,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            },
+            {
+             "san": "Bd7",
+             "uci": "c8d7",
+             "games": 2076640,
+             "white": 922587,
+             "draws": 92439,
+             "black": 1061614,
+             "avg": 1913,
+             "children": [
+              {
+               "san": "Bd3",
+               "uci": "f1d3",
+               "games": 745010,
+               "white": 353392,
+               "draws": 30721,
+               "black": 360897,
+               "avg": 1937,
+               "children": [
+                {
+                 "san": "Qb6",
+                 "uci": "d8b6",
+                 "games": 287620,
+                 "white": 143566,
+                 "draws": 10987,
+                 "black": 133067,
+                 "avg": 1929,
+                 "children": [
+                  {
+                   "san": "O-O",
+                   "uci": "e1h1",
+                   "games": 629704,
+                   "white": 327175,
+                   "draws": 22849,
+                   "black": 279680,
+                   "avg": 1923,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 544182,
+                     "white": 284806,
+                     "draws": 19673,
+                     "black": 239703,
+                     "avg": 1926,
+                     "children": []
+                    },
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 26235,
+                     "white": 12734,
+                     "draws": 1021,
+                     "black": 12480,
+                     "avg": 1879,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Bc2",
+                   "uci": "d3c2",
+                   "games": 405321,
+                   "white": 191107,
+                   "draws": 17884,
+                   "black": 196330,
+                   "avg": 1887,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 178460,
+                     "white": 85530,
+                     "draws": 8323,
+                     "black": 84607,
+                     "avg": 1895,
+                     "children": []
+                    },
+                    {
+                     "san": "Rc8",
+                     "uci": "a8c8",
+                     "games": 80264,
+                     "white": 35727,
+                     "draws": 3214,
+                     "black": 41323,
+                     "avg": 1929,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "dxc5",
+                   "uci": "d4c5",
+                   "games": 263333,
+                   "white": 150023,
+                   "draws": 10338,
+                   "black": 102972,
+                   "avg": 1954,
+                   "children": [
+                    {
+                     "san": "Bxc5",
+                     "uci": "f8c5",
+                     "games": 259452,
+                     "white": 147906,
+                     "draws": 10188,
+                     "black": 101358,
+                     "avg": 1942,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Be3",
+                   "uci": "c1e3",
+                   "games": 17997,
+                   "white": 4784,
+                   "draws": 497,
+                   "black": 12716,
+                   "avg": 1744,
+                   "children": [
+                    {
+                     "san": "Qxb2",
+                     "uci": "b6b2",
+                     "games": 13822,
+                     "white": 3013,
+                     "draws": 317,
+                     "black": 10492,
+                     "avg": 1804,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Be2",
+                   "uci": "d3e2",
+                   "games": 13602,
+                   "white": 5199,
+                   "draws": 637,
+                   "black": 7766,
+                   "avg": 1814,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 7698,
+                     "white": 3024,
+                     "draws": 373,
+                     "black": 4301,
+                     "avg": 1841,
+                     "children": []
+                    },
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 5219,
+                     "white": 1930,
+                     "draws": 238,
+                     "black": 3051,
+                     "avg": 1830,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Nbd2",
+                   "uci": "b1d2",
+                   "games": 13179,
+                   "white": 5870,
+                   "draws": 483,
+                   "black": 6826,
+                   "avg": 1871,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 14759,
+                     "white": 6311,
+                     "draws": 544,
+                     "black": 7904,
+                     "avg": 1888,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "san": "cxd4",
+                 "uci": "c5d4",
+                 "games": 189018,
+                 "white": 86820,
+                 "draws": 8230,
+                 "black": 93968,
+                 "avg": 1951,
+                 "children": [
+                  {
+                   "san": "cxd4",
+                   "uci": "c3d4",
+                   "games": 170607,
+                   "white": 77947,
+                   "draws": 7482,
+                   "black": 85178,
+                   "avg": 1936,
+                   "children": [
+                    {
+                     "san": "Qb6",
+                     "uci": "d8b6",
+                     "games": 125564,
+                     "white": 55450,
+                     "draws": 5378,
+                     "black": 64736,
+                     "avg": 1968,
+                     "children": []
+                    },
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 28175,
+                     "white": 14155,
+                     "draws": 1199,
+                     "black": 12821,
+                     "avg": 1880,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "O-O",
+                   "uci": "e1h1",
+                   "games": 17326,
+                   "white": 8659,
+                   "draws": 697,
+                   "black": 7970,
+                   "avg": 2003,
+                   "children": [
+                    {
+                     "san": "dxc3",
+                     "uci": "d4c3",
+                     "games": 12108,
+                     "white": 6019,
+                     "draws": 452,
+                     "black": 5637,
+                     "avg": 1974,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "Be2",
+               "uci": "f1e2",
+               "games": 470372,
+               "white": 210450,
+               "draws": 21503,
+               "black": 238419,
+               "avg": 1893,
+               "children": [
+                {
+                 "san": "Qb6",
+                 "uci": "d8b6",
+                 "games": 160723,
+                 "white": 72733,
+                 "draws": 7039,
+                 "black": 80951,
+                 "avg": 1891,
+                 "children": [
+                  {
+                   "san": "O-O",
+                   "uci": "e1h1",
+                   "games": 413875,
+                   "white": 184709,
+                   "draws": 18097,
+                   "black": 211069,
+                   "avg": 1870,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 145800,
+                     "white": 67711,
+                     "draws": 6721,
+                     "black": 71368,
+                     "avg": 1874,
+                     "children": []
+                    },
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 105153,
+                     "white": 44863,
+                     "draws": 4640,
+                     "black": 55650,
+                     "avg": 1875,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "a3",
+                   "uci": "a2a3",
+                   "games": 29157,
+                   "white": 13711,
+                   "draws": 1365,
+                   "black": 14081,
+                   "avg": 1917,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 38616,
+                     "white": 18771,
+                     "draws": 1863,
+                     "black": 17982,
+                     "avg": 1894,
+                     "children": []
+                    },
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 23942,
+                     "white": 10673,
+                     "draws": 1058,
+                     "black": 12211,
+                     "avg": 1882,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "dxc5",
+                   "uci": "d4c5",
+                   "games": 17257,
+                   "white": 8783,
+                   "draws": 681,
+                   "black": 7793,
+                   "avg": 1916,
+                   "children": [
+                    {
+                     "san": "Bxc5",
+                     "uci": "f8c5",
+                     "games": 16995,
+                     "white": 8634,
+                     "draws": 672,
+                     "black": 7689,
+                     "avg": 1918,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "b3",
+                   "uci": "b2b3",
+                   "games": 14951,
+                   "white": 5740,
+                   "draws": 636,
+                   "black": 8575,
+                   "avg": 1812,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 16966,
+                     "white": 6087,
+                     "draws": 725,
+                     "black": 10154,
+                     "avg": 1833,
+                     "children": []
+                    },
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 6945,
+                     "white": 2812,
+                     "draws": 288,
+                     "black": 3845,
+                     "avg": 1814,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Na3",
+                   "uci": "b1a3",
+                   "games": 7700,
+                   "white": 3312,
+                   "draws": 330,
+                   "black": 4058,
+                   "avg": 1833,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 7495,
+                     "white": 3081,
+                     "draws": 331,
+                     "black": 4083,
+                     "avg": 1853,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Qb3",
+                   "uci": "d1b3",
+                   "games": 5867,
+                   "white": 2373,
+                   "draws": 425,
+                   "black": 3069,
+                   "avg": 1826,
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "san": "Nge7",
+                 "uci": "g8e7",
+                 "games": 101224,
+                 "white": 42396,
+                 "draws": 4914,
+                 "black": 53914,
+                 "avg": 1923,
+                 "children": [
+                  {
+                   "san": "O-O",
+                   "uci": "e1h1",
+                   "games": 61973,
+                   "white": 26060,
+                   "draws": 2947,
+                   "black": 32966,
+                   "avg": 1892,
+                   "children": [
+                    {
+                     "san": "Nf5",
+                     "uci": "e7f5",
+                     "games": 29235,
+                     "white": 12303,
+                     "draws": 1372,
+                     "black": 15560,
+                     "avg": 1891,
+                     "children": []
+                    },
+                    {
+                     "san": "Ng6",
+                     "uci": "e7g6",
+                     "games": 17030,
+                     "white": 7122,
+                     "draws": 824,
+                     "black": 9084,
+                     "avg": 1934,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Na3",
+                   "uci": "b1a3",
+                   "games": 16180,
+                   "white": 7430,
+                   "draws": 923,
+                   "black": 7827,
+                   "avg": 1980,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 6674,
+                     "white": 2915,
+                     "draws": 382,
+                     "black": 3377,
+                     "avg": 2009,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Bg5",
+                   "uci": "c1g5",
+                   "games": 6690,
+                   "white": 2288,
+                   "draws": 272,
+                   "black": 4130,
+                   "avg": 1814,
+                   "children": []
+                  },
+                  {
+                   "san": "a3",
+                   "uci": "a2a3",
+                   "games": 5537,
+                   "white": 2429,
+                   "draws": 287,
+                   "black": 2821,
+                   "avg": 1941,
+                   "children": []
+                  },
+                  {
+                   "san": "dxc5",
+                   "uci": "d4c5",
+                   "games": 5379,
+                   "white": 2251,
+                   "draws": 270,
+                   "black": 2858,
+                   "avg": 1930,
+                   "children": []
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "a3",
+               "uci": "a2a3",
+               "games": 406419,
+               "white": 197666,
+               "draws": 19401,
+               "black": 189352,
+               "avg": 1950,
+               "children": [
+                {
+                 "san": "Qb6",
+                 "uci": "d8b6",
+                 "games": 104629,
+                 "white": 54084,
+                 "draws": 4861,
+                 "black": 45684,
+                 "avg": 1914,
+                 "children": [
+                  {
+                   "san": "b4",
+                   "uci": "b2b4",
+                   "games": 321710,
+                   "white": 173148,
+                   "draws": 15344,
+                   "black": 133218,
+                   "avg": 1938,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 262911,
+                     "white": 140923,
+                     "draws": 12700,
+                     "black": 109288,
+                     "avg": 1930,
+                     "children": []
+                    },
+                    {
+                     "san": "cxb4",
+                     "uci": "c5b4",
+                     "games": 36215,
+                     "white": 20637,
+                     "draws": 1615,
+                     "black": 13963,
+                     "avg": 1898,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Be2",
+                   "uci": "f1e2",
+                   "games": 82819,
+                   "white": 38894,
+                   "draws": 3813,
+                   "black": 40112,
+                   "avg": 1900,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 38616,
+                     "white": 18771,
+                     "draws": 1863,
+                     "black": 17982,
+                     "avg": 1894,
+                     "children": []
+                    },
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 23942,
+                     "white": 10673,
+                     "draws": 1058,
+                     "black": 12211,
+                     "avg": 1882,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Bd3",
+                   "uci": "f1d3",
+                   "games": 12719,
+                   "white": 5636,
+                   "draws": 494,
+                   "black": 6589,
+                   "avg": 1906,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 19500,
+                     "white": 7965,
+                     "draws": 676,
+                     "black": 10859,
+                     "avg": 1898,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "san": "cxd4",
+                 "uci": "c5d4",
+                 "games": 55889,
+                 "white": 28396,
+                 "draws": 2729,
+                 "black": 24764,
+                 "avg": 1914,
+                 "children": [
+                  {
+                   "san": "cxd4",
+                   "uci": "c3d4",
+                   "games": 55229,
+                   "white": 28158,
+                   "draws": 2696,
+                   "black": 24375,
+                   "avg": 1921,
+                   "children": [
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 39405,
+                     "white": 19538,
+                     "draws": 2032,
+                     "black": 17835,
+                     "avg": 1886,
+                     "children": []
+                    },
+                    {
+                     "san": "Qb6",
+                     "uci": "d8b6",
+                     "games": 23575,
+                     "white": 12185,
+                     "draws": 1089,
+                     "black": 10301,
+                     "avg": 1909,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "Bb5",
+               "uci": "f1b5",
+               "games": 256617,
+               "white": 92638,
+               "draws": 11424,
+               "black": 152555,
+               "avg": 1786,
+               "children": [
+                {
+                 "san": "Nxe5",
+                 "uci": "c6e5",
+                 "games": 234869,
+                 "white": 75100,
+                 "draws": 9829,
+                 "black": 149940,
+                 "avg": 1832,
+                 "children": [
+                  {
+                   "san": "Bxd7+",
+                   "uci": "b5d7",
+                   "games": 124821,
+                   "white": 38687,
+                   "draws": 5412,
+                   "black": 80722,
+                   "avg": 1770,
+                   "children": [
+                    {
+                     "san": "Nxd7",
+                     "uci": "e5d7",
+                     "games": 124664,
+                     "white": 38584,
+                     "draws": 5410,
+                     "black": 80670,
+                     "avg": 1825,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Nxe5",
+                   "uci": "f3e5",
+                   "games": 85809,
+                   "white": 29150,
+                   "draws": 3452,
+                   "black": 53207,
+                   "avg": 1797,
+                   "children": [
+                    {
+                     "san": "Bxb5",
+                     "uci": "d7b5",
+                     "games": 85737,
+                     "white": 29092,
+                     "draws": 3451,
+                     "black": 53194,
+                     "avg": 1841,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "dxe5",
+                   "uci": "d4e5",
+                   "games": 10426,
+                   "white": 3218,
+                   "draws": 371,
+                   "black": 6837,
+                   "avg": 1769,
+                   "children": [
+                    {
+                     "san": "Bxb5",
+                     "uci": "d7b5",
+                     "games": 10418,
+                     "white": 3211,
+                     "draws": 371,
+                     "black": 6836,
+                     "avg": 1832,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Qa4",
+                   "uci": "d1a4",
+                   "games": 5344,
+                   "white": 1614,
+                   "draws": 268,
+                   "black": 3462,
+                   "avg": 1798,
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "san": "Qb6",
+                 "uci": "d8b6",
+                 "games": 84120,
+                 "white": 34822,
+                 "draws": 3939,
+                 "black": 45359,
+                 "avg": 1810,
+                 "children": [
+                  {
+                   "san": "Bxc6",
+                   "uci": "b5c6",
+                   "games": 60932,
+                   "white": 25693,
+                   "draws": 2990,
+                   "black": 32249,
+                   "avg": 1791,
+                   "children": [
+                    {
+                     "san": "Bxc6",
+                     "uci": "d7c6",
+                     "games": 36384,
+                     "white": 15402,
+                     "draws": 1852,
+                     "black": 19130,
+                     "avg": 1797,
+                     "children": []
+                    },
+                    {
+                     "san": "bxc6",
+                     "uci": "b7c6",
+                     "games": 24206,
+                     "white": 10100,
+                     "draws": 1120,
+                     "black": 12986,
+                     "avg": 1863,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "a4",
+                   "uci": "a2a4",
+                   "games": 13018,
+                   "white": 5157,
+                   "draws": 526,
+                   "black": 7335,
+                   "avg": 1731,
+                   "children": [
+                    {
+                     "san": "a6",
+                     "uci": "a7a6",
+                     "games": 18156,
+                     "white": 7152,
+                     "draws": 810,
+                     "black": 10194,
+                     "avg": 1805,
+                     "children": []
+                    },
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 9003,
+                     "white": 3640,
+                     "draws": 416,
+                     "black": 4947,
+                     "avg": 1819,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "Be3",
+               "uci": "c1e3",
+               "games": 206933,
+               "white": 81453,
+               "draws": 9860,
+               "black": 115620,
+               "avg": 1803,
+               "children": [
+                {
+                 "san": "Qb6",
+                 "uci": "d8b6",
+                 "games": 120217,
+                 "white": 45700,
+                 "draws": 5705,
+                 "black": 68812,
+                 "avg": 1852,
+                 "children": [
+                  {
+                   "san": "b3",
+                   "uci": "b2b3",
+                   "games": 44414,
+                   "white": 16164,
+                   "draws": 1874,
+                   "black": 26376,
+                   "avg": 1769,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 59162,
+                     "white": 21703,
+                     "draws": 2638,
+                     "black": 34821,
+                     "avg": 1819,
+                     "children": []
+                    },
+                    {
+                     "san": "Rc8",
+                     "uci": "a8c8",
+                     "games": 18860,
+                     "white": 6468,
+                     "draws": 733,
+                     "black": 11659,
+                     "avg": 1829,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Qd2",
+                   "uci": "d1d2",
+                   "games": 28208,
+                   "white": 12278,
+                   "draws": 1299,
+                   "black": 14631,
+                   "avg": 1858,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 20330,
+                     "white": 9232,
+                     "draws": 1055,
+                     "black": 10043,
+                     "avg": 1888,
+                     "children": []
+                    },
+                    {
+                     "san": "Rc8",
+                     "uci": "a8c8",
+                     "games": 13227,
+                     "white": 5602,
+                     "draws": 582,
+                     "black": 7043,
+                     "avg": 1930,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Qc2",
+                   "uci": "d1c2",
+                   "games": 27341,
+                   "white": 9188,
+                   "draws": 1095,
+                   "black": 17058,
+                   "avg": 1771,
+                   "children": [
+                    {
+                     "san": "Rc8",
+                     "uci": "a8c8",
+                     "games": 23549,
+                     "white": 6361,
+                     "draws": 785,
+                     "black": 16403,
+                     "avg": 1846,
+                     "children": []
+                    },
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 16771,
+                     "white": 6491,
+                     "draws": 797,
+                     "black": 9483,
+                     "avg": 1813,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Qb3",
+                   "uci": "d1b3",
+                   "games": 20786,
+                   "white": 8419,
+                   "draws": 1508,
+                   "black": 10859,
+                   "avg": 1836,
+                   "children": [
+                    {
+                     "san": "Qxb3",
+                     "uci": "b6b3",
+                     "games": 8920,
+                     "white": 3609,
+                     "draws": 718,
+                     "black": 4593,
+                     "avg": 1857,
+                     "children": []
+                    },
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 8305,
+                     "white": 3452,
+                     "draws": 624,
+                     "black": 4229,
+                     "avg": 1862,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "san": "cxd4",
+                 "uci": "c5d4",
+                 "games": 59333,
+                 "white": 25043,
+                 "draws": 3020,
+                 "black": 31270,
+                 "avg": 1837,
+                 "children": [
+                  {
+                   "san": "cxd4",
+                   "uci": "c3d4",
+                   "games": 49934,
+                   "white": 21576,
+                   "draws": 2564,
+                   "black": 25794,
+                   "avg": 1812,
+                   "children": [
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 19133,
+                     "white": 8339,
+                     "draws": 1021,
+                     "black": 9773,
+                     "avg": 1832,
+                     "children": []
+                    },
+                    {
+                     "san": "Qb6",
+                     "uci": "d8b6",
+                     "games": 17097,
+                     "white": 6981,
+                     "draws": 841,
+                     "black": 9275,
+                     "avg": 1851,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Nxd4",
+                   "uci": "f3d4",
+                   "games": 5722,
+                   "white": 2083,
+                   "draws": 242,
+                   "black": 3397,
+                   "avg": 1738,
+                   "children": []
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "Bg5",
+               "uci": "c1g5",
+               "games": 49348,
+               "white": 16745,
+               "draws": 2041,
+               "black": 30562,
+               "avg": 1751,
+               "children": [
+                {
+                 "san": "Qb6",
+                 "uci": "d8b6",
+                 "games": 29704,
+                 "white": 8963,
+                 "draws": 1126,
+                 "black": 19615,
+                 "avg": 1825,
+                 "children": [
+                  {
+                   "san": "b3",
+                   "uci": "b2b3",
+                   "games": 10167,
+                   "white": 2772,
+                   "draws": 330,
+                   "black": 7065,
+                   "avg": 1732,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 7655,
+                     "white": 1981,
+                     "draws": 250,
+                     "black": 5424,
+                     "avg": 1812,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Qd2",
+                   "uci": "d1d2",
+                   "games": 5341,
+                   "white": 1950,
+                   "draws": 217,
+                   "black": 3174,
+                   "avg": 1785,
+                   "children": []
+                  },
+                  {
+                   "san": "Qc2",
+                   "uci": "d1c2",
+                   "games": 5037,
+                   "white": 1219,
+                   "draws": 151,
+                   "black": 3667,
+                   "avg": 1740,
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "san": "Be7",
+                 "uci": "f8e7",
+                 "games": 11909,
+                 "white": 4491,
+                 "draws": 613,
+                 "black": 6805,
+                 "avg": 1797,
+                 "children": [
+                  {
+                   "san": "Bxe7",
+                   "uci": "g5e7",
+                   "games": 7110,
+                   "white": 2599,
+                   "draws": 397,
+                   "black": 4114,
+                   "avg": 1751,
+                   "children": []
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "san": "Bb5",
+           "uci": "f1b5",
+           "games": 1421595,
+           "white": 586708,
+           "draws": 66755,
+           "black": 768132,
+           "avg": 1815,
+           "children": [
+            {
+             "san": "Bd7",
+             "uci": "c8d7",
+             "games": 640826,
+             "white": 266438,
+             "draws": 31304,
+             "black": 343084,
+             "avg": 1837,
+             "children": [
+              {
+               "san": "Bxc6",
+               "uci": "b5c6",
+               "games": 418464,
+               "white": 178965,
+               "draws": 21734,
+               "black": 217765,
+               "avg": 1827,
+               "children": [
+                {
+                 "san": "Bxc6",
+                 "uci": "d7c6",
+                 "games": 248157,
+                 "white": 108289,
+                 "draws": 13234,
+                 "black": 126634,
+                 "avg": 1828,
+                 "children": [
+                  {
+                   "san": "Nf3",
+                   "uci": "g1f3",
+                   "games": 136446,
+                   "white": 59114,
+                   "draws": 7317,
+                   "black": 70015,
+                   "avg": 1790,
+                   "children": [
+                    {
+                     "san": "Qb6",
+                     "uci": "d8b6",
+                     "games": 64004,
+                     "white": 27510,
+                     "draws": 3408,
+                     "black": 33086,
+                     "avg": 1796,
+                     "children": []
+                    },
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 58492,
+                     "white": 25411,
+                     "draws": 3428,
+                     "black": 29653,
+                     "avg": 1808,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Ne2",
+                   "uci": "g1e2",
+                   "games": 58603,
+                   "white": 26857,
+                   "draws": 3146,
+                   "black": 28600,
+                   "avg": 1882,
+                   "children": [
+                    {
+                     "san": "Qb6",
+                     "uci": "d8b6",
+                     "games": 17193,
+                     "white": 7843,
+                     "draws": 945,
+                     "black": 8405,
+                     "avg": 1866,
+                     "children": []
+                    },
+                    {
+                     "san": "Ne7",
+                     "uci": "g8e7",
+                     "games": 15553,
+                     "white": 6790,
+                     "draws": 797,
+                     "black": 7966,
+                     "avg": 1897,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "f4",
+                   "uci": "f2f4",
+                   "games": 23344,
+                   "white": 9951,
+                   "draws": 1159,
+                   "black": 12234,
+                   "avg": 1832,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 9406,
+                     "white": 3973,
+                     "draws": 523,
+                     "black": 4910,
+                     "avg": 1834,
+                     "children": []
+                    },
+                    {
+                     "san": "Qb6",
+                     "uci": "d8b6",
+                     "games": 7608,
+                     "white": 3116,
+                     "draws": 386,
+                     "black": 4106,
+                     "avg": 1824,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Be3",
+                   "uci": "c1e3",
+                   "games": 15689,
+                   "white": 6769,
+                   "draws": 868,
+                   "black": 8052,
+                   "avg": 1787,
+                   "children": [
+                    {
+                     "san": "Qb6",
+                     "uci": "d8b6",
+                     "games": 6989,
+                     "white": 3012,
+                     "draws": 391,
+                     "black": 3586,
+                     "avg": 1801,
+                     "children": []
+                    },
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 5211,
+                     "white": 2157,
+                     "draws": 316,
+                     "black": 2738,
+                     "avg": 1815,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "san": "bxc6",
+                 "uci": "b7c6",
+                 "games": 169801,
+                 "white": 70280,
+                 "draws": 8486,
+                 "black": 91035,
+                 "avg": 1877,
+                 "children": [
+                  {
+                   "san": "Nf3",
+                   "uci": "g1f3",
+                   "games": 91407,
+                   "white": 38637,
+                   "draws": 4592,
+                   "black": 48178,
+                   "avg": 1822,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 99045,
+                     "white": 41393,
+                     "draws": 4950,
+                     "black": 52702,
+                     "avg": 1857,
+                     "children": []
+                    },
+                    {
+                     "san": "Qb6",
+                     "uci": "d8b6",
+                     "games": 14022,
+                     "white": 6125,
+                     "draws": 670,
+                     "black": 7227,
+                     "avg": 1839,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Ne2",
+                   "uci": "g1e2",
+                   "games": 41535,
+                   "white": 17690,
+                   "draws": 2067,
+                   "black": 21778,
+                   "avg": 1912,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 32345,
+                     "white": 13581,
+                     "draws": 1642,
+                     "black": 17122,
+                     "avg": 1933,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "f4",
+                   "uci": "f2f4",
+                   "games": 16462,
+                   "white": 5885,
+                   "draws": 777,
+                   "black": 9800,
+                   "avg": 1858,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 14606,
+                     "white": 5202,
+                     "draws": 664,
+                     "black": 8740,
+                     "avg": 1883,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Be3",
+                   "uci": "c1e3",
+                   "games": 10049,
+                   "white": 4016,
+                   "draws": 547,
+                   "black": 5486,
+                   "avg": 1814,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 7394,
+                     "white": 2922,
+                     "draws": 406,
+                     "black": 4066,
+                     "avg": 1861,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "Nf3",
+               "uci": "g1f3",
+               "games": 132897,
+               "white": 51033,
+               "draws": 5949,
+               "black": 75915,
+               "avg": 1769,
+               "children": [
+                {
+                 "san": "Nxe5",
+                 "uci": "c6e5",
+                 "games": 234869,
+                 "white": 75100,
+                 "draws": 9829,
+                 "black": 149940,
+                 "avg": 1832,
+                 "children": [
+                  {
+                   "san": "Bxd7+",
+                   "uci": "b5d7",
+                   "games": 124821,
+                   "white": 38687,
+                   "draws": 5412,
+                   "black": 80722,
+                   "avg": 1770,
+                   "children": [
+                    {
+                     "san": "Nxd7",
+                     "uci": "e5d7",
+                     "games": 124664,
+                     "white": 38584,
+                     "draws": 5410,
+                     "black": 80670,
+                     "avg": 1825,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Nxe5",
+                   "uci": "f3e5",
+                   "games": 85809,
+                   "white": 29150,
+                   "draws": 3452,
+                   "black": 53207,
+                   "avg": 1797,
+                   "children": [
+                    {
+                     "san": "Bxb5",
+                     "uci": "d7b5",
+                     "games": 85737,
+                     "white": 29092,
+                     "draws": 3451,
+                     "black": 53194,
+                     "avg": 1841,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "dxe5",
+                   "uci": "d4e5",
+                   "games": 10426,
+                   "white": 3218,
+                   "draws": 371,
+                   "black": 6837,
+                   "avg": 1769,
+                   "children": [
+                    {
+                     "san": "Bxb5",
+                     "uci": "d7b5",
+                     "games": 10418,
+                     "white": 3211,
+                     "draws": 371,
+                     "black": 6836,
+                     "avg": 1832,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Qa4",
+                   "uci": "d1a4",
+                   "games": 5344,
+                   "white": 1614,
+                   "draws": 268,
+                   "black": 3462,
+                   "avg": 1798,
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "san": "Qb6",
+                 "uci": "d8b6",
+                 "games": 84120,
+                 "white": 34822,
+                 "draws": 3939,
+                 "black": 45359,
+                 "avg": 1810,
+                 "children": [
+                  {
+                   "san": "Bxc6",
+                   "uci": "b5c6",
+                   "games": 60932,
+                   "white": 25693,
+                   "draws": 2990,
+                   "black": 32249,
+                   "avg": 1791,
+                   "children": [
+                    {
+                     "san": "Bxc6",
+                     "uci": "d7c6",
+                     "games": 36384,
+                     "white": 15402,
+                     "draws": 1852,
+                     "black": 19130,
+                     "avg": 1797,
+                     "children": []
+                    },
+                    {
+                     "san": "bxc6",
+                     "uci": "b7c6",
+                     "games": 24206,
+                     "white": 10100,
+                     "draws": 1120,
+                     "black": 12986,
+                     "avg": 1863,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "a4",
+                   "uci": "a2a4",
+                   "games": 13018,
+                   "white": 5157,
+                   "draws": 526,
+                   "black": 7335,
+                   "avg": 1731,
+                   "children": [
+                    {
+                     "san": "a6",
+                     "uci": "a7a6",
+                     "games": 18156,
+                     "white": 7152,
+                     "draws": 810,
+                     "black": 10194,
+                     "avg": 1805,
+                     "children": []
+                    },
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 9003,
+                     "white": 3640,
+                     "draws": 416,
+                     "black": 4947,
+                     "avg": 1819,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "Ne2",
+               "uci": "g1e2",
+               "games": 22749,
+               "white": 8941,
+               "draws": 909,
+               "black": 12899,
+               "avg": 1853,
+               "children": [
+                {
+                 "san": "Nxe5",
+                 "uci": "c6e5",
+                 "games": 11750,
+                 "white": 3838,
+                 "draws": 426,
+                 "black": 7486,
+                 "avg": 1889,
+                 "children": [
+                  {
+                   "san": "Bxd7+",
+                   "uci": "b5d7",
+                   "games": 6898,
+                   "white": 2260,
+                   "draws": 256,
+                   "black": 4382,
+                   "avg": 1860,
+                   "children": [
+                    {
+                     "san": "Nxd7",
+                     "uci": "e5d7",
+                     "games": 6895,
+                     "white": 2258,
+                     "draws": 256,
+                     "black": 4381,
+                     "avg": 1884,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "Ba4",
+               "uci": "b5a4",
+               "games": 12669,
+               "white": 6406,
+               "draws": 451,
+               "black": 5812,
+               "avg": 1908,
+               "children": []
+              },
+              {
+               "san": "a4",
+               "uci": "a2a4",
+               "games": 11285,
+               "white": 5141,
+               "draws": 480,
+               "black": 5664,
+               "avg": 1851,
+               "children": [
+                {
+                 "san": "a6",
+                 "uci": "a7a6",
+                 "games": 6530,
+                 "white": 2833,
+                 "draws": 279,
+                 "black": 3418,
+                 "avg": 1863,
+                 "children": [
+                  {
+                   "san": "Bxc6",
+                   "uci": "b5c6",
+                   "games": 5043,
+                   "white": 2272,
+                   "draws": 225,
+                   "black": 2546,
+                   "avg": 1858,
+                   "children": []
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "f4",
+               "uci": "f2f4",
+               "games": 10638,
+               "white": 3924,
+               "draws": 439,
+               "black": 6275,
+               "avg": 1804,
+               "children": [
+                {
+                 "san": "Nxe5",
+                 "uci": "c6e5",
+                 "games": 7375,
+                 "white": 2403,
+                 "draws": 305,
+                 "black": 4667,
+                 "avg": 1842,
+                 "children": []
+                }
+               ]
+              }
+             ]
+            },
+            {
+             "san": "Qb6",
+             "uci": "d8b6",
+             "games": 532475,
+             "white": 211791,
+             "draws": 24289,
+             "black": 296395,
+             "avg": 1844,
+             "children": [
+              {
+               "san": "Bxc6+",
+               "uci": "b5c6",
+               "games": 429957,
+               "white": 170624,
+               "draws": 20080,
+               "black": 239253,
+               "avg": 1823,
+               "children": [
+                {
+                 "san": "bxc6",
+                 "uci": "b7c6",
+                 "games": 401666,
+                 "white": 157021,
+                 "draws": 18505,
+                 "black": 226140,
+                 "avg": 1851,
+                 "children": [
+                  {
+                   "san": "Nf3",
+                   "uci": "g1f3",
+                   "games": 221612,
+                   "white": 85246,
+                   "draws": 9974,
+                   "black": 126392,
+                   "avg": 1805,
+                   "children": [
+                    {
+                     "san": "Ba6",
+                     "uci": "c8a6",
+                     "games": 143436,
+                     "white": 49438,
+                     "draws": 6062,
+                     "black": 87936,
+                     "avg": 1847,
+                     "children": []
+                    },
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 111295,
+                     "white": 46273,
+                     "draws": 5271,
+                     "black": 59751,
+                     "avg": 1821,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Ne2",
+                   "uci": "g1e2",
+                   "games": 105411,
+                   "white": 45543,
+                   "draws": 4708,
+                   "black": 55160,
+                   "avg": 1887,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 52941,
+                     "white": 23460,
+                     "draws": 2500,
+                     "black": 26981,
+                     "avg": 1899,
+                     "children": []
+                    },
+                    {
+                     "san": "Ba6",
+                     "uci": "c8a6",
+                     "games": 33016,
+                     "white": 13792,
+                     "draws": 1398,
+                     "black": 17826,
+                     "avg": 1913,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Qb3",
+                   "uci": "d1b3",
+                   "games": 25386,
+                   "white": 9672,
+                   "draws": 1855,
+                   "black": 13859,
+                   "avg": 1819,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 10198,
+                     "white": 3604,
+                     "draws": 753,
+                     "black": 5841,
+                     "avg": 1853,
+                     "children": []
+                    },
+                    {
+                     "san": "Ba6",
+                     "uci": "c8a6",
+                     "games": 5687,
+                     "white": 1985,
+                     "draws": 418,
+                     "black": 3284,
+                     "avg": 1870,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "b3",
+                   "uci": "b2b3",
+                   "games": 17324,
+                   "white": 6121,
+                   "draws": 871,
+                   "black": 10332,
+                   "avg": 1782,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 9885,
+                     "white": 3493,
+                     "draws": 509,
+                     "black": 5883,
+                     "avg": 1816,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "f4",
+                   "uci": "f2f4",
+                   "games": 16761,
+                   "white": 5821,
+                   "draws": 724,
+                   "black": 10216,
+                   "avg": 1826,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 10276,
+                     "white": 3457,
+                     "draws": 453,
+                     "black": 6366,
+                     "avg": 1846,
+                     "children": []
+                    },
+                    {
+                     "san": "Ba6",
+                     "uci": "c8a6",
+                     "games": 7073,
+                     "white": 2466,
+                     "draws": 308,
+                     "black": 4299,
+                     "avg": 1853,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "a3",
+                   "uci": "a2a3",
+                   "games": 6453,
+                   "white": 2551,
+                   "draws": 319,
+                   "black": 3583,
+                   "avg": 1821,
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "san": "Qxc6",
+                 "uci": "b6c6",
+                 "games": 28172,
+                 "white": 13506,
+                 "draws": 1570,
+                 "black": 13096,
+                 "avg": 1792,
+                 "children": [
+                  {
+                   "san": "Nf3",
+                   "uci": "g1f3",
+                   "games": 17850,
+                   "white": 8595,
+                   "draws": 968,
+                   "black": 8287,
+                   "avg": 1776,
+                   "children": [
+                    {
+                     "san": "Ne7",
+                     "uci": "g8e7",
+                     "games": 9284,
+                     "white": 4214,
+                     "draws": 513,
+                     "black": 4557,
+                     "avg": 1786,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Ne2",
+                   "uci": "g1e2",
+                   "games": 5331,
+                   "white": 2678,
+                   "draws": 290,
+                   "black": 2363,
+                   "avg": 1861,
+                   "children": []
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "a4",
+               "uci": "a2a4",
+               "games": 46133,
+               "white": 18677,
+               "draws": 1809,
+               "black": 25647,
+               "avg": 1788,
+               "children": [
+                {
+                 "san": "a6",
+                 "uci": "a7a6",
+                 "games": 23622,
+                 "white": 9647,
+                 "draws": 926,
+                 "black": 13049,
+                 "avg": 1814,
+                 "children": [
+                  {
+                   "san": "Bxc6+",
+                   "uci": "b5c6",
+                   "games": 20278,
+                   "white": 8545,
+                   "draws": 812,
+                   "black": 10921,
+                   "avg": 1796,
+                   "children": [
+                    {
+                     "san": "bxc6",
+                     "uci": "b7c6",
+                     "games": 17433,
+                     "white": 7277,
+                     "draws": 688,
+                     "black": 9468,
+                     "avg": 1823,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "san": "Bd7",
+                 "uci": "c8d7",
+                 "games": 15883,
+                 "white": 6488,
+                 "draws": 637,
+                 "black": 8758,
+                 "avg": 1834,
+                 "children": [
+                  {
+                   "san": "Bxc6",
+                   "uci": "b5c6",
+                   "games": 5762,
+                   "white": 2379,
+                   "draws": 235,
+                   "black": 3148,
+                   "avg": 1817,
+                   "children": []
+                  },
+                  {
+                   "san": "Nf3",
+                   "uci": "g1f3",
+                   "games": 5530,
+                   "white": 2292,
+                   "draws": 253,
+                   "black": 2985,
+                   "avg": 1776,
+                   "children": [
+                    {
+                     "san": "a6",
+                     "uci": "a7a6",
+                     "games": 18156,
+                     "white": 7152,
+                     "draws": 810,
+                     "black": 10194,
+                     "avg": 1805,
+                     "children": []
+                    },
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 9003,
+                     "white": 3640,
+                     "draws": 416,
+                     "black": 4947,
+                     "avg": 1819,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "Ba4",
+               "uci": "b5a4",
+               "games": 18691,
+               "white": 8793,
+               "draws": 637,
+               "black": 9261,
+               "avg": 1866,
+               "children": [
+                {
+                 "san": "Bd7",
+                 "uci": "c8d7",
+                 "games": 11191,
+                 "white": 5326,
+                 "draws": 387,
+                 "black": 5478,
+                 "avg": 1888,
+                 "children": [
+                  {
+                   "san": "Nf3",
+                   "uci": "g1f3",
+                   "games": 5696,
+                   "white": 2797,
+                   "draws": 213,
+                   "black": 2686,
+                   "avg": 1852,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 5230,
+                     "white": 2489,
+                     "draws": 234,
+                     "black": 2507,
+                     "avg": 1844,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "Qa4",
+               "uci": "d1a4",
+               "games": 10570,
+               "white": 3821,
+               "draws": 504,
+               "black": 6245,
+               "avg": 1775,
+               "children": [
+                {
+                 "san": "Bd7",
+                 "uci": "c8d7",
+                 "games": 8525,
+                 "white": 2992,
+                 "draws": 402,
+                 "black": 5131,
+                 "avg": 1810,
+                 "children": []
+                }
+               ]
+              },
+              {
+               "san": "Na3",
+               "uci": "b1a3",
+               "games": 10032,
+               "white": 3680,
+               "draws": 398,
+               "black": 5954,
+               "avg": 1761,
+               "children": []
+              },
+              {
+               "san": "Qb3",
+               "uci": "d1b3",
+               "games": 8872,
+               "white": 3636,
+               "draws": 579,
+               "black": 4657,
+               "avg": 1815,
+               "children": []
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "san": "f4",
+           "uci": "f2f4",
+           "games": 711427,
+           "white": 297673,
+           "draws": 28809,
+           "black": 384945,
+           "avg": 1863,
+           "children": [
+            {
+             "san": "Qb6",
+             "uci": "d8b6",
+             "games": 386297,
+             "white": 154178,
+             "draws": 15782,
+             "black": 216337,
+             "avg": 1863,
+             "children": [
+              {
+               "san": "Nf3",
+               "uci": "g1f3",
+               "games": 437292,
+               "white": 177654,
+               "draws": 17902,
+               "black": 241736,
+               "avg": 1851,
+               "children": [
+                {
+                 "san": "cxd4",
+                 "uci": "c5d4",
+                 "games": 198411,
+                 "white": 85404,
+                 "draws": 8415,
+                 "black": 104592,
+                 "avg": 1846,
+                 "children": [
+                  {
+                   "san": "cxd4",
+                   "uci": "c3d4",
+                   "games": 158459,
+                   "white": 70340,
+                   "draws": 6364,
+                   "black": 81755,
+                   "avg": 1844,
+                   "children": [
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 86833,
+                     "white": 35011,
+                     "draws": 3501,
+                     "black": 48321,
+                     "avg": 1859,
+                     "children": []
+                    },
+                    {
+                     "san": "Bb4+",
+                     "uci": "f8b4",
+                     "games": 85574,
+                     "white": 42298,
+                     "draws": 3337,
+                     "black": 39939,
+                     "avg": 1836,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Nxd4",
+                   "uci": "f3d4",
+                   "games": 38767,
+                   "white": 14611,
+                   "draws": 2012,
+                   "black": 22144,
+                   "avg": 1810,
+                   "children": [
+                    {
+                     "san": "Nxd4",
+                     "uci": "c6d4",
+                     "games": 19237,
+                     "white": 8003,
+                     "draws": 1182,
+                     "black": 10052,
+                     "avg": 1811,
+                     "children": []
+                    },
+                    {
+                     "san": "Bc5",
+                     "uci": "f8c5",
+                     "games": 17128,
+                     "white": 5442,
+                     "draws": 685,
+                     "black": 11001,
+                     "avg": 1845,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "san": "Bd7",
+                 "uci": "c8d7",
+                 "games": 135244,
+                 "white": 51359,
+                 "draws": 5365,
+                 "black": 78520,
+                 "avg": 1871,
+                 "children": [
+                  {
+                   "san": "Be2",
+                   "uci": "f1e2",
+                   "games": 74198,
+                   "white": 28741,
+                   "draws": 2798,
+                   "black": 42659,
+                   "avg": 1869,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 27597,
+                     "white": 11282,
+                     "draws": 1182,
+                     "black": 15133,
+                     "avg": 1864,
+                     "children": []
+                    },
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 15676,
+                     "white": 5942,
+                     "draws": 571,
+                     "black": 9163,
+                     "avg": 1868,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "b3",
+                   "uci": "b2b3",
+                   "games": 33618,
+                   "white": 11549,
+                   "draws": 1264,
+                   "black": 20805,
+                   "avg": 1838,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 17386,
+                     "white": 5883,
+                     "draws": 666,
+                     "black": 10837,
+                     "avg": 1852,
+                     "children": []
+                    },
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 5057,
+                     "white": 1842,
+                     "draws": 192,
+                     "black": 3023,
+                     "avg": 1832,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "a3",
+                   "uci": "a2a3",
+                   "games": 23080,
+                   "white": 9790,
+                   "draws": 885,
+                   "black": 12405,
+                   "avg": 1910,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 7782,
+                     "white": 3409,
+                     "draws": 296,
+                     "black": 4077,
+                     "avg": 1882,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Bd3",
+                   "uci": "f1d3",
+                   "games": 17714,
+                   "white": 6488,
+                   "draws": 545,
+                   "black": 10681,
+                   "avg": 1858,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 13795,
+                     "white": 4733,
+                     "draws": 439,
+                     "black": 8623,
+                     "avg": 1879,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Qb3",
+                   "uci": "d1b3",
+                   "games": 16351,
+                   "white": 7031,
+                   "draws": 1126,
+                   "black": 8194,
+                   "avg": 1889,
+                   "children": [
+                    {
+                     "san": "Qxb3",
+                     "uci": "b6b3",
+                     "games": 5829,
+                     "white": 2534,
+                     "draws": 467,
+                     "black": 2828,
+                     "avg": 1882,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Na3",
+                   "uci": "b1a3",
+                   "games": 15854,
+                   "white": 6279,
+                   "draws": 711,
+                   "black": 8864,
+                   "avg": 1835,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 9156,
+                     "white": 3481,
+                     "draws": 417,
+                     "black": 5258,
+                     "avg": 1860,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "Qb3",
+               "uci": "d1b3",
+               "games": 7582,
+               "white": 2631,
+               "draws": 460,
+               "black": 4491,
+               "avg": 1828,
+               "children": []
+              },
+              {
+               "san": "Be3",
+               "uci": "c1e3",
+               "games": 6467,
+               "white": 1565,
+               "draws": 165,
+               "black": 4737,
+               "avg": 1723,
+               "children": [
+                {
+                 "san": "Qxb2",
+                 "uci": "b6b2",
+                 "games": 5762,
+                 "white": 1160,
+                 "draws": 126,
+                 "black": 4476,
+                 "avg": 1779,
+                 "children": []
+                }
+               ]
+              }
+             ]
+            },
+            {
+             "san": "cxd4",
+             "uci": "c5d4",
+             "games": 157670,
+             "white": 69330,
+             "draws": 6322,
+             "black": 82018,
+             "avg": 1864,
+             "children": [
+              {
+               "san": "cxd4",
+               "uci": "c3d4",
+               "games": 154446,
+               "white": 68035,
+               "draws": 6217,
+               "black": 80194,
+               "avg": 1852,
+               "children": [
+                {
+                 "san": "Nge7",
+                 "uci": "g8e7",
+                 "games": 76791,
+                 "white": 33030,
+                 "draws": 3165,
+                 "black": 40596,
+                 "avg": 1864,
+                 "children": [
+                  {
+                   "san": "Nf3",
+                   "uci": "g1f3",
+                   "games": 64444,
+                   "white": 27725,
+                   "draws": 2669,
+                   "black": 34050,
+                   "avg": 1861,
+                   "children": [
+                    {
+                     "san": "Nf5",
+                     "uci": "e7f5",
+                     "games": 82884,
+                     "white": 34705,
+                     "draws": 3364,
+                     "black": 44815,
+                     "avg": 1867,
+                     "children": []
+                    },
+                    {
+                     "san": "Qb6",
+                     "uci": "d8b6",
+                     "games": 14288,
+                     "white": 5708,
+                     "draws": 578,
+                     "black": 8002,
+                     "avg": 1891,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "san": "Qb6",
+                 "uci": "d8b6",
+                 "games": 75479,
+                 "white": 31963,
+                 "draws": 2917,
+                 "black": 40599,
+                 "avg": 1871,
+                 "children": [
+                  {
+                   "san": "Nf3",
+                   "uci": "g1f3",
+                   "games": 77126,
+                   "white": 33080,
+                   "draws": 3014,
+                   "black": 41032,
+                   "avg": 1858,
+                   "children": [
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 86833,
+                     "white": 35011,
+                     "draws": 3501,
+                     "black": 48321,
+                     "avg": 1859,
+                     "children": []
+                    },
+                    {
+                     "san": "Bb4+",
+                     "uci": "f8b4",
+                     "games": 85574,
+                     "white": 42298,
+                     "draws": 3337,
+                     "black": 39939,
+                     "avg": 1836,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "san": "Be3",
+           "uci": "c1e3",
+           "games": 647417,
+           "white": 285712,
+           "draws": 29654,
+           "black": 332051,
+           "avg": 1846,
+           "children": [
+            {
+             "san": "Qb6",
+             "uci": "d8b6",
+             "games": 367014,
+             "white": 157291,
+             "draws": 16925,
+             "black": 192798,
+             "avg": 1856,
+             "children": [
+              {
+               "san": "Qd2",
+               "uci": "d1d2",
+               "games": 154003,
+               "white": 75532,
+               "draws": 6972,
+               "black": 71499,
+               "avg": 1900,
+               "children": [
+                {
+                 "san": "cxd4",
+                 "uci": "c5d4",
+                 "games": 85341,
+                 "white": 43534,
+                 "draws": 3950,
+                 "black": 37857,
+                 "avg": 1898,
+                 "children": [
+                  {
+                   "san": "cxd4",
+                   "uci": "c3d4",
+                   "games": 75954,
+                   "white": 39691,
+                   "draws": 3467,
+                   "black": 32796,
+                   "avg": 1907,
+                   "children": [
+                    {
+                     "san": "Bb4",
+                     "uci": "f8b4",
+                     "games": 49062,
+                     "white": 26650,
+                     "draws": 2332,
+                     "black": 20080,
+                     "avg": 1880,
+                     "children": []
+                    },
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 35053,
+                     "white": 17519,
+                     "draws": 1540,
+                     "black": 15994,
+                     "avg": 1926,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Bxd4",
+                   "uci": "e3d4",
+                   "games": 9171,
+                   "white": 3811,
+                   "draws": 473,
+                   "black": 4887,
+                   "avg": 1792,
+                   "children": [
+                    {
+                     "san": "Nxd4",
+                     "uci": "c6d4",
+                     "games": 7771,
+                     "white": 3237,
+                     "draws": 395,
+                     "black": 4139,
+                     "avg": 1822,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "san": "Bd7",
+                 "uci": "c8d7",
+                 "games": 32970,
+                 "white": 15199,
+                 "draws": 1511,
+                 "black": 16260,
+                 "avg": 1923,
+                 "children": [
+                  {
+                   "san": "Nf3",
+                   "uci": "g1f3",
+                   "games": 20568,
+                   "white": 9658,
+                   "draws": 999,
+                   "black": 9911,
+                   "avg": 1927,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 20330,
+                     "white": 9232,
+                     "draws": 1055,
+                     "black": 10043,
+                     "avg": 1888,
+                     "children": []
+                    },
+                    {
+                     "san": "Rc8",
+                     "uci": "a8c8",
+                     "games": 13227,
+                     "white": 5602,
+                     "draws": 582,
+                     "black": 7043,
+                     "avg": 1930,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "f4",
+                   "uci": "f2f4",
+                   "games": 8596,
+                   "white": 4292,
+                   "draws": 368,
+                   "black": 3936,
+                   "avg": 1963,
+                   "children": []
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "b3",
+               "uci": "b2b3",
+               "games": 91830,
+               "white": 34283,
+               "draws": 3662,
+               "black": 53885,
+               "avg": 1777,
+               "children": [
+                {
+                 "san": "cxd4",
+                 "uci": "c5d4",
+                 "games": 81719,
+                 "white": 29472,
+                 "draws": 3278,
+                 "black": 48969,
+                 "avg": 1815,
+                 "children": [
+                  {
+                   "san": "cxd4",
+                   "uci": "c3d4",
+                   "games": 60913,
+                   "white": 22550,
+                   "draws": 2264,
+                   "black": 36099,
+                   "avg": 1781,
+                   "children": [
+                    {
+                     "san": "Bb4+",
+                     "uci": "f8b4",
+                     "games": 56275,
+                     "white": 20381,
+                     "draws": 2048,
+                     "black": 33846,
+                     "avg": 1821,
+                     "children": []
+                    },
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 12307,
+                     "white": 4828,
+                     "draws": 513,
+                     "black": 6966,
+                     "avg": 1808,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Bxd4",
+                   "uci": "e3d4",
+                   "games": 20633,
+                   "white": 6903,
+                   "draws": 1012,
+                   "black": 12718,
+                   "avg": 1761,
+                   "children": [
+                    {
+                     "san": "Nxd4",
+                     "uci": "c6d4",
+                     "games": 17467,
+                     "white": 5676,
+                     "draws": 850,
+                     "black": 10941,
+                     "avg": 1809,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "san": "Bd7",
+                 "uci": "c8d7",
+                 "games": 18329,
+                 "white": 6873,
+                 "draws": 776,
+                 "black": 10680,
+                 "avg": 1802,
+                 "children": [
+                  {
+                   "san": "Nf3",
+                   "uci": "g1f3",
+                   "games": 11943,
+                   "white": 4745,
+                   "draws": 543,
+                   "black": 6655,
+                   "avg": 1779,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 59162,
+                     "white": 21703,
+                     "draws": 2638,
+                     "black": 34821,
+                     "avg": 1819,
+                     "children": []
+                    },
+                    {
+                     "san": "Rc8",
+                     "uci": "a8c8",
+                     "games": 18860,
+                     "white": 6468,
+                     "draws": 733,
+                     "black": 11659,
+                     "avg": 1829,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "Qb3",
+               "uci": "d1b3",
+               "games": 52553,
+               "white": 22311,
+               "draws": 3794,
+               "black": 26448,
+               "avg": 1839,
+               "children": [
+                {
+                 "san": "Qxb3",
+                 "uci": "b6b3",
+                 "games": 23237,
+                 "white": 9973,
+                 "draws": 1806,
+                 "black": 11458,
+                 "avg": 1849,
+                 "children": [
+                  {
+                   "san": "axb3",
+                   "uci": "a2b3",
+                   "games": 23197,
+                   "white": 9972,
+                   "draws": 1805,
+                   "black": 11420,
+                   "avg": 1833,
+                   "children": [
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 21895,
+                     "white": 9251,
+                     "draws": 1742,
+                     "black": 10902,
+                     "avg": 1853,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "san": "cxd4",
+                 "uci": "c5d4",
+                 "games": 15107,
+                 "white": 6446,
+                 "draws": 1136,
+                 "black": 7525,
+                 "avg": 1856,
+                 "children": [
+                  {
+                   "san": "Qxb6",
+                   "uci": "b3b6",
+                   "games": 12466,
+                   "white": 5314,
+                   "draws": 992,
+                   "black": 6160,
+                   "avg": 1835,
+                   "children": [
+                    {
+                     "san": "axb6",
+                     "uci": "a7b6",
+                     "games": 12449,
+                     "white": 5299,
+                     "draws": 991,
+                     "black": 6159,
+                     "avg": 1854,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "Qc2",
+               "uci": "d1c2",
+               "games": 32684,
+               "white": 12727,
+               "draws": 1263,
+               "black": 18694,
+               "avg": 1749,
+               "children": [
+                {
+                 "san": "cxd4",
+                 "uci": "c5d4",
+                 "games": 21309,
+                 "white": 8974,
+                 "draws": 843,
+                 "black": 11492,
+                 "avg": 1795,
+                 "children": [
+                  {
+                   "san": "cxd4",
+                   "uci": "c3d4",
+                   "games": 18887,
+                   "white": 8172,
+                   "draws": 725,
+                   "black": 9990,
+                   "avg": 1753,
+                   "children": [
+                    {
+                     "san": "Nxd4",
+                     "uci": "c6d4",
+                     "games": 6854,
+                     "white": 3376,
+                     "draws": 215,
+                     "black": 3263,
+                     "avg": 1793,
+                     "children": []
+                    },
+                    {
+                     "san": "Bb4+",
+                     "uci": "f8b4",
+                     "games": 5688,
+                     "white": 2390,
+                     "draws": 243,
+                     "black": 3055,
+                     "avg": 1779,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "san": "Bd7",
+                 "uci": "c8d7",
+                 "games": 8988,
+                 "white": 2776,
+                 "draws": 304,
+                 "black": 5908,
+                 "avg": 1807,
+                 "children": [
+                  {
+                   "san": "Nf3",
+                   "uci": "g1f3",
+                   "games": 5732,
+                   "white": 1877,
+                   "draws": 205,
+                   "black": 3650,
+                   "avg": 1776,
+                   "children": [
+                    {
+                     "san": "Rc8",
+                     "uci": "a8c8",
+                     "games": 23549,
+                     "white": 6361,
+                     "draws": 785,
+                     "black": 16403,
+                     "avg": 1846,
+                     "children": []
+                    },
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 16771,
+                     "white": 6491,
+                     "draws": 797,
+                     "black": 9483,
+                     "avg": 1813,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "Nf3",
+               "uci": "g1f3",
+               "games": 16721,
+               "white": 6230,
+               "draws": 592,
+               "black": 9899,
+               "avg": 1750,
+               "children": [
+                {
+                 "san": "Qxb2",
+                 "uci": "b6b2",
+                 "games": 213643,
+                 "white": 73115,
+                 "draws": 6608,
+                 "black": 133920,
+                 "avg": 1778,
+                 "children": [
+                  {
+                   "san": "Nbd2",
+                   "uci": "b1d2",
+                   "games": 185098,
+                   "white": 68221,
+                   "draws": 6088,
+                   "black": 110789,
+                   "avg": 1710,
+                   "children": [
+                    {
+                     "san": "Qxc3",
+                     "uci": "b2c3",
+                     "games": 158565,
+                     "white": 59243,
+                     "draws": 5159,
+                     "black": 94163,
+                     "avg": 1775,
+                     "children": []
+                    },
+                    {
+                     "san": "cxd4",
+                     "uci": "c5d4",
+                     "games": 14169,
+                     "white": 5356,
+                     "draws": 559,
+                     "black": 8254,
+                     "avg": 1800,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Qb3",
+                   "uci": "d1b3",
+                   "games": 6295,
+                   "white": 1503,
+                   "draws": 170,
+                   "black": 4622,
+                   "avg": 1738,
+                   "children": [
+                    {
+                     "san": "Qxa1",
+                     "uci": "b2a1",
+                     "games": 5000,
+                     "white": 1132,
+                     "draws": 100,
+                     "black": 3768,
+                     "avg": 1781,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "san": "cxd4",
+                 "uci": "c5d4",
+                 "games": 43466,
+                 "white": 16919,
+                 "draws": 1761,
+                 "black": 24786,
+                 "avg": 1781,
+                 "children": [
+                  {
+                   "san": "Nxd4",
+                   "uci": "f3d4",
+                   "games": 19546,
+                   "white": 7811,
+                   "draws": 790,
+                   "black": 10945,
+                   "avg": 1723,
+                   "children": [
+                    {
+                     "san": "Qxb2",
+                     "uci": "b6b2",
+                     "games": 9545,
+                     "white": 3834,
+                     "draws": 319,
+                     "black": 5392,
+                     "avg": 1793,
+                     "children": []
+                    },
+                    {
+                     "san": "Nxd4",
+                     "uci": "c6d4",
+                     "games": 6847,
+                     "white": 2753,
+                     "draws": 327,
+                     "black": 3767,
+                     "avg": 1772,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "cxd4",
+                   "uci": "c3d4",
+                   "games": 17282,
+                   "white": 6939,
+                   "draws": 719,
+                   "black": 9624,
+                   "avg": 1716,
+                   "children": [
+                    {
+                     "san": "Qxb2",
+                     "uci": "b6b2",
+                     "games": 21745,
+                     "white": 8379,
+                     "draws": 828,
+                     "black": 12538,
+                     "avg": 1786,
+                     "children": []
+                    },
+                    {
+                     "san": "Bb4+",
+                     "uci": "f8b4",
+                     "games": 5142,
+                     "white": 2463,
+                     "draws": 228,
+                     "black": 2451,
+                     "avg": 1776,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Bxd4",
+                   "uci": "e3d4",
+                   "games": 6028,
+                   "white": 2021,
+                   "draws": 233,
+                   "black": 3774,
+                   "avg": 1709,
+                   "children": []
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "dxc5",
+               "uci": "d4c5",
+               "games": 10581,
+               "white": 3851,
+               "draws": 436,
+               "black": 6294,
+               "avg": 1783,
+               "children": [
+                {
+                 "san": "Bxc5",
+                 "uci": "f8c5",
+                 "games": 5556,
+                 "white": 2112,
+                 "draws": 284,
+                 "black": 3160,
+                 "avg": 1800,
+                 "children": [
+                  {
+                   "san": "Bxc5",
+                   "uci": "e3c5",
+                   "games": 5690,
+                   "white": 2177,
+                   "draws": 300,
+                   "black": 3213,
+                   "avg": 1769,
+                   "children": [
+                    {
+                     "san": "Qxc5",
+                     "uci": "b6c5",
+                     "games": 5613,
+                     "white": 2133,
+                     "draws": 296,
+                     "black": 3184,
+                     "avg": 1800,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                },
+                {
+                 "san": "Qxb2",
+                 "uci": "b6b2",
+                 "games": 5006,
+                 "white": 1719,
+                 "draws": 151,
+                 "black": 3136,
+                 "avg": 1850,
+                 "children": []
+                }
+               ]
+              }
+             ]
+            },
+            {
+             "san": "cxd4",
+             "uci": "c5d4",
+             "games": 139534,
+             "white": 64762,
+             "draws": 6481,
+             "black": 68291,
+             "avg": 1862,
+             "children": [
+              {
+               "san": "cxd4",
+               "uci": "c3d4",
+               "games": 125879,
+               "white": 59439,
+               "draws": 5754,
+               "black": 60686,
+               "avg": 1850,
+               "children": [
+                {
+                 "san": "Nge7",
+                 "uci": "g8e7",
+                 "games": 60118,
+                 "white": 28440,
+                 "draws": 2721,
+                 "black": 28957,
+                 "avg": 1868,
+                 "children": [
+                  {
+                   "san": "Bd3",
+                   "uci": "f1d3",
+                   "games": 14716,
+                   "white": 7511,
+                   "draws": 667,
+                   "black": 6538,
+                   "avg": 1909,
+                   "children": [
+                    {
+                     "san": "Nf5",
+                     "uci": "e7f5",
+                     "games": 6559,
+                     "white": 3326,
+                     "draws": 327,
+                     "black": 2906,
+                     "avg": 1924,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Nc3",
+                   "uci": "b1c3",
+                   "games": 13861,
+                   "white": 6821,
+                   "draws": 656,
+                   "black": 6384,
+                   "avg": 1876,
+                   "children": [
+                    {
+                     "san": "Nf5",
+                     "uci": "e7f5",
+                     "games": 15631,
+                     "white": 7716,
+                     "draws": 761,
+                     "black": 7154,
+                     "avg": 1898,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Nf3",
+                   "uci": "g1f3",
+                   "games": 11925,
+                   "white": 5777,
+                   "draws": 574,
+                   "black": 5574,
+                   "avg": 1850,
+                   "children": [
+                    {
+                     "san": "Nf5",
+                     "uci": "e7f5",
+                     "games": 36758,
+                     "white": 16924,
+                     "draws": 1804,
+                     "black": 18030,
+                     "avg": 1851,
+                     "children": []
+                    },
+                    {
+                     "san": "Ng6",
+                     "uci": "e7g6",
+                     "games": 6925,
+                     "white": 3239,
+                     "draws": 309,
+                     "black": 3377,
+                     "avg": 1836,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Bb5",
+                   "uci": "f1b5",
+                   "games": 6588,
+                   "white": 2643,
+                   "draws": 284,
+                   "black": 3661,
+                   "avg": 1766,
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "san": "Bb4+",
+                 "uci": "f8b4",
+                 "games": 51837,
+                 "white": 26375,
+                 "draws": 2393,
+                 "black": 23069,
+                 "avg": 1843,
+                 "children": [
+                  {
+                   "san": "Nc3",
+                   "uci": "b1c3",
+                   "games": 46808,
+                   "white": 24079,
+                   "draws": 2149,
+                   "black": 20580,
+                   "avg": 1843,
+                   "children": [
+                    {
+                     "san": "Nge7",
+                     "uci": "g8e7",
+                     "games": 35986,
+                     "white": 18685,
+                     "draws": 1634,
+                     "black": 15667,
+                     "avg": 1858,
+                     "children": []
+                    },
+                    {
+                     "san": "Qa5",
+                     "uci": "d8a5",
+                     "games": 13093,
+                     "white": 6742,
+                     "draws": 628,
+                     "black": 5723,
+                     "avg": 1845,
+                     "children": []
+                    }
+                   ]
+                  }
+                 ]
+                }
+               ]
+              },
+              {
+               "san": "Bxd4",
+               "uci": "e3d4",
+               "games": 13485,
+               "white": 5397,
+               "draws": 732,
+               "black": 7356,
+               "avg": 1782,
+               "children": [
+                {
+                 "san": "Nxd4",
+                 "uci": "c6d4",
+                 "games": 16053,
+                 "white": 6324,
+                 "draws": 964,
+                 "black": 8765,
+                 "avg": 1804,
+                 "children": [
+                  {
+                   "san": "cxd4",
+                   "uci": "c3d4",
+                   "games": 12009,
+                   "white": 4801,
+                   "draws": 714,
+                   "black": 6494,
+                   "avg": 1773,
+                   "children": []
+                  }
+                 ]
+                },
+                {
+                 "san": "Nge7",
+                 "uci": "g8e7",
+                 "games": 15676,
+                 "white": 5989,
+                 "draws": 751,
+                 "black": 8936,
+                 "avg": 1824,
+                 "children": [
+                  {
+                   "san": "Nf3",
+                   "uci": "g1f3",
+                   "games": 5837,
+                   "white": 2283,
+                   "draws": 262,
+                   "black": 3292,
+                   "avg": 1771,
+                   "children": [
+                    {
+                     "san": "Nf5",
+                     "uci": "e7f5",
+                     "games": 5358,
+                     "white": 2079,
+                     "draws": 272,
+                     "black": 3007,
+                     "avg": 1825,
+                     "children": []
+                    }
+                   ]
+                  },
+                  {
+                   "san": "Bb5",
+                   "uci": "f1b5",
+                   "games": 5012,
+                   "white": 1834,
+                   "draws": 258,
+                   "black": 2920,
+                   "avg": 1760,
+                   "children": []
+                  }
+                 ]
+                }
+               ]
+              }
+             ]
+            }
+           ]
+          },
+          {
+           "san": "a3",
+           "uci": "a2a3",
+           "games": 325783,
+           "white": 156902,
+           "draws": 14347,
+           "black": 154534,
+           "avg": 1906,
+           "children": []
+          },
+          {
+           "san": "Bd3",
+           "uci": "f1d3",
+           "games": 110406,
+           "white": 50954,
+           "draws": 4016,
+           "black": 55436,
+           "avg": 1886,
+           "children": []
+          }
+         ]
+        },
+        {
+         "san": "Qb6",
+         "uci": "d8b6",
+         "games": 2074153,
+         "white": 927431,
+         "draws": 97078,
+         "black": 1049644,
+         "avg": 1866,
+         "children": []
+        }
+       ]
+      },
+      {
+       "san": "Nf3",
+       "uci": "g1f3",
+       "games": 3206087,
+       "white": 1335042,
+       "draws": 129803,
+       "black": 1741242,
+       "avg": 1775,
+       "children": []
+      },
+      {
+       "san": "Bb5+",
+       "uci": "f1b5",
+       "games": 631908,
+       "white": 258061,
+       "draws": 30269,
+       "black": 343578,
+       "avg": 1777,
+       "children": []
+      },
+      {
+       "san": "dxc5",
+       "uci": "d4c5",
+       "games": 505741,
+       "white": 207530,
+       "draws": 19642,
+       "black": 278569,
+       "avg": 1794,
+       "children": []
+      },
+      {
+       "san": "f4",
+       "uci": "f2f4",
+       "games": 453782,
+       "white": 189609,
+       "draws": 17263,
+       "black": 246910,
+       "avg": 1847,
+       "children": []
+      },
+      {
+       "san": "Be3",
+       "uci": "c1e3",
+       "games": 421166,
+       "white": 164088,
+       "draws": 18210,
+       "black": 238868,
+       "avg": 1739,
+       "children": []
+      }
+     ]
+    },
+    {
+     "san": "Nc6",
+     "uci": "b8c6",
+     "games": 716102,
+     "white": 383274,
+     "draws": 28112,
+     "black": 304716,
+     "avg": 1731,
+     "children": []
+    }
+   ]
+  },
+  {
+   "san": "exd5",
+   "uci": "e4d5",
+   "games": 22137452,
+   "white": 10453540,
+   "draws": 1293617,
+   "black": 10390295,
+   "avg": 1865,
+   "children": []
+  },
+  {
+   "san": "Nc3",
+   "uci": "b1c3",
+   "games": 15257982,
+   "white": 7645766,
+   "draws": 747155,
+   "black": 6865061,
+   "avg": 1928,
+   "children": []
+  },
+  {
+   "san": "Nd2",
+   "uci": "b1d2",
+   "games": 7534720,
+   "white": 3841771,
+   "draws": 394398,
+   "black": 3298551,
+   "avg": 1960,
+   "children": []
+  },
+  {
+   "san": "Bd3",
+   "uci": "f1d3",
+   "games": 1556152,
+   "white": 777609,
+   "draws": 78988,
+   "black": 699555,
+   "avg": 1929,
+   "children": []
+  },
+  {
+   "san": "c4",
+   "uci": "c2c4",
+   "games": 355233,
+   "white": 175795,
+   "draws": 14009,
+   "black": 165429,
+   "avg": 1908,
+   "children": []
+  }
+ ]
+}

@@ -1,0 +1,11236 @@
+{
+ "rep": "caro-kann",
+ "trunk": [
+  "e4",
+  "c6",
+  "d4",
+  "d5"
+ ],
+ "nodes": [
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5"
+   ],
+   "fen": "rnbqkbnr/pp2pppp/2p5/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3",
+   "games": 23054721,
+   "white": 10868019,
+   "draws": 1070779,
+   "black": 11115923,
+   "name": "Advance (3.e5)",
+   "top": [
+    {
+     "san": "Bf5",
+     "games": 15829807,
+     "white": 7524053,
+     "draws": 741651,
+     "black": 7564103
+    },
+    {
+     "san": "c5",
+     "games": 5588793,
+     "white": 2497195,
+     "draws": 259729,
+     "black": 2831869
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5"
+   ],
+   "fen": "rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4",
+   "games": 15829807,
+   "white": 7524053,
+   "draws": 741651,
+   "black": 7564103,
+   "top": [
+    {
+     "san": "Nf3",
+     "games": 3725483,
+     "white": 1718692,
+     "draws": 174166,
+     "black": 1832625
+    },
+    {
+     "san": "Bd3",
+     "games": 3670800,
+     "white": 1715673,
+     "draws": 193790,
+     "black": 1761337
+    },
+    {
+     "san": "h4",
+     "games": 1797078,
+     "white": 965589,
+     "draws": 79406,
+     "black": 752083
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3"
+   ],
+   "fen": "rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq - 2 4",
+   "games": 3725483,
+   "white": 1718692,
+   "draws": 174166,
+   "black": 1832625,
+   "top": [
+    {
+     "san": "e6",
+     "games": 4606806,
+     "white": 2090716,
+     "draws": 216248,
+     "black": 2299842
+    },
+    {
+     "san": "h6",
+     "games": 250717,
+     "white": 119616,
+     "draws": 12167,
+     "black": 118934
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/2p1p3/3pPb2/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5",
+   "games": 4606806,
+   "white": 2090716,
+   "draws": 216248,
+   "black": 2299842,
+   "top": [
+    {
+     "san": "Bd3",
+     "games": 1604988,
+     "white": 719984,
+     "draws": 80608,
+     "black": 804396
+    },
+    {
+     "san": "Be2",
+     "games": 871853,
+     "white": 439486,
+     "draws": 40334,
+     "black": 392033
+    },
+    {
+     "san": "Nc3",
+     "games": 507209,
+     "white": 214722,
+     "draws": 21268,
+     "black": 271219
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/2p1p3/3pPb2/3P4/3B1N2/PPP2PPP/RNBQK2R b KQkq - 1 5",
+   "games": 1604988,
+   "white": 719984,
+   "draws": 80608,
+   "black": 804396,
+   "top": [
+    {
+     "san": "Bxd3",
+     "games": 1005069,
+     "white": 447105,
+     "draws": 54034,
+     "black": 503930
+    },
+    {
+     "san": "Ne7",
+     "games": 233909,
+     "white": 101464,
+     "draws": 10979,
+     "black": 121466
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/2p1p3/3pP3/3P4/3b1N2/PPP2PPP/RNBQK2R w KQkq - 0 6",
+   "games": 1005069,
+   "white": 447105,
+   "draws": 54034,
+   "black": 503930,
+   "top": [
+    {
+     "san": "Qxd3",
+     "games": 965780,
+     "white": 429820,
+     "draws": 52054,
+     "black": 483906
+    },
+    {
+     "san": "cxd3",
+     "games": 37992,
+     "white": 16947,
+     "draws": 1919,
+     "black": 19126
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/2p1p3/3pP3/3P4/3Q1N2/PPP2PPP/RNB1K2R b KQkq - 0 6",
+   "games": 965780,
+   "white": 429820,
+   "draws": 52054,
+   "black": 483906,
+   "top": [
+    {
+     "san": "c5",
+     "games": 752520,
+     "white": 330329,
+     "draws": 40970,
+     "black": 381221
+    },
+    {
+     "san": "Nd7",
+     "games": 479033,
+     "white": 218805,
+     "draws": 25886,
+     "black": 234342
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppP3/3P4/3Q1N2/PPP2PPP/RNB1K2R w KQkq - 0 7",
+   "games": 752520,
+   "white": 330329,
+   "draws": 40970,
+   "black": 381221,
+   "top": [
+    {
+     "san": "c3",
+     "games": 441130,
+     "white": 195765,
+     "draws": 24225,
+     "black": 221140
+    },
+    {
+     "san": "dxc5",
+     "games": 76560,
+     "white": 33503,
+     "draws": 3921,
+     "black": 39136
+    },
+    {
+     "san": "O-O",
+     "games": 69263,
+     "white": 30301,
+     "draws": 3454,
+     "black": 35508
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5",
+    "c3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppP3/3P4/2PQ1N2/PP3PPP/RNB1K2R b KQkq - 0 7",
+   "games": 441130,
+   "white": 195765,
+   "draws": 24225,
+   "black": 221140,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 436974,
+     "white": 190927,
+     "draws": 23977,
+     "black": 222070
+    },
+    {
+     "san": "cxd4",
+     "games": 90430,
+     "white": 42309,
+     "draws": 5330,
+     "black": 42791
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5",
+    "c3",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppP3/3P4/2PQ1N2/PP3PPP/RNB1K2R w KQkq - 1 8",
+   "games": 436974,
+   "white": 190927,
+   "draws": 23977,
+   "black": 222070,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5",
+    "c3",
+    "cxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pP3/3p4/2PQ1N2/PP3PPP/RNB1K2R w KQkq - 0 8",
+   "games": 90430,
+   "white": 42309,
+   "draws": 5330,
+   "black": 42791,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5",
+    "dxc5"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2PpP3/8/3Q1N2/PPP2PPP/RNB1K2R b KQkq - 0 7",
+   "games": 76560,
+   "white": 33503,
+   "draws": 3921,
+   "black": 39136,
+   "top": [
+    {
+     "san": "Bxc5",
+     "games": 56149,
+     "white": 24435,
+     "draws": 2823,
+     "black": 28891
+    },
+    {
+     "san": "Nc6",
+     "games": 15102,
+     "white": 6594,
+     "draws": 799,
+     "black": 7709
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5",
+    "dxc5",
+    "Bxc5"
+   ],
+   "fen": "rn1qk1nr/pp3ppp/4p3/2bpP3/8/3Q1N2/PPP2PPP/RNB1K2R w KQkq - 0 8",
+   "games": 56149,
+   "white": 24435,
+   "draws": 2823,
+   "black": 28891,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5",
+    "dxc5",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2PpP3/8/3Q1N2/PPP2PPP/RNB1K2R w KQkq - 1 8",
+   "games": 15102,
+   "white": 6594,
+   "draws": 799,
+   "black": 7709,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5",
+    "O-O"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppP3/3P4/3Q1N2/PPP2PPP/RNB2RK1 b kq - 1 7",
+   "games": 69263,
+   "white": 30301,
+   "draws": 3454,
+   "black": 35508,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 46116,
+     "white": 19957,
+     "draws": 2278,
+     "black": 23881
+    },
+    {
+     "san": "cxd4",
+     "games": 14565,
+     "white": 6339,
+     "draws": 774,
+     "black": 7452
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5",
+    "O-O",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppP3/3P4/3Q1N2/PPP2PPP/RNB2RK1 w kq - 2 8",
+   "games": 46116,
+   "white": 19957,
+   "draws": 2278,
+   "black": 23881,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5",
+    "O-O",
+    "cxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pP3/3p4/3Q1N2/PPP2PPP/RNB2RK1 w kq - 0 8",
+   "games": 14565,
+   "white": 6339,
+   "draws": 774,
+   "black": 7452,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5",
+    "Qb5+"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/1QppP3/3P4/5N2/PPP2PPP/RNB1K2R b KQkq - 1 7",
+   "games": 54881,
+   "white": 22700,
+   "draws": 3509,
+   "black": 28672,
+   "top": [
+    {
+     "san": "Qd7",
+     "games": 38964,
+     "white": 14699,
+     "draws": 2725,
+     "black": 21540
+    },
+    {
+     "san": "Nc6",
+     "games": 10018,
+     "white": 5309,
+     "draws": 505,
+     "black": 4204
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5",
+    "Qb5+",
+    "Qd7"
+   ],
+   "fen": "rn2kbnr/pp1q1ppp/4p3/1QppP3/3P4/5N2/PPP2PPP/RNB1K2R w KQkq - 2 8",
+   "games": 38964,
+   "white": 14699,
+   "draws": 2725,
+   "black": 21540,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5",
+    "Qb5+",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/1QppP3/3P4/5N2/PPP2PPP/RNB1K2R w KQkq - 2 8",
+   "games": 10018,
+   "white": 5309,
+   "draws": 505,
+   "black": 4204,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5",
+    "c4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppP3/2PP4/3Q1N2/PP3PPP/RNB1K2R b KQkq - 0 7",
+   "games": 43877,
+   "white": 20439,
+   "draws": 2542,
+   "black": 20896,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 19280,
+     "white": 9129,
+     "draws": 1074,
+     "black": 9077
+    },
+    {
+     "san": "cxd4",
+     "games": 15675,
+     "white": 6845,
+     "draws": 914,
+     "black": 7916
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5",
+    "c4",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppP3/2PP4/3Q1N2/PP3PPP/RNB1K2R w KQkq - 1 8",
+   "games": 19280,
+   "white": 9129,
+   "draws": 1074,
+   "black": 9077,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5",
+    "c4",
+    "cxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pP3/2Pp4/3Q1N2/PP3PPP/RNB1K2R w KQkq - 0 8",
+   "games": 15675,
+   "white": 6845,
+   "draws": 914,
+   "black": 7916,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5",
+    "Be3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppP3/3P4/3QBN2/PPP2PPP/RN2K2R b KQkq - 1 7",
+   "games": 20536,
+   "white": 8616,
+   "draws": 1077,
+   "black": 10843,
+   "top": [
+    {
+     "san": "cxd4",
+     "games": 8205,
+     "white": 3397,
+     "draws": 438,
+     "black": 4370
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5",
+    "Be3",
+    "cxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pP3/3p4/3QBN2/PPP2PPP/RN2K2R w KQkq - 0 8",
+   "games": 8205,
+   "white": 3397,
+   "draws": 438,
+   "black": 4370,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nd7"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pP3/3P4/3Q1N2/PPP2PPP/RNB1K2R w KQkq - 1 7",
+   "games": 479033,
+   "white": 218805,
+   "draws": 25886,
+   "black": 234342,
+   "top": [
+    {
+     "san": "O-O",
+     "games": 259489,
+     "white": 121203,
+     "draws": 14220,
+     "black": 124066
+    },
+    {
+     "san": "Bg5",
+     "games": 48526,
+     "white": 21027,
+     "draws": 2513,
+     "black": 24986
+    },
+    {
+     "san": "c3",
+     "games": 44714,
+     "white": 20661,
+     "draws": 2600,
+     "black": 21453
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nd7",
+    "O-O"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pP3/3P4/3Q1N2/PPP2PPP/RNB2RK1 b kq - 2 7",
+   "games": 259489,
+   "white": 121203,
+   "draws": 14220,
+   "black": 124066,
+   "top": [
+    {
+     "san": "c5",
+     "games": 120781,
+     "white": 57000,
+     "draws": 6722,
+     "black": 57059
+    },
+    {
+     "san": "Ne7",
+     "games": 71601,
+     "white": 31590,
+     "draws": 3906,
+     "black": 36105
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nd7",
+    "O-O",
+    "c5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppP3/3P4/3Q1N2/PPP2PPP/RNB2RK1 w kq - 0 8",
+   "games": 120781,
+   "white": 57000,
+   "draws": 6722,
+   "black": 57059,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nd7",
+    "O-O",
+    "Ne7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pP3/3P4/3Q1N2/PPP2PPP/RNB2RK1 w kq - 3 8",
+   "games": 71601,
+   "white": 31590,
+   "draws": 3906,
+   "black": 36105,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nd7",
+    "Bg5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pP1B1/3P4/3Q1N2/PPP2PPP/RN2K2R b KQkq - 2 7",
+   "games": 48526,
+   "white": 21027,
+   "draws": 2513,
+   "black": 24986,
+   "top": [
+    {
+     "san": "Be7",
+     "games": 26605,
+     "white": 11182,
+     "draws": 1485,
+     "black": 13938
+    },
+    {
+     "san": "Qb6",
+     "games": 11687,
+     "white": 4720,
+     "draws": 563,
+     "black": 6404
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nd7",
+    "Bg5",
+    "Be7"
+   ],
+   "fen": "r2qk1nr/pp1nbppp/2p1p3/3pP1B1/3P4/3Q1N2/PPP2PPP/RN2K2R w KQkq - 3 8",
+   "games": 26605,
+   "white": 11182,
+   "draws": 1485,
+   "black": 13938,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nd7",
+    "Bg5",
+    "Qb6"
+   ],
+   "fen": "r3kbnr/pp1n1ppp/1qp1p3/3pP1B1/3P4/3Q1N2/PPP2PPP/RN2K2R w KQkq - 3 8",
+   "games": 11687,
+   "white": 4720,
+   "draws": 563,
+   "black": 6404,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nd7",
+    "c3"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pP3/3P4/2PQ1N2/PP3PPP/RNB1K2R b KQkq - 0 7",
+   "games": 44714,
+   "white": 20661,
+   "draws": 2600,
+   "black": 21453,
+   "top": [
+    {
+     "san": "c5",
+     "games": 67716,
+     "white": 31407,
+     "draws": 3910,
+     "black": 32399
+    },
+    {
+     "san": "Ne7",
+     "games": 38127,
+     "white": 16818,
+     "draws": 2137,
+     "black": 19172
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nd7",
+    "c3",
+    "c5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppP3/3P4/2PQ1N2/PP3PPP/RNB1K2R w KQkq - 0 8",
+   "games": 67716,
+   "white": 31407,
+   "draws": 3910,
+   "black": 32399,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nd7",
+    "c3",
+    "Ne7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pP3/3P4/2PQ1N2/PP3PPP/RNB1K2R w KQkq - 1 8",
+   "games": 38127,
+   "white": 16818,
+   "draws": 2137,
+   "black": 19172,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nd7",
+    "Nc3"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pP3/3P4/2NQ1N2/PPP2PPP/R1B1K2R b KQkq - 2 7",
+   "games": 41158,
+   "white": 17820,
+   "draws": 1951,
+   "black": 21387,
+   "top": [
+    {
+     "san": "c5",
+     "games": 43735,
+     "white": 18900,
+     "draws": 2034,
+     "black": 22801
+    },
+    {
+     "san": "Ne7",
+     "games": 21191,
+     "white": 8638,
+     "draws": 1015,
+     "black": 11538
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nd7",
+    "Nc3",
+    "c5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppP3/3P4/2NQ1N2/PPP2PPP/R1B1K2R w KQkq - 0 8",
+   "games": 43735,
+   "white": 18900,
+   "draws": 2034,
+   "black": 22801,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nd7",
+    "Nc3",
+    "Ne7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pP3/3P4/2NQ1N2/PPP2PPP/R1B1K2R w KQkq - 3 8",
+   "games": 21191,
+   "white": 8638,
+   "draws": 1015,
+   "black": 11538,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nd7",
+    "c4"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pP3/2PP4/3Q1N2/PP3PPP/RNB1K2R b KQkq - 0 7",
+   "games": 32660,
+   "white": 15720,
+   "draws": 1749,
+   "black": 15191,
+   "top": [
+    {
+     "san": "dxc4",
+     "games": 12190,
+     "white": 5484,
+     "draws": 687,
+     "black": 6019
+    },
+    {
+     "san": "Ne7",
+     "games": 9068,
+     "white": 4128,
+     "draws": 478,
+     "black": 4462
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nd7",
+    "c4",
+    "dxc4"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/4P3/2pP4/3Q1N2/PP3PPP/RNB1K2R w KQkq - 0 8",
+   "games": 12190,
+   "white": 5484,
+   "draws": 687,
+   "black": 6019,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nd7",
+    "c4",
+    "Ne7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pP3/2PP4/3Q1N2/PP3PPP/RNB1K2R w KQkq - 1 8",
+   "games": 9068,
+   "white": 4128,
+   "draws": 478,
+   "black": 4462,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nd7",
+    "Be3"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pP3/3P4/3QBN2/PPP2PPP/RN2K2R b KQkq - 2 7",
+   "games": 16703,
+   "white": 7644,
+   "draws": 915,
+   "black": 8144,
+   "top": [
+    {
+     "san": "c5",
+     "games": 8516,
+     "white": 3904,
+     "draws": 450,
+     "black": 4162
+    },
+    {
+     "san": "Ne7",
+     "games": 6543,
+     "white": 2831,
+     "draws": 372,
+     "black": 3340
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nd7",
+    "Be3",
+    "c5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppP3/3P4/3QBN2/PPP2PPP/RN2K2R w KQkq - 0 8",
+   "games": 8516,
+   "white": 3904,
+   "draws": 450,
+   "black": 4162,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nd7",
+    "Be3",
+    "Ne7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pP3/3P4/3QBN2/PPP2PPP/RN2K2R w KQkq - 3 8",
+   "games": 6543,
+   "white": 2831,
+   "draws": 372,
+   "black": 3340,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "cxd3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/2p1p3/3pP3/3P4/3P1N2/PP3PPP/RNBQK2R b KQkq - 0 6",
+   "games": 37992,
+   "white": 16947,
+   "draws": 1919,
+   "black": 19126,
+   "top": [
+    {
+     "san": "c5",
+     "games": 23145,
+     "white": 10281,
+     "draws": 1204,
+     "black": 11660
+    },
+    {
+     "san": "Nd7",
+     "games": 14830,
+     "white": 6703,
+     "draws": 769,
+     "black": 7358
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "cxd3",
+    "c5"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppP3/3P4/3P1N2/PP3PPP/RNBQK2R w KQkq - 0 7",
+   "games": 23145,
+   "white": 10281,
+   "draws": 1204,
+   "black": 11660,
+   "top": [
+    {
+     "san": "dxc5",
+     "games": 11226,
+     "white": 5084,
+     "draws": 624,
+     "black": 5518
+    },
+    {
+     "san": "O-O",
+     "games": 6303,
+     "white": 2846,
+     "draws": 326,
+     "black": 3131
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "cxd3",
+    "c5",
+    "dxc5"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2PpP3/8/3P1N2/PP3PPP/RNBQK2R b KQkq - 0 7",
+   "games": 11226,
+   "white": 5084,
+   "draws": 624,
+   "black": 5518,
+   "top": [
+    {
+     "san": "Bxc5",
+     "games": 10835,
+     "white": 4862,
+     "draws": 602,
+     "black": 5371
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "cxd3",
+    "c5",
+    "dxc5",
+    "Bxc5"
+   ],
+   "fen": "rn1qk1nr/pp3ppp/4p3/2bpP3/8/3P1N2/PP3PPP/RNBQK2R w KQkq - 0 8",
+   "games": 10835,
+   "white": 4862,
+   "draws": 602,
+   "black": 5371,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "cxd3",
+    "c5",
+    "O-O"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppP3/3P4/3P1N2/PP3PPP/RNBQ1RK1 b kq - 1 7",
+   "games": 6303,
+   "white": 2846,
+   "draws": 326,
+   "black": 3131,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "cxd3",
+    "Nd7"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pP3/3P4/3P1N2/PP3PPP/RNBQK2R w KQkq - 1 7",
+   "games": 14830,
+   "white": 6703,
+   "draws": 769,
+   "black": 7358,
+   "top": [
+    {
+     "san": "O-O",
+     "games": 9565,
+     "white": 4334,
+     "draws": 503,
+     "black": 4728
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Bxd3",
+    "cxd3",
+    "Nd7",
+    "O-O"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pP3/3P4/3P1N2/PP3PPP/RNBQ1RK1 b kq - 2 7",
+   "games": 9565,
+   "white": 4334,
+   "draws": 503,
+   "black": 4728,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7"
+   ],
+   "fen": "rn1qkb1r/pp2nppp/2p1p3/3pPb2/3P4/3B1N2/PPP2PPP/RNBQK2R w KQkq - 2 6",
+   "games": 233909,
+   "white": 101464,
+   "draws": 10979,
+   "black": 121466,
+   "top": [
+    {
+     "san": "O-O",
+     "games": 89085,
+     "white": 40210,
+     "draws": 4146,
+     "black": 44729
+    },
+    {
+     "san": "Bxf5",
+     "games": 46365,
+     "white": 18118,
+     "draws": 2369,
+     "black": 25878
+    },
+    {
+     "san": "Bg5",
+     "games": 35395,
+     "white": 15795,
+     "draws": 1584,
+     "black": 18016
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "O-O"
+   ],
+   "fen": "rn1qkb1r/pp2nppp/2p1p3/3pPb2/3P4/3B1N2/PPP2PPP/RNBQ1RK1 b kq - 3 6",
+   "games": 89085,
+   "white": 40210,
+   "draws": 4146,
+   "black": 44729,
+   "top": [
+    {
+     "san": "Nd7",
+     "games": 36944,
+     "white": 16647,
+     "draws": 1686,
+     "black": 18611
+    },
+    {
+     "san": "Bxd3",
+     "games": 17849,
+     "white": 8088,
+     "draws": 914,
+     "black": 8847
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "O-O",
+    "Nd7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P4/3B1N2/PPP2PPP/RNBQ1RK1 w kq - 4 7",
+   "games": 36944,
+   "white": 16647,
+   "draws": 1686,
+   "black": 18611,
+   "top": [
+    {
+     "san": "Bg5",
+     "games": 10913,
+     "white": 4986,
+     "draws": 494,
+     "black": 5433
+    },
+    {
+     "san": "c3",
+     "games": 6649,
+     "white": 3034,
+     "draws": 319,
+     "black": 3296
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "O-O",
+    "Nd7",
+    "Bg5"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPbB1/3P4/3B1N2/PPP2PPP/RN1Q1RK1 b kq - 5 7",
+   "games": 10913,
+   "white": 4986,
+   "draws": 494,
+   "black": 5433,
+   "top": [
+    {
+     "san": "Bxd3",
+     "games": 5589,
+     "white": 2486,
+     "draws": 247,
+     "black": 2856
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "O-O",
+    "Nd7",
+    "Bg5",
+    "Bxd3"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pP1B1/3P4/3b1N2/PPP2PPP/RN1Q1RK1 w kq - 0 8",
+   "games": 5589,
+   "white": 2486,
+   "draws": 247,
+   "black": 2856,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "O-O",
+    "Nd7",
+    "c3"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P4/2PB1N2/PP3PPP/RNBQ1RK1 b kq - 0 7",
+   "games": 6649,
+   "white": 3034,
+   "draws": 319,
+   "black": 3296,
+   "top": [
+    {
+     "san": "c5",
+     "games": 6542,
+     "white": 2917,
+     "draws": 312,
+     "black": 3313
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "O-O",
+    "Nd7",
+    "c3",
+    "c5"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/4p3/2ppPb2/3P4/2PB1N2/PP3PPP/RNBQ1RK1 w kq - 0 8",
+   "games": 6542,
+   "white": 2917,
+   "draws": 312,
+   "black": 3313,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "O-O",
+    "Bxd3"
+   ],
+   "fen": "rn1qkb1r/pp2nppp/2p1p3/3pP3/3P4/3b1N2/PPP2PPP/RNBQ1RK1 w kq - 0 7",
+   "games": 17849,
+   "white": 8088,
+   "draws": 914,
+   "black": 8847,
+   "top": [
+    {
+     "san": "Qxd3",
+     "games": 17069,
+     "white": 7751,
+     "draws": 879,
+     "black": 8439
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "O-O",
+    "Bxd3",
+    "Qxd3"
+   ],
+   "fen": "rn1qkb1r/pp2nppp/2p1p3/3pP3/3P4/3Q1N2/PPP2PPP/RNB2RK1 b kq - 0 7",
+   "games": 17069,
+   "white": 7751,
+   "draws": 879,
+   "black": 8439,
+   "top": [
+    {
+     "san": "Nf5",
+     "games": 70571,
+     "white": 32231,
+     "draws": 3996,
+     "black": 34344
+    },
+    {
+     "san": "Ng6",
+     "games": 29627,
+     "white": 13249,
+     "draws": 1811,
+     "black": 14567
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "O-O",
+    "Bxd3",
+    "Qxd3",
+    "Nf5"
+   ],
+   "fen": "rn1qkb1r/pp3ppp/2p1p3/3pPn2/3P4/3Q1N2/PPP2PPP/RNB2RK1 w kq - 1 8",
+   "games": 70571,
+   "white": 32231,
+   "draws": 3996,
+   "black": 34344,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "O-O",
+    "Bxd3",
+    "Qxd3",
+    "Ng6"
+   ],
+   "fen": "rn1qkb1r/pp3ppp/2p1p1n1/3pP3/3P4/3Q1N2/PPP2PPP/RNB2RK1 w kq - 1 8",
+   "games": 29627,
+   "white": 13249,
+   "draws": 1811,
+   "black": 14567,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Bxf5"
+   ],
+   "fen": "rn1qkb1r/pp2nppp/2p1p3/3pPB2/3P4/5N2/PPP2PPP/RNBQK2R b KQkq - 0 6",
+   "games": 46365,
+   "white": 18118,
+   "draws": 2369,
+   "black": 25878,
+   "top": [
+    {
+     "san": "Nxf5",
+     "games": 46110,
+     "white": 17990,
+     "draws": 2355,
+     "black": 25765
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Bxf5",
+    "Nxf5"
+   ],
+   "fen": "rn1qkb1r/pp3ppp/2p1p3/3pPn2/3P4/5N2/PPP2PPP/RNBQK2R w KQkq - 0 7",
+   "games": 46110,
+   "white": 17990,
+   "draws": 2355,
+   "black": 25765,
+   "top": [
+    {
+     "san": "O-O",
+     "games": 18052,
+     "white": 7237,
+     "draws": 930,
+     "black": 9885
+    },
+    {
+     "san": "c3",
+     "games": 9482,
+     "white": 3852,
+     "draws": 539,
+     "black": 5091
+    },
+    {
+     "san": "Nc3",
+     "games": 6588,
+     "white": 2482,
+     "draws": 326,
+     "black": 3780
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Bxf5",
+    "Nxf5",
+    "O-O"
+   ],
+   "fen": "rn1qkb1r/pp3ppp/2p1p3/3pPn2/3P4/5N2/PPP2PPP/RNBQ1RK1 b kq - 1 7",
+   "games": 18052,
+   "white": 7237,
+   "draws": 930,
+   "black": 9885,
+   "top": [
+    {
+     "san": "c5",
+     "games": 6009,
+     "white": 2267,
+     "draws": 330,
+     "black": 3412
+    },
+    {
+     "san": "Nd7",
+     "games": 5231,
+     "white": 2134,
+     "draws": 282,
+     "black": 2815
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Bxf5",
+    "Nxf5",
+    "O-O",
+    "c5"
+   ],
+   "fen": "rn1qkb1r/pp3ppp/4p3/2ppPn2/3P4/5N2/PPP2PPP/RNBQ1RK1 w kq - 0 8",
+   "games": 6009,
+   "white": 2267,
+   "draws": 330,
+   "black": 3412,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Bxf5",
+    "Nxf5",
+    "O-O",
+    "Nd7"
+   ],
+   "fen": "r2qkb1r/pp1n1ppp/2p1p3/3pPn2/3P4/5N2/PPP2PPP/RNBQ1RK1 w kq - 2 8",
+   "games": 5231,
+   "white": 2134,
+   "draws": 282,
+   "black": 2815,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Bxf5",
+    "Nxf5",
+    "c3"
+   ],
+   "fen": "rn1qkb1r/pp3ppp/2p1p3/3pPn2/3P4/2P2N2/PP3PPP/RNBQK2R b KQkq - 0 7",
+   "games": 9482,
+   "white": 3852,
+   "draws": 539,
+   "black": 5091,
+   "top": [
+    {
+     "san": "c5",
+     "games": 5825,
+     "white": 2153,
+     "draws": 328,
+     "black": 3344
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Bxf5",
+    "Nxf5",
+    "c3",
+    "c5"
+   ],
+   "fen": "rn1qkb1r/pp3ppp/4p3/2ppPn2/3P4/2P2N2/PP3PPP/RNBQK2R w KQkq - 0 8",
+   "games": 5825,
+   "white": 2153,
+   "draws": 328,
+   "black": 3344,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Bxf5",
+    "Nxf5",
+    "Nc3"
+   ],
+   "fen": "rn1qkb1r/pp3ppp/2p1p3/3pPn2/3P4/2N2N2/PPP2PPP/R1BQK2R b KQkq - 1 7",
+   "games": 6588,
+   "white": 2482,
+   "draws": 326,
+   "black": 3780,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Bg5"
+   ],
+   "fen": "rn1qkb1r/pp2nppp/2p1p3/3pPbB1/3P4/3B1N2/PPP2PPP/RN1QK2R b KQkq - 3 6",
+   "games": 35395,
+   "white": 15795,
+   "draws": 1584,
+   "black": 18016,
+   "top": [
+    {
+     "san": "Bxd3",
+     "games": 23067,
+     "white": 9844,
+     "draws": 1138,
+     "black": 12085
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Bg5",
+    "Bxd3"
+   ],
+   "fen": "rn1qkb1r/pp2nppp/2p1p3/3pP1B1/3P4/3b1N2/PPP2PPP/RN1QK2R w KQkq - 0 7",
+   "games": 23067,
+   "white": 9844,
+   "draws": 1138,
+   "black": 12085,
+   "top": [
+    {
+     "san": "Qxd3",
+     "games": 21512,
+     "white": 9220,
+     "draws": 1058,
+     "black": 11234
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Bg5",
+    "Bxd3",
+    "Qxd3"
+   ],
+   "fen": "rn1qkb1r/pp2nppp/2p1p3/3pP1B1/3P4/3Q1N2/PPP2PPP/RN2K2R b KQkq - 0 7",
+   "games": 21512,
+   "white": 9220,
+   "draws": 1058,
+   "black": 11234,
+   "top": [
+    {
+     "san": "h6",
+     "games": 40733,
+     "white": 16864,
+     "draws": 2201,
+     "black": 21668
+    },
+    {
+     "san": "Qb6",
+     "games": 34577,
+     "white": 14831,
+     "draws": 1767,
+     "black": 17979
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Bg5",
+    "Bxd3",
+    "Qxd3",
+    "h6"
+   ],
+   "fen": "rn1qkb1r/pp2npp1/2p1p2p/3pP1B1/3P4/3Q1N2/PPP2PPP/RN2K2R w KQkq - 0 8",
+   "games": 40733,
+   "white": 16864,
+   "draws": 2201,
+   "black": 21668,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Bg5",
+    "Bxd3",
+    "Qxd3",
+    "Qb6"
+   ],
+   "fen": "rn2kb1r/pp2nppp/1qp1p3/3pP1B1/3P4/3Q1N2/PPP2PPP/RN2K2R w KQkq - 1 8",
+   "games": 34577,
+   "white": 14831,
+   "draws": 1767,
+   "black": 17979,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Nc3"
+   ],
+   "fen": "rn1qkb1r/pp2nppp/2p1p3/3pPb2/3P4/2NB1N2/PPP2PPP/R1BQK2R b KQkq - 3 6",
+   "games": 19066,
+   "white": 8455,
+   "draws": 860,
+   "black": 9751,
+   "top": [
+    {
+     "san": "Bxd3",
+     "games": 15520,
+     "white": 6791,
+     "draws": 752,
+     "black": 7977
+    },
+    {
+     "san": "Nd7",
+     "games": 14407,
+     "white": 6221,
+     "draws": 600,
+     "black": 7586
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Nc3",
+    "Bxd3"
+   ],
+   "fen": "rn1qkb1r/pp2nppp/2p1p3/3pP3/3P4/2Nb1N2/PPP2PPP/R1BQK2R w KQkq - 0 7",
+   "games": 15520,
+   "white": 6791,
+   "draws": 752,
+   "black": 7977,
+   "top": [
+    {
+     "san": "Qxd3",
+     "games": 14367,
+     "white": 6289,
+     "draws": 695,
+     "black": 7383
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Nc3",
+    "Bxd3",
+    "Qxd3"
+   ],
+   "fen": "rn1qkb1r/pp2nppp/2p1p3/3pP3/3P4/2NQ1N2/PPP2PPP/R1B1K2R b KQkq - 0 7",
+   "games": 14367,
+   "white": 6289,
+   "draws": 695,
+   "black": 7383,
+   "top": [
+    {
+     "san": "Nf5",
+     "games": 20853,
+     "white": 9471,
+     "draws": 1049,
+     "black": 10333
+    },
+    {
+     "san": "Ng6",
+     "games": 8840,
+     "white": 3973,
+     "draws": 471,
+     "black": 4396
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Nc3",
+    "Bxd3",
+    "Qxd3",
+    "Nf5"
+   ],
+   "fen": "rn1qkb1r/pp3ppp/2p1p3/3pPn2/3P4/2NQ1N2/PPP2PPP/R1B1K2R w KQkq - 1 8",
+   "games": 20853,
+   "white": 9471,
+   "draws": 1049,
+   "black": 10333,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Nc3",
+    "Bxd3",
+    "Qxd3",
+    "Ng6"
+   ],
+   "fen": "rn1qkb1r/pp3ppp/2p1p1n1/3pP3/3P4/2NQ1N2/PPP2PPP/R1B1K2R w KQkq - 1 8",
+   "games": 8840,
+   "white": 3973,
+   "draws": 471,
+   "black": 4396,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Nc3",
+    "Nd7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P4/2NB1N2/PPP2PPP/R1BQK2R w KQkq - 4 7",
+   "games": 14407,
+   "white": 6221,
+   "draws": 600,
+   "black": 7586,
+   "top": [
+    {
+     "san": "Bg5",
+     "games": 7922,
+     "white": 3475,
+     "draws": 350,
+     "black": 4097
+    },
+    {
+     "san": "O-O",
+     "games": 7522,
+     "white": 3284,
+     "draws": 293,
+     "black": 3945
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Nc3",
+    "Nd7",
+    "Bg5"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPbB1/3P4/2NB1N2/PPP2PPP/R2QK2R b KQkq - 5 7",
+   "games": 7922,
+   "white": 3475,
+   "draws": 350,
+   "black": 4097,
+   "top": [
+    {
+     "san": "Bxd3",
+     "games": 6483,
+     "white": 2691,
+     "draws": 291,
+     "black": 3501
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Nc3",
+    "Nd7",
+    "Bg5",
+    "Bxd3"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pP1B1/3P4/2Nb1N2/PPP2PPP/R2QK2R w KQkq - 0 8",
+   "games": 6483,
+   "white": 2691,
+   "draws": 291,
+   "black": 3501,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "Nc3",
+    "Nd7",
+    "O-O"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P4/2NB1N2/PPP2PPP/R1BQ1RK1 b kq - 5 7",
+   "games": 7522,
+   "white": 3284,
+   "draws": 293,
+   "black": 3945,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "c3"
+   ],
+   "fen": "rn1qkb1r/pp2nppp/2p1p3/3pPb2/3P4/2PB1N2/PP3PPP/RNBQK2R b KQkq - 0 6",
+   "games": 14051,
+   "white": 6152,
+   "draws": 710,
+   "black": 7189,
+   "top": [
+    {
+     "san": "Bxd3",
+     "games": 19633,
+     "white": 8887,
+     "draws": 1025,
+     "black": 9721
+    },
+    {
+     "san": "Nd7",
+     "games": 19514,
+     "white": 8562,
+     "draws": 971,
+     "black": 9981
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "c3",
+    "Bxd3"
+   ],
+   "fen": "rn1qkb1r/pp2nppp/2p1p3/3pP3/3P4/2Pb1N2/PP3PPP/RNBQK2R w KQkq - 0 7",
+   "games": 19633,
+   "white": 8887,
+   "draws": 1025,
+   "black": 9721,
+   "top": [
+    {
+     "san": "Qxd3",
+     "games": 19602,
+     "white": 8885,
+     "draws": 1021,
+     "black": 9696
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "c3",
+    "Bxd3",
+    "Qxd3"
+   ],
+   "fen": "rn1qkb1r/pp2nppp/2p1p3/3pP3/3P4/2PQ1N2/PP3PPP/RNB1K2R b KQkq - 0 7",
+   "games": 19602,
+   "white": 8885,
+   "draws": 1021,
+   "black": 9696,
+   "top": [
+    {
+     "san": "Nf5",
+     "games": 28563,
+     "white": 12996,
+     "draws": 1661,
+     "black": 13906
+    },
+    {
+     "san": "Ng6",
+     "games": 14544,
+     "white": 6744,
+     "draws": 848,
+     "black": 6952
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "c3",
+    "Bxd3",
+    "Qxd3",
+    "Nf5"
+   ],
+   "fen": "rn1qkb1r/pp3ppp/2p1p3/3pPn2/3P4/2PQ1N2/PP3PPP/RNB1K2R w KQkq - 1 8",
+   "games": 28563,
+   "white": 12996,
+   "draws": 1661,
+   "black": 13906,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "c3",
+    "Bxd3",
+    "Qxd3",
+    "Ng6"
+   ],
+   "fen": "rn1qkb1r/pp3ppp/2p1p1n1/3pP3/3P4/2PQ1N2/PP3PPP/RNB1K2R w KQkq - 1 8",
+   "games": 14544,
+   "white": 6744,
+   "draws": 848,
+   "black": 6952,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "c3",
+    "Nd7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P4/2PB1N2/PP3PPP/RNBQK2R w KQkq - 1 7",
+   "games": 19514,
+   "white": 8562,
+   "draws": 971,
+   "black": 9981,
+   "top": [
+    {
+     "san": "O-O",
+     "games": 14342,
+     "white": 6363,
+     "draws": 676,
+     "black": 7303
+    },
+    {
+     "san": "Bg5",
+     "games": 7310,
+     "white": 3250,
+     "draws": 349,
+     "black": 3711
+    },
+    {
+     "san": "Bxf5",
+     "games": 5287,
+     "white": 2218,
+     "draws": 292,
+     "black": 2777
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "c3",
+    "Nd7",
+    "O-O"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P4/2PB1N2/PP3PPP/RNBQ1RK1 b kq - 2 7",
+   "games": 14342,
+   "white": 6363,
+   "draws": 676,
+   "black": 7303,
+   "top": [
+    {
+     "san": "c5",
+     "games": 6542,
+     "white": 2917,
+     "draws": 312,
+     "black": 3313
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "c3",
+    "Nd7",
+    "O-O",
+    "c5"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/4p3/2ppPb2/3P4/2PB1N2/PP3PPP/RNBQ1RK1 w kq - 0 8",
+   "games": 6542,
+   "white": 2917,
+   "draws": 312,
+   "black": 3313,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "c3",
+    "Nd7",
+    "Bg5"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPbB1/3P4/2PB1N2/PP3PPP/RN1QK2R b KQkq - 2 7",
+   "games": 7310,
+   "white": 3250,
+   "draws": 349,
+   "black": 3711,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "c3",
+    "Nd7",
+    "Bxf5"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPB2/3P4/2P2N2/PP3PPP/RNBQK2R b KQkq - 0 7",
+   "games": 5287,
+   "white": 2218,
+   "draws": 292,
+   "black": 2777,
+   "top": [
+    {
+     "san": "Nxf5",
+     "games": 5250,
+     "white": 2197,
+     "draws": 289,
+     "black": 2764
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "c3",
+    "Nd7",
+    "Bxf5",
+    "Nxf5"
+   ],
+   "fen": "r2qkb1r/pp1n1ppp/2p1p3/3pPn2/3P4/2P2N2/PP3PPP/RNBQK2R w KQkq - 0 8",
+   "games": 5250,
+   "white": 2197,
+   "draws": 289,
+   "black": 2764,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "h3"
+   ],
+   "fen": "rn1qkb1r/pp2nppp/2p1p3/3pPb2/3P4/3B1N1P/PPP2PP1/RNBQK2R b KQkq - 0 6",
+   "games": 12876,
+   "white": 5641,
+   "draws": 584,
+   "black": 6651,
+   "top": [
+    {
+     "san": "Nd7",
+     "games": 5824,
+     "white": 2507,
+     "draws": 266,
+     "black": 3051
+    },
+    {
+     "san": "Bxd3",
+     "games": 5764,
+     "white": 2574,
+     "draws": 285,
+     "black": 2905
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "h3",
+    "Nd7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P4/3B1N1P/PPP2PP1/RNBQK2R w KQkq - 1 7",
+   "games": 5824,
+   "white": 2507,
+   "draws": 266,
+   "black": 3051,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "h3",
+    "Bxd3"
+   ],
+   "fen": "rn1qkb1r/pp2nppp/2p1p3/3pP3/3P4/3b1N1P/PPP2PP1/RNBQK2R w KQkq - 0 7",
+   "games": 5764,
+   "white": 2574,
+   "draws": 285,
+   "black": 2905,
+   "top": [
+    {
+     "san": "Qxd3",
+     "games": 5545,
+     "white": 2471,
+     "draws": 275,
+     "black": 2799
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Bd3",
+    "Ne7",
+    "h3",
+    "Bxd3",
+    "Qxd3"
+   ],
+   "fen": "rn1qkb1r/pp2nppp/2p1p3/3pP3/3P4/3Q1N1P/PPP2PP1/RNB1K2R b KQkq - 0 7",
+   "games": 5545,
+   "white": 2471,
+   "draws": 275,
+   "black": 2799,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/2p1p3/3pPb2/3P4/5N2/PPP1BPPP/RNBQK2R b KQkq - 1 5",
+   "games": 871853,
+   "white": 439486,
+   "draws": 40334,
+   "black": 392033,
+   "top": [
+    {
+     "san": "c5",
+     "games": 383999,
+     "white": 193001,
+     "draws": 17592,
+     "black": 173406
+    },
+    {
+     "san": "Nd7",
+     "games": 236125,
+     "white": 119722,
+     "draws": 10732,
+     "black": 105671
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppPb2/3P4/5N2/PPP1BPPP/RNBQK2R w KQkq - 0 6",
+   "games": 383999,
+   "white": 193001,
+   "draws": 17592,
+   "black": 173406,
+   "top": [
+    {
+     "san": "c3",
+     "games": 177208,
+     "white": 80831,
+     "draws": 8190,
+     "black": 88187
+    },
+    {
+     "san": "O-O",
+     "games": 86615,
+     "white": 46141,
+     "draws": 3881,
+     "black": 36593
+    },
+    {
+     "san": "Be3",
+     "games": 81631,
+     "white": 47189,
+     "draws": 3696,
+     "black": 30746
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQK2R b KQkq - 0 6",
+   "games": 177208,
+   "white": 80831,
+   "draws": 8190,
+   "black": 88187,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 177526,
+     "white": 80148,
+     "draws": 8095,
+     "black": 89283
+    },
+    {
+     "san": "cxd4",
+     "games": 33536,
+     "white": 15626,
+     "draws": 1585,
+     "black": 16325
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c3",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQK2R w KQkq - 1 7",
+   "games": 177526,
+   "white": 80148,
+   "draws": 8095,
+   "black": 89283,
+   "top": [
+    {
+     "san": "O-O",
+     "games": 134537,
+     "white": 62331,
+     "draws": 6041,
+     "black": 66165
+    },
+    {
+     "san": "Be3",
+     "games": 18391,
+     "white": 7650,
+     "draws": 888,
+     "black": 9853
+    },
+    {
+     "san": "a3",
+     "games": 9858,
+     "white": 4758,
+     "draws": 500,
+     "black": 4600
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c3",
+    "Nc6",
+    "O-O"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQ1RK1 b kq - 2 7",
+   "games": 134537,
+   "white": 62331,
+   "draws": 6041,
+   "black": 66165,
+   "top": [
+    {
+     "san": "Qb6",
+     "games": 57035,
+     "white": 27169,
+     "draws": 2464,
+     "black": 27402
+    },
+    {
+     "san": "cxd4",
+     "games": 45760,
+     "white": 21553,
+     "draws": 2246,
+     "black": 21961
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c3",
+    "Nc6",
+    "O-O",
+    "Qb6"
+   ],
+   "fen": "r3kbnr/pp3ppp/1qn1p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQ1RK1 w kq - 3 8",
+   "games": 57035,
+   "white": 27169,
+   "draws": 2464,
+   "black": 27402,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c3",
+    "Nc6",
+    "O-O",
+    "cxd4"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/3pPb2/3p4/2P2N2/PP2BPPP/RNBQ1RK1 w kq - 0 8",
+   "games": 45760,
+   "white": 21553,
+   "draws": 2246,
+   "black": 21961,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c3",
+    "Nc6",
+    "Be3"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/2P1BN2/PP2BPPP/RN1QK2R b KQkq - 2 7",
+   "games": 18391,
+   "white": 7650,
+   "draws": 888,
+   "black": 9853,
+   "top": [
+    {
+     "san": "Qb6",
+     "games": 11285,
+     "white": 4519,
+     "draws": 548,
+     "black": 6218
+    },
+    {
+     "san": "cxd4",
+     "games": 7690,
+     "white": 3260,
+     "draws": 424,
+     "black": 4006
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c3",
+    "Nc6",
+    "Be3",
+    "Qb6"
+   ],
+   "fen": "r3kbnr/pp3ppp/1qn1p3/2ppPb2/3P4/2P1BN2/PP2BPPP/RN1QK2R w KQkq - 3 8",
+   "games": 11285,
+   "white": 4519,
+   "draws": 548,
+   "black": 6218,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c3",
+    "Nc6",
+    "Be3",
+    "cxd4"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/3pPb2/3p4/2P1BN2/PP2BPPP/RN1QK2R w KQkq - 0 8",
+   "games": 7690,
+   "white": 3260,
+   "draws": 424,
+   "black": 4006,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c3",
+    "Nc6",
+    "a3"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/P1P2N2/1P2BPPP/RNBQK2R b KQkq - 0 7",
+   "games": 9858,
+   "white": 4758,
+   "draws": 500,
+   "black": 4600,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c3",
+    "Nc6",
+    "Bb5"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/1BppPb2/3P4/2P2N2/PP3PPP/RNBQK2R b KQkq - 2 7",
+   "games": 8247,
+   "white": 3595,
+   "draws": 425,
+   "black": 4227,
+   "top": [
+    {
+     "san": "Qb6",
+     "games": 50166,
+     "white": 22015,
+     "draws": 2273,
+     "black": 25878
+    },
+    {
+     "san": "a6",
+     "games": 29711,
+     "white": 13456,
+     "draws": 1444,
+     "black": 14811
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c3",
+    "Nc6",
+    "Bb5",
+    "Qb6"
+   ],
+   "fen": "r3kbnr/pp3ppp/1qn1p3/1BppPb2/3P4/2P2N2/PP3PPP/RNBQK2R w KQkq - 3 8",
+   "games": 50166,
+   "white": 22015,
+   "draws": 2273,
+   "black": 25878,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c3",
+    "Nc6",
+    "Bb5",
+    "a6"
+   ],
+   "fen": "r2qkbnr/1p3ppp/p1n1p3/1BppPb2/3P4/2P2N2/PP3PPP/RNBQK2R w KQkq - 0 8",
+   "games": 29711,
+   "white": 13456,
+   "draws": 1444,
+   "black": 14811,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c3",
+    "Nc6",
+    "Nbd2"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/2P2N2/PP1NBPPP/R1BQK2R b KQkq - 2 7",
+   "games": 6429,
+   "white": 2920,
+   "draws": 267,
+   "black": 3242,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c3",
+    "cxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pPb2/3p4/2P2N2/PP2BPPP/RNBQK2R w KQkq - 0 7",
+   "games": 33536,
+   "white": 15626,
+   "draws": 1585,
+   "black": 16325,
+   "top": [
+    {
+     "san": "cxd4",
+     "games": 29599,
+     "white": 13638,
+     "draws": 1412,
+     "black": 14549
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c3",
+    "cxd4",
+    "cxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pPb2/3P4/5N2/PP2BPPP/RNBQK2R b KQkq - 0 7",
+   "games": 29599,
+   "white": 13638,
+   "draws": 1412,
+   "black": 14549,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 18118,
+     "white": 8407,
+     "draws": 843,
+     "black": 8868
+    },
+    {
+     "san": "Bb4+",
+     "games": 9060,
+     "white": 3990,
+     "draws": 477,
+     "black": 4593
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c3",
+    "cxd4",
+    "cxd4",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/3pPb2/3P4/5N2/PP2BPPP/RNBQK2R w KQkq - 1 8",
+   "games": 18118,
+   "white": 8407,
+   "draws": 843,
+   "black": 8868,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c3",
+    "cxd4",
+    "cxd4",
+    "Bb4+"
+   ],
+   "fen": "rn1qk1nr/pp3ppp/4p3/3pPb2/1b1P4/5N2/PP2BPPP/RNBQK2R w KQkq - 1 8",
+   "games": 9060,
+   "white": 3990,
+   "draws": 477,
+   "black": 4593,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "O-O"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppPb2/3P4/5N2/PPP1BPPP/RNBQ1RK1 b kq - 1 6",
+   "games": 86615,
+   "white": 46141,
+   "draws": 3881,
+   "black": 36593,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 67052,
+     "white": 35274,
+     "draws": 3061,
+     "black": 28717
+    },
+    {
+     "san": "cxd4",
+     "games": 13986,
+     "white": 7687,
+     "draws": 578,
+     "black": 5721
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "O-O",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/5N2/PPP1BPPP/RNBQ1RK1 w kq - 2 7",
+   "games": 67052,
+   "white": 35274,
+   "draws": 3061,
+   "black": 28717,
+   "top": [
+    {
+     "san": "c3",
+     "games": 31057,
+     "white": 15824,
+     "draws": 1392,
+     "black": 13841
+    },
+    {
+     "san": "Be3",
+     "games": 12549,
+     "white": 7328,
+     "draws": 570,
+     "black": 4651
+    },
+    {
+     "san": "c4",
+     "games": 11555,
+     "white": 6210,
+     "draws": 596,
+     "black": 4749
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "O-O",
+    "Nc6",
+    "c3"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQ1RK1 b kq - 0 7",
+   "games": 31057,
+   "white": 15824,
+   "draws": 1392,
+   "black": 13841,
+   "top": [
+    {
+     "san": "Qb6",
+     "games": 57035,
+     "white": 27169,
+     "draws": 2464,
+     "black": 27402
+    },
+    {
+     "san": "cxd4",
+     "games": 45760,
+     "white": 21553,
+     "draws": 2246,
+     "black": 21961
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "O-O",
+    "Nc6",
+    "c3",
+    "Qb6"
+   ],
+   "fen": "r3kbnr/pp3ppp/1qn1p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQ1RK1 w kq - 1 8",
+   "games": 57035,
+   "white": 27169,
+   "draws": 2464,
+   "black": 27402,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "O-O",
+    "Nc6",
+    "c3",
+    "cxd4"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/3pPb2/3p4/2P2N2/PP2BPPP/RNBQ1RK1 w kq - 0 8",
+   "games": 45760,
+   "white": 21553,
+   "draws": 2246,
+   "black": 21961,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "O-O",
+    "Nc6",
+    "Be3"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/4BN2/PPP1BPPP/RN1Q1RK1 b kq - 3 7",
+   "games": 12549,
+   "white": 7328,
+   "draws": 570,
+   "black": 4651,
+   "top": [
+    {
+     "san": "Qb6",
+     "games": 8394,
+     "white": 5205,
+     "draws": 303,
+     "black": 2886
+    },
+    {
+     "san": "cxd4",
+     "games": 8150,
+     "white": 4294,
+     "draws": 497,
+     "black": 3359
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "O-O",
+    "Nc6",
+    "Be3",
+    "Qb6"
+   ],
+   "fen": "r3kbnr/pp3ppp/1qn1p3/2ppPb2/3P4/4BN2/PPP1BPPP/RN1Q1RK1 w kq - 4 8",
+   "games": 8394,
+   "white": 5205,
+   "draws": 303,
+   "black": 2886,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "O-O",
+    "Nc6",
+    "Be3",
+    "cxd4"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/3pPb2/3p4/4BN2/PPP1BPPP/RN1Q1RK1 w kq - 0 8",
+   "games": 8150,
+   "white": 4294,
+   "draws": 497,
+   "black": 3359,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "O-O",
+    "Nc6",
+    "c4"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/2PP4/5N2/PP2BPPP/RNBQ1RK1 b kq - 0 7",
+   "games": 11555,
+   "white": 6210,
+   "draws": 596,
+   "black": 4749,
+   "top": [
+    {
+     "san": "cxd4",
+     "games": 5210,
+     "white": 2940,
+     "draws": 249,
+     "black": 2021
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "O-O",
+    "Nc6",
+    "c4",
+    "cxd4"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/3pPb2/2Pp4/5N2/PP2BPPP/RNBQ1RK1 w kq - 0 8",
+   "games": 5210,
+   "white": 2940,
+   "draws": 249,
+   "black": 2021,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "O-O",
+    "cxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pPb2/3p4/5N2/PPP1BPPP/RNBQ1RK1 w kq - 0 7",
+   "games": 13986,
+   "white": 7687,
+   "draws": 578,
+   "black": 5721,
+   "top": [
+    {
+     "san": "Nxd4",
+     "games": 12776,
+     "white": 7109,
+     "draws": 528,
+     "black": 5139
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "O-O",
+    "cxd4",
+    "Nxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pPb2/3N4/8/PPP1BPPP/RNBQ1RK1 b kq - 0 7",
+   "games": 12776,
+   "white": 7109,
+   "draws": 528,
+   "black": 5139,
+   "top": [
+    {
+     "san": "Bg6",
+     "games": 8977,
+     "white": 4982,
+     "draws": 357,
+     "black": 3638
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "O-O",
+    "cxd4",
+    "Nxd4",
+    "Bg6"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p1b1/3pP3/3N4/8/PPP1BPPP/RNBQ1RK1 w kq - 1 8",
+   "games": 8977,
+   "white": 4982,
+   "draws": 357,
+   "black": 3638,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "Be3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppPb2/3P4/4BN2/PPP1BPPP/RN1QK2R b KQkq - 1 6",
+   "games": 81631,
+   "white": 47189,
+   "draws": 3696,
+   "black": 30746,
+   "top": [
+    {
+     "san": "Qb6",
+     "games": 26495,
+     "white": 15955,
+     "draws": 1008,
+     "black": 9532
+    },
+    {
+     "san": "cxd4",
+     "games": 24926,
+     "white": 13903,
+     "draws": 1311,
+     "black": 9712
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "Be3",
+    "Qb6"
+   ],
+   "fen": "rn2kbnr/pp3ppp/1q2p3/2ppPb2/3P4/4BN2/PPP1BPPP/RN1QK2R w KQkq - 2 7",
+   "games": 26495,
+   "white": 15955,
+   "draws": 1008,
+   "black": 9532,
+   "top": [
+    {
+     "san": "Nc3",
+     "games": 20439,
+     "white": 13066,
+     "draws": 722,
+     "black": 6651
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "Be3",
+    "Qb6",
+    "Nc3"
+   ],
+   "fen": "rn2kbnr/pp3ppp/1q2p3/2ppPb2/3P4/2N1BN2/PPP1BPPP/R2QK2R b KQkq - 3 7",
+   "games": 20439,
+   "white": 13066,
+   "draws": 722,
+   "black": 6651,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 9114,
+     "white": 5550,
+     "draws": 364,
+     "black": 3200
+    },
+    {
+     "san": "Qxb2",
+     "games": 8637,
+     "white": 5968,
+     "draws": 223,
+     "black": 2446
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "Be3",
+    "Qb6",
+    "Nc3",
+    "Nc6"
+   ],
+   "fen": "r3kbnr/pp3ppp/1qn1p3/2ppPb2/3P4/2N1BN2/PPP1BPPP/R2QK2R w KQkq - 4 8",
+   "games": 9114,
+   "white": 5550,
+   "draws": 364,
+   "black": 3200,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "Be3",
+    "Qb6",
+    "Nc3",
+    "Qxb2"
+   ],
+   "fen": "rn2kbnr/pp3ppp/4p3/2ppPb2/3P4/2N1BN2/PqP1BPPP/R2QK2R w KQkq - 0 8",
+   "games": 8637,
+   "white": 5968,
+   "draws": 223,
+   "black": 2446,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "Be3",
+    "cxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pPb2/3p4/4BN2/PPP1BPPP/RN1QK2R w KQkq - 0 7",
+   "games": 24926,
+   "white": 13903,
+   "draws": 1311,
+   "black": 9712,
+   "top": [
+    {
+     "san": "Nxd4",
+     "games": 23207,
+     "white": 13139,
+     "draws": 1217,
+     "black": 8851
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "Be3",
+    "cxd4",
+    "Nxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pPb2/3N4/4B3/PPP1BPPP/RN1QK2R b KQkq - 0 7",
+   "games": 23207,
+   "white": 13139,
+   "draws": 1217,
+   "black": 8851,
+   "top": [
+    {
+     "san": "Bg6",
+     "games": 14680,
+     "white": 8523,
+     "draws": 700,
+     "black": 5457
+    },
+    {
+     "san": "Ne7",
+     "games": 5773,
+     "white": 2876,
+     "draws": 390,
+     "black": 2507
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "Be3",
+    "cxd4",
+    "Nxd4",
+    "Bg6"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p1b1/3pP3/3N4/4B3/PPP1BPPP/RN1QK2R w KQkq - 1 8",
+   "games": 14680,
+   "white": 8523,
+   "draws": 700,
+   "black": 5457,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "Be3",
+    "cxd4",
+    "Nxd4",
+    "Ne7"
+   ],
+   "fen": "rn1qkb1r/pp2nppp/4p3/3pPb2/3N4/4B3/PPP1BPPP/RN1QK2R w KQkq - 1 8",
+   "games": 5773,
+   "white": 2876,
+   "draws": 390,
+   "black": 2507,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppPb2/2PP4/5N2/PP2BPPP/RNBQK2R b KQkq - 0 6",
+   "games": 21049,
+   "white": 11262,
+   "draws": 1063,
+   "black": 8724,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 9583,
+     "white": 5261,
+     "draws": 456,
+     "black": 3866
+    },
+    {
+     "san": "dxc4",
+     "games": 6313,
+     "white": 3032,
+     "draws": 379,
+     "black": 2902
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c4",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/2PP4/5N2/PP2BPPP/RNBQK2R w KQkq - 1 7",
+   "games": 9583,
+   "white": 5261,
+   "draws": 456,
+   "black": 3866,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "c4",
+    "dxc4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2p1Pb2/2pP4/5N2/PP2BPPP/RNBQK2R w KQkq - 0 7",
+   "games": 6313,
+   "white": 3032,
+   "draws": 379,
+   "black": 2902,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "dxc5"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2PpPb2/8/5N2/PPP1BPPP/RNBQK2R b KQkq - 0 6",
+   "games": 7111,
+   "white": 2966,
+   "draws": 338,
+   "black": 3807,
+   "top": [
+    {
+     "san": "Bxc5",
+     "games": 6772,
+     "white": 2789,
+     "draws": 325,
+     "black": 3658
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "c5",
+    "dxc5",
+    "Bxc5"
+   ],
+   "fen": "rn1qk1nr/pp3ppp/4p3/2bpPb2/8/5N2/PPP1BPPP/RNBQK2R w KQkq - 0 7",
+   "games": 6772,
+   "white": 2789,
+   "draws": 325,
+   "black": 3658,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPb2/3P4/5N2/PPP1BPPP/RNBQK2R w KQkq - 2 6",
+   "games": 236125,
+   "white": 119722,
+   "draws": 10732,
+   "black": 105671,
+   "top": [
+    {
+     "san": "O-O",
+     "games": 193867,
+     "white": 100517,
+     "draws": 8737,
+     "black": 84613
+    },
+    {
+     "san": "c3",
+     "games": 10982,
+     "white": 5168,
+     "draws": 513,
+     "black": 5301
+    },
+    {
+     "san": "Be3",
+     "games": 9394,
+     "white": 4673,
+     "draws": 491,
+     "black": 4230
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "O-O"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPb2/3P4/5N2/PPP1BPPP/RNBQ1RK1 b kq - 3 6",
+   "games": 193867,
+   "white": 100517,
+   "draws": 8737,
+   "black": 84613,
+   "top": [
+    {
+     "san": "c5",
+     "games": 76287,
+     "white": 41145,
+     "draws": 3340,
+     "black": 31802
+    },
+    {
+     "san": "Ne7",
+     "games": 49613,
+     "white": 24367,
+     "draws": 2384,
+     "black": 22862
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "O-O",
+    "c5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppPb2/3P4/5N2/PPP1BPPP/RNBQ1RK1 w kq - 0 7",
+   "games": 76287,
+   "white": 41145,
+   "draws": 3340,
+   "black": 31802,
+   "top": [
+    {
+     "san": "c3",
+     "games": 40183,
+     "white": 18922,
+     "draws": 1823,
+     "black": 19438
+    },
+    {
+     "san": "c4",
+     "games": 20425,
+     "white": 13851,
+     "draws": 829,
+     "black": 5745
+    },
+    {
+     "san": "Be3",
+     "games": 10054,
+     "white": 5703,
+     "draws": 464,
+     "black": 3887
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "O-O",
+    "c5",
+    "c3"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQ1RK1 b kq - 0 7",
+   "games": 40183,
+   "white": 18922,
+   "draws": 1823,
+   "black": 19438,
+   "top": [
+    {
+     "san": "cxd4",
+     "games": 19990,
+     "white": 9669,
+     "draws": 988,
+     "black": 9333
+    },
+    {
+     "san": "Ne7",
+     "games": 18549,
+     "white": 8267,
+     "draws": 835,
+     "black": 9447
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "O-O",
+    "c5",
+    "c3",
+    "cxd4"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/3pPb2/3p4/2P2N2/PP2BPPP/RNBQ1RK1 w kq - 0 8",
+   "games": 19990,
+   "white": 9669,
+   "draws": 988,
+   "black": 9333,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "O-O",
+    "c5",
+    "c3",
+    "Ne7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/4p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQ1RK1 w kq - 1 8",
+   "games": 18549,
+   "white": 8267,
+   "draws": 835,
+   "black": 9447,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "O-O",
+    "c5",
+    "c4"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppPb2/2PP4/5N2/PP2BPPP/RNBQ1RK1 b kq - 0 7",
+   "games": 20425,
+   "white": 13851,
+   "draws": 829,
+   "black": 5745,
+   "top": [
+    {
+     "san": "cxd4",
+     "games": 6314,
+     "white": 4591,
+     "draws": 185,
+     "black": 1538
+    },
+    {
+     "san": "dxc4",
+     "games": 5783,
+     "white": 3725,
+     "draws": 262,
+     "black": 1796
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "O-O",
+    "c5",
+    "c4",
+    "cxd4"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/3pPb2/2Pp4/5N2/PP2BPPP/RNBQ1RK1 w kq - 0 8",
+   "games": 6314,
+   "white": 4591,
+   "draws": 185,
+   "black": 1538,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "O-O",
+    "c5",
+    "c4",
+    "dxc4"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2p1Pb2/2pP4/5N2/PP2BPPP/RNBQ1RK1 w kq - 0 8",
+   "games": 5783,
+   "white": 3725,
+   "draws": 262,
+   "black": 1796,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "O-O",
+    "c5",
+    "Be3"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppPb2/3P4/4BN2/PPP1BPPP/RN1Q1RK1 b kq - 1 7",
+   "games": 10054,
+   "white": 5703,
+   "draws": 464,
+   "black": 3887,
+   "top": [
+    {
+     "san": "cxd4",
+     "games": 5255,
+     "white": 3028,
+     "draws": 229,
+     "black": 1998
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "O-O",
+    "c5",
+    "Be3",
+    "cxd4"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/3pPb2/3p4/4BN2/PPP1BPPP/RN1Q1RK1 w kq - 0 8",
+   "games": 5255,
+   "white": 3028,
+   "draws": 229,
+   "black": 1998,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "O-O",
+    "Ne7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P4/5N2/PPP1BPPP/RNBQ1RK1 w kq - 4 7",
+   "games": 49613,
+   "white": 24367,
+   "draws": 2384,
+   "black": 22862,
+   "top": [
+    {
+     "san": "Nbd2",
+     "games": 17141,
+     "white": 9051,
+     "draws": 902,
+     "black": 7188
+    },
+    {
+     "san": "c4",
+     "games": 13635,
+     "white": 6539,
+     "draws": 706,
+     "black": 6390
+    },
+    {
+     "san": "c3",
+     "games": 11353,
+     "white": 5296,
+     "draws": 573,
+     "black": 5484
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "O-O",
+    "Ne7",
+    "Nbd2"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P4/5N2/PPPNBPPP/R1BQ1RK1 b kq - 5 7",
+   "games": 17141,
+   "white": 9051,
+   "draws": 902,
+   "black": 7188,
+   "top": [
+    {
+     "san": "c5",
+     "games": 8202,
+     "white": 4371,
+     "draws": 429,
+     "black": 3402
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "O-O",
+    "Ne7",
+    "Nbd2",
+    "c5"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/4p3/2ppPb2/3P4/5N2/PPPNBPPP/R1BQ1RK1 w kq - 0 8",
+   "games": 8202,
+   "white": 4371,
+   "draws": 429,
+   "black": 3402,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "O-O",
+    "Ne7",
+    "c4"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/2PP4/5N2/PP2BPPP/RNBQ1RK1 b kq - 0 7",
+   "games": 13635,
+   "white": 6539,
+   "draws": 706,
+   "black": 6390,
+   "top": [
+    {
+     "san": "dxc4",
+     "games": 6530,
+     "white": 2877,
+     "draws": 387,
+     "black": 3266
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "O-O",
+    "Ne7",
+    "c4",
+    "dxc4"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/4Pb2/2pP4/5N2/PP2BPPP/RNBQ1RK1 w kq - 0 8",
+   "games": 6530,
+   "white": 2877,
+   "draws": 387,
+   "black": 3266,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "O-O",
+    "Ne7",
+    "c3"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P4/2P2N2/PP2BPPP/RNBQ1RK1 b kq - 0 7",
+   "games": 11353,
+   "white": 5296,
+   "draws": 573,
+   "black": 5484,
+   "top": [
+    {
+     "san": "c5",
+     "games": 9412,
+     "white": 4129,
+     "draws": 452,
+     "black": 4831
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "O-O",
+    "Ne7",
+    "c3",
+    "c5"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/4p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQ1RK1 w kq - 0 8",
+   "games": 9412,
+   "white": 4129,
+   "draws": 452,
+   "black": 4831,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "O-O",
+    "Ne7",
+    "Be3"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P4/4BN2/PPP1BPPP/RN1Q1RK1 b kq - 5 7",
+   "games": 8582,
+   "white": 4406,
+   "draws": 406,
+   "black": 3770,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "O-O",
+    "Ne7",
+    "Nh4"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P3N/8/PPP1BPPP/RNBQ1RK1 b kq - 5 7",
+   "games": 6492,
+   "white": 3079,
+   "draws": 272,
+   "black": 3141,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "c3"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPb2/3P4/2P2N2/PP2BPPP/RNBQK2R b KQkq - 0 6",
+   "games": 10982,
+   "white": 5168,
+   "draws": 513,
+   "black": 5301,
+   "top": [
+    {
+     "san": "c5",
+     "games": 23235,
+     "white": 10704,
+     "draws": 1085,
+     "black": 11446
+    },
+    {
+     "san": "Ne7",
+     "games": 10759,
+     "white": 4708,
+     "draws": 480,
+     "black": 5571
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "c3",
+    "c5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQK2R w KQkq - 0 7",
+   "games": 23235,
+   "white": 10704,
+   "draws": 1085,
+   "black": 11446,
+   "top": [
+    {
+     "san": "O-O",
+     "games": 19740,
+     "white": 9203,
+     "draws": 913,
+     "black": 9624
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "c3",
+    "c5",
+    "O-O"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQ1RK1 b kq - 1 7",
+   "games": 19740,
+   "white": 9203,
+   "draws": 913,
+   "black": 9624,
+   "top": [
+    {
+     "san": "cxd4",
+     "games": 19990,
+     "white": 9669,
+     "draws": 988,
+     "black": 9333
+    },
+    {
+     "san": "Ne7",
+     "games": 18549,
+     "white": 8267,
+     "draws": 835,
+     "black": 9447
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "c3",
+    "c5",
+    "O-O",
+    "cxd4"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/3pPb2/3p4/2P2N2/PP2BPPP/RNBQ1RK1 w kq - 0 8",
+   "games": 19990,
+   "white": 9669,
+   "draws": 988,
+   "black": 9333,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "c3",
+    "c5",
+    "O-O",
+    "Ne7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/4p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQ1RK1 w kq - 2 8",
+   "games": 18549,
+   "white": 8267,
+   "draws": 835,
+   "black": 9447,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "c3",
+    "Ne7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P4/2P2N2/PP2BPPP/RNBQK2R w KQkq - 1 7",
+   "games": 10759,
+   "white": 4708,
+   "draws": 480,
+   "black": 5571,
+   "top": [
+    {
+     "san": "O-O",
+     "games": 10562,
+     "white": 4781,
+     "draws": 475,
+     "black": 5306
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "c3",
+    "Ne7",
+    "O-O"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P4/2P2N2/PP2BPPP/RNBQ1RK1 b kq - 2 7",
+   "games": 10562,
+   "white": 4781,
+   "draws": 475,
+   "black": 5306,
+   "top": [
+    {
+     "san": "c5",
+     "games": 9412,
+     "white": 4129,
+     "draws": 452,
+     "black": 4831
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "c3",
+    "Ne7",
+    "O-O",
+    "c5"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/4p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQ1RK1 w kq - 0 8",
+   "games": 9412,
+   "white": 4129,
+   "draws": 452,
+   "black": 4831,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "Be3"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPb2/3P4/4BN2/PPP1BPPP/RN1QK2R b KQkq - 3 6",
+   "games": 9394,
+   "white": 4673,
+   "draws": 491,
+   "black": 4230,
+   "top": [
+    {
+     "san": "c5",
+     "games": 5263,
+     "white": 2706,
+     "draws": 269,
+     "black": 2288
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "Be3",
+    "c5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppPb2/3P4/4BN2/PPP1BPPP/RN1QK2R w KQkq - 0 7",
+   "games": 5263,
+   "white": 2706,
+   "draws": 269,
+   "black": 2288,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Be2",
+    "Nd7",
+    "Nbd2"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPb2/3P4/5N2/PPPNBPPP/R1BQK2R b KQkq - 3 6",
+   "games": 7938,
+   "white": 4001,
+   "draws": 370,
+   "black": 3567,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/2p1p3/3pPb2/3P4/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 5",
+   "games": 507209,
+   "white": 214722,
+   "draws": 21268,
+   "black": 271219,
+   "top": [
+    {
+     "san": "c5",
+     "games": 318687,
+     "white": 134944,
+     "draws": 13116,
+     "black": 170627
+    },
+    {
+     "san": "Nd7",
+     "games": 180707,
+     "white": 73820,
+     "draws": 7455,
+     "black": 99432
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppPb2/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 6",
+   "games": 318687,
+   "white": 134944,
+   "draws": 13116,
+   "black": 170627,
+   "top": [
+    {
+     "san": "Be3",
+     "games": 82146,
+     "white": 35838,
+     "draws": 3315,
+     "black": 42993
+    },
+    {
+     "san": "Bb5+",
+     "games": 76815,
+     "white": 33998,
+     "draws": 3169,
+     "black": 39648
+    },
+    {
+     "san": "Bd3",
+     "games": 46226,
+     "white": 19660,
+     "draws": 2092,
+     "black": 24474
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Be3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppPb2/3P4/2N1BN2/PPP2PPP/R2QKB1R b KQkq - 1 6",
+   "games": 82146,
+   "white": 35838,
+   "draws": 3315,
+   "black": 42993,
+   "top": [
+    {
+     "san": "cxd4",
+     "games": 34929,
+     "white": 15093,
+     "draws": 1497,
+     "black": 18339
+    },
+    {
+     "san": "Nc6",
+     "games": 22272,
+     "white": 10096,
+     "draws": 866,
+     "black": 11310
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Be3",
+    "cxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pPb2/3p4/2N1BN2/PPP2PPP/R2QKB1R w KQkq - 0 7",
+   "games": 34929,
+   "white": 15093,
+   "draws": 1497,
+   "black": 18339,
+   "top": [
+    {
+     "san": "Nxd4",
+     "games": 19602,
+     "white": 9272,
+     "draws": 833,
+     "black": 9497
+    },
+    {
+     "san": "Bxd4",
+     "games": 14170,
+     "white": 5302,
+     "draws": 627,
+     "black": 8241
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Be3",
+    "cxd4",
+    "Nxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pPb2/3N4/2N1B3/PPP2PPP/R2QKB1R b KQkq - 0 7",
+   "games": 19602,
+   "white": 9272,
+   "draws": 833,
+   "black": 9497,
+   "top": [
+    {
+     "san": "Bg6",
+     "games": 12836,
+     "white": 5960,
+     "draws": 498,
+     "black": 6378
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Be3",
+    "cxd4",
+    "Nxd4",
+    "Bg6"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p1b1/3pP3/3N4/2N1B3/PPP2PPP/R2QKB1R w KQkq - 1 8",
+   "games": 12836,
+   "white": 5960,
+   "draws": 498,
+   "black": 6378,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Be3",
+    "cxd4",
+    "Bxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pPb2/3B4/2N2N2/PPP2PPP/R2QKB1R b KQkq - 0 7",
+   "games": 14170,
+   "white": 5302,
+   "draws": 627,
+   "black": 8241,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 12634,
+     "white": 4721,
+     "draws": 526,
+     "black": 7387
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Be3",
+    "cxd4",
+    "Bxd4",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/3pPb2/3B4/2N2N2/PPP2PPP/R2QKB1R w KQkq - 1 8",
+   "games": 12634,
+   "white": 4721,
+   "draws": 526,
+   "black": 7387,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Be3",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/2N1BN2/PPP2PPP/R2QKB1R w KQkq - 2 7",
+   "games": 22272,
+   "white": 10096,
+   "draws": 866,
+   "black": 11310,
+   "top": [
+    {
+     "san": "Bb5",
+     "games": 11264,
+     "white": 5040,
+     "draws": 454,
+     "black": 5770
+    },
+    {
+     "san": "dxc5",
+     "games": 6308,
+     "white": 3045,
+     "draws": 246,
+     "black": 3017
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Be3",
+    "Nc6",
+    "Bb5"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/1BppPb2/3P4/2N1BN2/PPP2PPP/R2QK2R b KQkq - 3 7",
+   "games": 11264,
+   "white": 5040,
+   "draws": 454,
+   "black": 5770,
+   "top": [
+    {
+     "san": "Qb6",
+     "games": 5614,
+     "white": 2454,
+     "draws": 224,
+     "black": 2936
+    },
+    {
+     "san": "cxd4",
+     "games": 5585,
+     "white": 2791,
+     "draws": 238,
+     "black": 2556
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Be3",
+    "Nc6",
+    "Bb5",
+    "Qb6"
+   ],
+   "fen": "r3kbnr/pp3ppp/1qn1p3/1BppPb2/3P4/2N1BN2/PPP2PPP/R2QK2R w KQkq - 4 8",
+   "games": 5614,
+   "white": 2454,
+   "draws": 224,
+   "black": 2936,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Be3",
+    "Nc6",
+    "Bb5",
+    "cxd4"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/1B1pPb2/3p4/2N1BN2/PPP2PPP/R2QK2R w KQkq - 0 8",
+   "games": 5585,
+   "white": 2791,
+   "draws": 238,
+   "black": 2556,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Be3",
+    "Nc6",
+    "dxc5"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2PpPb2/8/2N1BN2/PPP2PPP/R2QKB1R b KQkq - 0 7",
+   "games": 6308,
+   "white": 3045,
+   "draws": 246,
+   "black": 3017,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bb5+"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/1BppPb2/3P4/2N2N2/PPP2PPP/R1BQK2R b KQkq - 1 6",
+   "games": 76815,
+   "white": 33998,
+   "draws": 3169,
+   "black": 39648,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 66397,
+     "white": 29452,
+     "draws": 2743,
+     "black": 34202
+    },
+    {
+     "san": "Nd7",
+     "games": 10413,
+     "white": 4534,
+     "draws": 426,
+     "black": 5453
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bb5+",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/1BppPb2/3P4/2N2N2/PPP2PPP/R1BQK2R w KQkq - 2 7",
+   "games": 66397,
+   "white": 29452,
+   "draws": 2743,
+   "black": 34202,
+   "top": [
+    {
+     "san": "O-O",
+     "games": 24080,
+     "white": 11400,
+     "draws": 977,
+     "black": 11703
+    },
+    {
+     "san": "Bxc6+",
+     "games": 13576,
+     "white": 5889,
+     "draws": 639,
+     "black": 7048
+    },
+    {
+     "san": "Be3",
+     "games": 8994,
+     "white": 4237,
+     "draws": 369,
+     "black": 4388
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bb5+",
+    "Nc6",
+    "O-O"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/1BppPb2/3P4/2N2N2/PPP2PPP/R1BQ1RK1 b kq - 3 7",
+   "games": 24080,
+   "white": 11400,
+   "draws": 977,
+   "black": 11703,
+   "top": [
+    {
+     "san": "a6",
+     "games": 11913,
+     "white": 5484,
+     "draws": 533,
+     "black": 5896
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bb5+",
+    "Nc6",
+    "O-O",
+    "a6"
+   ],
+   "fen": "r2qkbnr/1p3ppp/p1n1p3/1BppPb2/3P4/2N2N2/PPP2PPP/R1BQ1RK1 w kq - 0 8",
+   "games": 11913,
+   "white": 5484,
+   "draws": 533,
+   "black": 5896,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bb5+",
+    "Nc6",
+    "Bxc6+"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2B1p3/2ppPb2/3P4/2N2N2/PPP2PPP/R1BQK2R b KQkq - 0 7",
+   "games": 13576,
+   "white": 5889,
+   "draws": 639,
+   "black": 7048,
+   "top": [
+    {
+     "san": "bxc6",
+     "games": 13575,
+     "white": 5888,
+     "draws": 639,
+     "black": 7048
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bb5+",
+    "Nc6",
+    "Bxc6+",
+    "bxc6"
+   ],
+   "fen": "r2qkbnr/p4ppp/2p1p3/2ppPb2/3P4/2N2N2/PPP2PPP/R1BQK2R w KQkq - 0 8",
+   "games": 13575,
+   "white": 5888,
+   "draws": 639,
+   "black": 7048,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bb5+",
+    "Nc6",
+    "Be3"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/1BppPb2/3P4/2N1BN2/PPP2PPP/R2QK2R b KQkq - 3 7",
+   "games": 8994,
+   "white": 4237,
+   "draws": 369,
+   "black": 4388,
+   "top": [
+    {
+     "san": "Qb6",
+     "games": 5614,
+     "white": 2454,
+     "draws": 224,
+     "black": 2936
+    },
+    {
+     "san": "cxd4",
+     "games": 5585,
+     "white": 2791,
+     "draws": 238,
+     "black": 2556
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bb5+",
+    "Nc6",
+    "Be3",
+    "Qb6"
+   ],
+   "fen": "r3kbnr/pp3ppp/1qn1p3/1BppPb2/3P4/2N1BN2/PPP2PPP/R2QK2R w KQkq - 4 8",
+   "games": 5614,
+   "white": 2454,
+   "draws": 224,
+   "black": 2936,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bb5+",
+    "Nc6",
+    "Be3",
+    "cxd4"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/1B1pPb2/3p4/2N1BN2/PPP2PPP/R2QK2R w KQkq - 0 8",
+   "games": 5585,
+   "white": 2791,
+   "draws": 238,
+   "black": 2556,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bb5+",
+    "Nc6",
+    "Bg5"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/1BppPbB1/3P4/2N2N2/PPP2PPP/R2QK2R b KQkq - 3 7",
+   "games": 8448,
+   "white": 3616,
+   "draws": 344,
+   "black": 4488,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bb5+",
+    "Nc6",
+    "dxc5"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/1BPpPb2/8/2N2N2/PPP2PPP/R1BQK2R b KQkq - 0 7",
+   "games": 6778,
+   "white": 2583,
+   "draws": 264,
+   "black": 3931,
+   "top": [
+    {
+     "san": "Bxc5",
+     "games": 10459,
+     "white": 3976,
+     "draws": 436,
+     "black": 6047
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bb5+",
+    "Nc6",
+    "dxc5",
+    "Bxc5"
+   ],
+   "fen": "r2qk1nr/pp3ppp/2n1p3/1BbpPb2/8/2N2N2/PPP2PPP/R1BQK2R w KQkq - 0 8",
+   "games": 10459,
+   "white": 3976,
+   "draws": 436,
+   "black": 6047,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bb5+",
+    "Nd7"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/1BppPb2/3P4/2N2N2/PPP2PPP/R1BQK2R w KQkq - 2 7",
+   "games": 10413,
+   "white": 4534,
+   "draws": 426,
+   "black": 5453,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bd3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppPb2/3P4/2NB1N2/PPP2PPP/R1BQK2R b KQkq - 1 6",
+   "games": 46226,
+   "white": 19660,
+   "draws": 2092,
+   "black": 24474,
+   "top": [
+    {
+     "san": "Bxd3",
+     "games": 31066,
+     "white": 13122,
+     "draws": 1449,
+     "black": 16495
+    },
+    {
+     "san": "Bg6",
+     "games": 5354,
+     "white": 2137,
+     "draws": 215,
+     "black": 3002
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bd3",
+    "Bxd3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppP3/3P4/2Nb1N2/PPP2PPP/R1BQK2R w KQkq - 0 7",
+   "games": 31066,
+   "white": 13122,
+   "draws": 1449,
+   "black": 16495,
+   "top": [
+    {
+     "san": "Qxd3",
+     "games": 27035,
+     "white": 11412,
+     "draws": 1265,
+     "black": 14358
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bd3",
+    "Bxd3",
+    "Qxd3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppP3/3P4/2NQ1N2/PPP2PPP/R1B1K2R b KQkq - 0 7",
+   "games": 27035,
+   "white": 11412,
+   "draws": 1265,
+   "black": 14358,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 31221,
+     "white": 12973,
+     "draws": 1531,
+     "black": 16717
+    },
+    {
+     "san": "cxd4",
+     "games": 13422,
+     "white": 5883,
+     "draws": 629,
+     "black": 6910
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppP3/3P4/2NQ1N2/PPP2PPP/R1B1K2R w KQkq - 1 8",
+   "games": 31221,
+   "white": 12973,
+   "draws": 1531,
+   "black": 16717,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "cxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pP3/3p4/2NQ1N2/PPP2PPP/R1B1K2R w KQkq - 0 8",
+   "games": 13422,
+   "white": 5883,
+   "draws": 629,
+   "black": 6910,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bd3",
+    "Bg6"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p1b1/2ppP3/3P4/2NB1N2/PPP2PPP/R1BQK2R w KQkq - 2 7",
+   "games": 5354,
+   "white": 2137,
+   "draws": 215,
+   "black": 3002,
+   "top": [
+    {
+     "san": "Bxg6",
+     "games": 5582,
+     "white": 2298,
+     "draws": 221,
+     "black": 3063
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bd3",
+    "Bg6",
+    "Bxg6"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p1B1/2ppP3/3P4/2N2N2/PPP2PPP/R1BQK2R b KQkq - 0 7",
+   "games": 5582,
+   "white": 2298,
+   "draws": 221,
+   "black": 3063,
+   "top": [
+    {
+     "san": "hxg6",
+     "games": 5506,
+     "white": 2250,
+     "draws": 218,
+     "black": 3038
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bd3",
+    "Bg6",
+    "Bxg6",
+    "hxg6"
+   ],
+   "fen": "rn1qkbnr/pp3pp1/4p1p1/2ppP3/3P4/2N2N2/PPP2PPP/R1BQK2R w KQkq - 0 8",
+   "games": 5506,
+   "white": 2250,
+   "draws": 218,
+   "black": 3038,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "dxc5"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2PpPb2/8/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 0 6",
+   "games": 31520,
+   "white": 11828,
+   "draws": 1300,
+   "black": 18392,
+   "top": [
+    {
+     "san": "Bxc5",
+     "games": 31163,
+     "white": 11678,
+     "draws": 1283,
+     "black": 18202
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "dxc5",
+    "Bxc5"
+   ],
+   "fen": "rn1qk1nr/pp3ppp/4p3/2bpPb2/8/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 7",
+   "games": 31163,
+   "white": 11678,
+   "draws": 1283,
+   "black": 18202,
+   "top": [
+    {
+     "san": "Bb5+",
+     "games": 9729,
+     "white": 3600,
+     "draws": 390,
+     "black": 5739
+    },
+    {
+     "san": "Bd3",
+     "games": 6190,
+     "white": 2472,
+     "draws": 268,
+     "black": 3450
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "dxc5",
+    "Bxc5",
+    "Bb5+"
+   ],
+   "fen": "rn1qk1nr/pp3ppp/4p3/1BbpPb2/8/2N2N2/PPP2PPP/R1BQK2R b KQkq - 1 7",
+   "games": 9729,
+   "white": 3600,
+   "draws": 390,
+   "black": 5739,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 8418,
+     "white": 3096,
+     "draws": 338,
+     "black": 4984
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "dxc5",
+    "Bxc5",
+    "Bb5+",
+    "Nc6"
+   ],
+   "fen": "r2qk1nr/pp3ppp/2n1p3/1BbpPb2/8/2N2N2/PPP2PPP/R1BQK2R w KQkq - 2 8",
+   "games": 8418,
+   "white": 3096,
+   "draws": 338,
+   "black": 4984,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "dxc5",
+    "Bxc5",
+    "Bd3"
+   ],
+   "fen": "rn1qk1nr/pp3ppp/4p3/2bpPb2/8/2NB1N2/PPP2PPP/R1BQK2R b KQkq - 1 7",
+   "games": 6190,
+   "white": 2472,
+   "draws": 268,
+   "black": 3450,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bg5"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppPbB1/3P4/2N2N2/PPP2PPP/R2QKB1R b KQkq - 1 6",
+   "games": 30585,
+   "white": 13087,
+   "draws": 1177,
+   "black": 16321,
+   "top": [
+    {
+     "san": "Qb6",
+     "games": 12446,
+     "white": 5172,
+     "draws": 426,
+     "black": 6848
+    },
+    {
+     "san": "Be7",
+     "games": 12157,
+     "white": 4991,
+     "draws": 550,
+     "black": 6616
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bg5",
+    "Qb6"
+   ],
+   "fen": "rn2kbnr/pp3ppp/1q2p3/2ppPbB1/3P4/2N2N2/PPP2PPP/R2QKB1R w KQkq - 2 7",
+   "games": 12446,
+   "white": 5172,
+   "draws": 426,
+   "black": 6848,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bg5",
+    "Be7"
+   ],
+   "fen": "rn1qk1nr/pp2bppp/4p3/2ppPbB1/3P4/2N2N2/PPP2PPP/R2QKB1R w KQkq - 2 7",
+   "games": 12157,
+   "white": 4991,
+   "draws": 550,
+   "black": 6616,
+   "top": [
+    {
+     "san": "Bxe7",
+     "games": 7323,
+     "white": 2957,
+     "draws": 381,
+     "black": 3985
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Bg5",
+    "Be7",
+    "Bxe7"
+   ],
+   "fen": "rn1qk1nr/pp2Bppp/4p3/2ppPb2/3P4/2N2N2/PPP2PPP/R2QKB1R b KQkq - 0 7",
+   "games": 7323,
+   "white": 2957,
+   "draws": 381,
+   "black": 3985,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Be2"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppPb2/3P4/2N2N2/PPP1BPPP/R1BQK2R b KQkq - 1 6",
+   "games": 11010,
+   "white": 4897,
+   "draws": 444,
+   "black": 5669,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 10999,
+     "white": 4985,
+     "draws": 408,
+     "black": 5606
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "c5",
+    "Be2",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/2N2N2/PPP1BPPP/R1BQK2R w KQkq - 2 7",
+   "games": 10999,
+   "white": 4985,
+   "draws": 408,
+   "black": 5606,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPb2/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 2 6",
+   "games": 180707,
+   "white": 73820,
+   "draws": 7455,
+   "black": 99432,
+   "top": [
+    {
+     "san": "Bd3",
+     "games": 65759,
+     "white": 27751,
+     "draws": 2892,
+     "black": 35116
+    },
+    {
+     "san": "Bg5",
+     "games": 31911,
+     "white": 12642,
+     "draws": 1315,
+     "black": 17954
+    },
+    {
+     "san": "Be2",
+     "games": 19959,
+     "white": 8356,
+     "draws": 824,
+     "black": 10779
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Bd3"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPb2/3P4/2NB1N2/PPP2PPP/R1BQK2R b KQkq - 3 6",
+   "games": 65759,
+   "white": 27751,
+   "draws": 2892,
+   "black": 35116,
+   "top": [
+    {
+     "san": "Bxd3",
+     "games": 38388,
+     "white": 16176,
+     "draws": 1804,
+     "black": 20408
+    },
+    {
+     "san": "Ne7",
+     "games": 10906,
+     "white": 4354,
+     "draws": 458,
+     "black": 6094
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Bd3",
+    "Bxd3"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pP3/3P4/2Nb1N2/PPP2PPP/R1BQK2R w KQkq - 0 7",
+   "games": 38388,
+   "white": 16176,
+   "draws": 1804,
+   "black": 20408,
+   "top": [
+    {
+     "san": "Qxd3",
+     "games": 35322,
+     "white": 14870,
+     "draws": 1679,
+     "black": 18773
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Bd3",
+    "Bxd3",
+    "Qxd3"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pP3/3P4/2NQ1N2/PPP2PPP/R1B1K2R b KQkq - 0 7",
+   "games": 35322,
+   "white": 14870,
+   "draws": 1679,
+   "black": 18773,
+   "top": [
+    {
+     "san": "c5",
+     "games": 43735,
+     "white": 18900,
+     "draws": 2034,
+     "black": 22801
+    },
+    {
+     "san": "Ne7",
+     "games": 21191,
+     "white": 8638,
+     "draws": 1015,
+     "black": 11538
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppP3/3P4/2NQ1N2/PPP2PPP/R1B1K2R w KQkq - 0 8",
+   "games": 43735,
+   "white": 18900,
+   "draws": 2034,
+   "black": 22801,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Ne7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pP3/3P4/2NQ1N2/PPP2PPP/R1B1K2R w KQkq - 1 8",
+   "games": 21191,
+   "white": 8638,
+   "draws": 1015,
+   "black": 11538,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Bd3",
+    "Ne7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P4/2NB1N2/PPP2PPP/R1BQK2R w KQkq - 4 7",
+   "games": 10906,
+   "white": 4354,
+   "draws": 458,
+   "black": 6094,
+   "top": [
+    {
+     "san": "Bg5",
+     "games": 7922,
+     "white": 3475,
+     "draws": 350,
+     "black": 4097
+    },
+    {
+     "san": "O-O",
+     "games": 7522,
+     "white": 3284,
+     "draws": 293,
+     "black": 3945
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Bd3",
+    "Ne7",
+    "Bg5"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPbB1/3P4/2NB1N2/PPP2PPP/R2QK2R b KQkq - 5 7",
+   "games": 7922,
+   "white": 3475,
+   "draws": 350,
+   "black": 4097,
+   "top": [
+    {
+     "san": "Bxd3",
+     "games": 6483,
+     "white": 2691,
+     "draws": 291,
+     "black": 3501
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Bd3",
+    "Ne7",
+    "Bg5",
+    "Bxd3"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pP1B1/3P4/2Nb1N2/PPP2PPP/R2QK2R w KQkq - 0 8",
+   "games": 6483,
+   "white": 2691,
+   "draws": 291,
+   "black": 3501,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Bd3",
+    "Ne7",
+    "O-O"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P4/2NB1N2/PPP2PPP/R1BQ1RK1 b kq - 5 7",
+   "games": 7522,
+   "white": 3284,
+   "draws": 293,
+   "black": 3945,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Bg5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPbB1/3P4/2N2N2/PPP2PPP/R2QKB1R b KQkq - 3 6",
+   "games": 31911,
+   "white": 12642,
+   "draws": 1315,
+   "black": 17954,
+   "top": [
+    {
+     "san": "Be7",
+     "games": 17700,
+     "white": 6809,
+     "draws": 783,
+     "black": 10108
+    },
+    {
+     "san": "Qb6",
+     "games": 7346,
+     "white": 2836,
+     "draws": 272,
+     "black": 4238
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Bg5",
+    "Be7"
+   ],
+   "fen": "r2qk1nr/pp1nbppp/2p1p3/3pPbB1/3P4/2N2N2/PPP2PPP/R2QKB1R w KQkq - 4 7",
+   "games": 17700,
+   "white": 6809,
+   "draws": 783,
+   "black": 10108,
+   "top": [
+    {
+     "san": "Bxe7",
+     "games": 8760,
+     "white": 3173,
+     "draws": 390,
+     "black": 5197
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Bg5",
+    "Be7",
+    "Bxe7"
+   ],
+   "fen": "r2qk1nr/pp1nBppp/2p1p3/3pPb2/3P4/2N2N2/PPP2PPP/R2QKB1R b KQkq - 0 7",
+   "games": 8760,
+   "white": 3173,
+   "draws": 390,
+   "black": 5197,
+   "top": [
+    {
+     "san": "Nxe7",
+     "games": 8031,
+     "white": 2829,
+     "draws": 364,
+     "black": 4838
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Bg5",
+    "Be7",
+    "Bxe7",
+    "Nxe7"
+   ],
+   "fen": "r2qk2r/pp1nnppp/2p1p3/3pPb2/3P4/2N2N2/PPP2PPP/R2QKB1R w KQkq - 0 8",
+   "games": 8031,
+   "white": 2829,
+   "draws": 364,
+   "black": 4838,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Bg5",
+    "Qb6"
+   ],
+   "fen": "r3kbnr/pp1n1ppp/1qp1p3/3pPbB1/3P4/2N2N2/PPP2PPP/R2QKB1R w KQkq - 4 7",
+   "games": 7346,
+   "white": 2836,
+   "draws": 272,
+   "black": 4238,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Be2"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPb2/3P4/2N2N2/PPP1BPPP/R1BQK2R b KQkq - 3 6",
+   "games": 19959,
+   "white": 8356,
+   "draws": 824,
+   "black": 10779,
+   "top": [
+    {
+     "san": "c5",
+     "games": 10844,
+     "white": 4685,
+     "draws": 418,
+     "black": 5741
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Be2",
+    "c5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppPb2/3P4/2N2N2/PPP1BPPP/R1BQK2R w KQkq - 0 7",
+   "games": 10844,
+   "white": 4685,
+   "draws": 418,
+   "black": 5741,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Bf4"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPb2/3P1B2/2N2N2/PPP2PPP/R2QKB1R b KQkq - 3 6",
+   "games": 15851,
+   "white": 6184,
+   "draws": 617,
+   "black": 9050,
+   "top": [
+    {
+     "san": "c5",
+     "games": 9954,
+     "white": 4070,
+     "draws": 376,
+     "black": 5508
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Bf4",
+    "c5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppPb2/3P1B2/2N2N2/PPP2PPP/R2QKB1R w KQkq - 0 7",
+   "games": 9954,
+   "white": 4070,
+   "draws": 376,
+   "black": 5508,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "h3"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPb2/3P4/2N2N1P/PPP2PP1/R1BQKB1R b KQkq - 0 6",
+   "games": 15493,
+   "white": 6522,
+   "draws": 596,
+   "black": 8375,
+   "top": [
+    {
+     "san": "c5",
+     "games": 8717,
+     "white": 3514,
+     "draws": 362,
+     "black": 4841
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "h3",
+    "c5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppPb2/3P4/2N2N1P/PPP2PP1/R1BQKB1R w KQkq - 0 7",
+   "games": 8717,
+   "white": 3514,
+   "draws": 362,
+   "black": 4841,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Be3"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPb2/3P4/2N1BN2/PPP2PPP/R2QKB1R b KQkq - 3 6",
+   "games": 14618,
+   "white": 6183,
+   "draws": 625,
+   "black": 7810,
+   "top": [
+    {
+     "san": "c5",
+     "games": 7005,
+     "white": 3059,
+     "draws": 291,
+     "black": 3655
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "Nc3",
+    "Nd7",
+    "Be3",
+    "c5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppPb2/3P4/2N1BN2/PPP2PPP/R2QKB1R w KQkq - 0 7",
+   "games": 7005,
+   "white": 3059,
+   "draws": 291,
+   "black": 3655,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/2p1p3/3pPb2/3P4/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 5",
+   "games": 448778,
+   "white": 200853,
+   "draws": 21658,
+   "black": 226267,
+   "top": [
+    {
+     "san": "c5",
+     "games": 360318,
+     "white": 159034,
+     "draws": 17427,
+     "black": 183857
+    },
+    {
+     "san": "Nd7",
+     "games": 207073,
+     "white": 92399,
+     "draws": 9973,
+     "black": 104701
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppPb2/3P4/2P2N2/PP3PPP/RNBQKB1R w KQkq - 0 6",
+   "games": 360318,
+   "white": 159034,
+   "draws": 17427,
+   "black": 183857,
+   "top": [
+    {
+     "san": "Bd3",
+     "games": 125293,
+     "white": 56610,
+     "draws": 6419,
+     "black": 62264
+    },
+    {
+     "san": "Bb5+",
+     "games": 75681,
+     "white": 34548,
+     "draws": 3729,
+     "black": 37404
+    },
+    {
+     "san": "Be3",
+     "games": 56937,
+     "white": 24574,
+     "draws": 2852,
+     "black": 29511
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bd3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppPb2/3P4/2PB1N2/PP3PPP/RNBQK2R b KQkq - 1 6",
+   "games": 125293,
+   "white": 56610,
+   "draws": 6419,
+   "black": 62264,
+   "top": [
+    {
+     "san": "Bxd3",
+     "games": 83935,
+     "white": 37444,
+     "draws": 4540,
+     "black": 41951
+    },
+    {
+     "san": "Bg6",
+     "games": 17273,
+     "white": 7628,
+     "draws": 804,
+     "black": 8841
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bd3",
+    "Bxd3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppP3/3P4/2Pb1N2/PP3PPP/RNBQK2R w KQkq - 0 7",
+   "games": 83935,
+   "white": 37444,
+   "draws": 4540,
+   "black": 41951,
+   "top": [
+    {
+     "san": "Qxd3",
+     "games": 84032,
+     "white": 37519,
+     "draws": 4552,
+     "black": 41961
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bd3",
+    "Bxd3",
+    "Qxd3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppP3/3P4/2PQ1N2/PP3PPP/RNB1K2R b KQkq - 0 7",
+   "games": 84032,
+   "white": 37519,
+   "draws": 4552,
+   "black": 41961,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 436974,
+     "white": 190927,
+     "draws": 23977,
+     "black": 222070
+    },
+    {
+     "san": "cxd4",
+     "games": 90430,
+     "white": 42309,
+     "draws": 5330,
+     "black": 42791
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppP3/3P4/2PQ1N2/PP3PPP/RNB1K2R w KQkq - 1 8",
+   "games": 436974,
+   "white": 190927,
+   "draws": 23977,
+   "black": 222070,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "cxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pP3/3p4/2PQ1N2/PP3PPP/RNB1K2R w KQkq - 0 8",
+   "games": 90430,
+   "white": 42309,
+   "draws": 5330,
+   "black": 42791,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bd3",
+    "Bg6"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p1b1/2ppP3/3P4/2PB1N2/PP3PPP/RNBQK2R w KQkq - 2 7",
+   "games": 17273,
+   "white": 7628,
+   "draws": 804,
+   "black": 8841,
+   "top": [
+    {
+     "san": "O-O",
+     "games": 13054,
+     "white": 5898,
+     "draws": 587,
+     "black": 6569
+    },
+    {
+     "san": "Bxg6",
+     "games": 10397,
+     "white": 4538,
+     "draws": 526,
+     "black": 5333
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bd3",
+    "Bg6",
+    "O-O"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p1b1/2ppP3/3P4/2PB1N2/PP3PPP/RNBQ1RK1 b kq - 3 7",
+   "games": 13054,
+   "white": 5898,
+   "draws": 587,
+   "black": 6569,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 30983,
+     "white": 13553,
+     "draws": 1336,
+     "black": 16094
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bd3",
+    "Bg6",
+    "O-O",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p1b1/2ppP3/3P4/2PB1N2/PP3PPP/RNBQ1RK1 w kq - 4 8",
+   "games": 30983,
+   "white": 13553,
+   "draws": 1336,
+   "black": 16094,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bd3",
+    "Bg6",
+    "Bxg6"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p1B1/2ppP3/3P4/2P2N2/PP3PPP/RNBQK2R b KQkq - 0 7",
+   "games": 10397,
+   "white": 4538,
+   "draws": 526,
+   "black": 5333,
+   "top": [
+    {
+     "san": "hxg6",
+     "games": 10231,
+     "white": 4430,
+     "draws": 521,
+     "black": 5280
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bd3",
+    "Bg6",
+    "Bxg6",
+    "hxg6"
+   ],
+   "fen": "rn1qkbnr/pp3pp1/4p1p1/2ppP3/3P4/2P2N2/PP3PPP/RNBQK2R w KQkq - 0 8",
+   "games": 10231,
+   "white": 4430,
+   "draws": 521,
+   "black": 5280,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bb5+"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/1BppPb2/3P4/2P2N2/PP3PPP/RNBQK2R b KQkq - 1 6",
+   "games": 75681,
+   "white": 34548,
+   "draws": 3729,
+   "black": 37404,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 65387,
+     "white": 29904,
+     "draws": 3210,
+     "black": 32273
+    },
+    {
+     "san": "Nd7",
+     "games": 10267,
+     "white": 4620,
+     "draws": 517,
+     "black": 5130
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bb5+",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/1BppPb2/3P4/2P2N2/PP3PPP/RNBQK2R w KQkq - 2 7",
+   "games": 65387,
+   "white": 29904,
+   "draws": 3210,
+   "black": 32273,
+   "top": [
+    {
+     "san": "O-O",
+     "games": 49412,
+     "white": 22804,
+     "draws": 2231,
+     "black": 24377
+    },
+    {
+     "san": "Qa4",
+     "games": 17730,
+     "white": 8158,
+     "draws": 869,
+     "black": 8703
+    },
+    {
+     "san": "Bxc6+",
+     "games": 16257,
+     "white": 7389,
+     "draws": 880,
+     "black": 7988
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bb5+",
+    "Nc6",
+    "O-O"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/1BppPb2/3P4/2P2N2/PP3PPP/RNBQ1RK1 b kq - 3 7",
+   "games": 49412,
+   "white": 22804,
+   "draws": 2231,
+   "black": 24377,
+   "top": [
+    {
+     "san": "a6",
+     "games": 15614,
+     "white": 7251,
+     "draws": 744,
+     "black": 7619
+    },
+    {
+     "san": "Qb6",
+     "games": 12029,
+     "white": 5421,
+     "draws": 541,
+     "black": 6067
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bb5+",
+    "Nc6",
+    "O-O",
+    "a6"
+   ],
+   "fen": "r2qkbnr/1p3ppp/p1n1p3/1BppPb2/3P4/2P2N2/PP3PPP/RNBQ1RK1 w kq - 0 8",
+   "games": 15614,
+   "white": 7251,
+   "draws": 744,
+   "black": 7619,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bb5+",
+    "Nc6",
+    "O-O",
+    "Qb6"
+   ],
+   "fen": "r3kbnr/pp3ppp/1qn1p3/1BppPb2/3P4/2P2N2/PP3PPP/RNBQ1RK1 w kq - 4 8",
+   "games": 12029,
+   "white": 5421,
+   "draws": 541,
+   "black": 6067,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bb5+",
+    "Nc6",
+    "Qa4"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/1BppPb2/Q2P4/2P2N2/PP3PPP/RNB1K2R b KQkq - 3 7",
+   "games": 17730,
+   "white": 8158,
+   "draws": 869,
+   "black": 8703,
+   "top": [
+    {
+     "san": "Qb6",
+     "games": 9923,
+     "white": 4502,
+     "draws": 467,
+     "black": 4954
+    },
+    {
+     "san": "Qc7",
+     "games": 6815,
+     "white": 3160,
+     "draws": 362,
+     "black": 3293
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bb5+",
+    "Nc6",
+    "Qa4",
+    "Qb6"
+   ],
+   "fen": "r3kbnr/pp3ppp/1qn1p3/1BppPb2/Q2P4/2P2N2/PP3PPP/RNB1K2R w KQkq - 4 8",
+   "games": 9923,
+   "white": 4502,
+   "draws": 467,
+   "black": 4954,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bb5+",
+    "Nc6",
+    "Qa4",
+    "Qc7"
+   ],
+   "fen": "r3kbnr/ppq2ppp/2n1p3/1BppPb2/Q2P4/2P2N2/PP3PPP/RNB1K2R w KQkq - 4 8",
+   "games": 6815,
+   "white": 3160,
+   "draws": 362,
+   "black": 3293,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bb5+",
+    "Nc6",
+    "Bxc6+"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2B1p3/2ppPb2/3P4/2P2N2/PP3PPP/RNBQK2R b KQkq - 0 7",
+   "games": 16257,
+   "white": 7389,
+   "draws": 880,
+   "black": 7988,
+   "top": [
+    {
+     "san": "bxc6",
+     "games": 16255,
+     "white": 7387,
+     "draws": 881,
+     "black": 7987
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bb5+",
+    "Nc6",
+    "Bxc6+",
+    "bxc6"
+   ],
+   "fen": "r2qkbnr/p4ppp/2p1p3/2ppPb2/3P4/2P2N2/PP3PPP/RNBQK2R w KQkq - 0 8",
+   "games": 16255,
+   "white": 7387,
+   "draws": 881,
+   "black": 7987,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bb5+",
+    "Nc6",
+    "Bg5"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/1BppPbB1/3P4/2P2N2/PP3PPP/RN1QK2R b KQkq - 3 7",
+   "games": 5489,
+   "white": 2292,
+   "draws": 237,
+   "black": 2960,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bb5+",
+    "Nd7"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/1BppPb2/3P4/2P2N2/PP3PPP/RNBQK2R w KQkq - 2 7",
+   "games": 10267,
+   "white": 4620,
+   "draws": 517,
+   "black": 5130,
+   "top": [
+    {
+     "san": "O-O",
+     "games": 5002,
+     "white": 2343,
+     "draws": 260,
+     "black": 2399
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Bb5+",
+    "Nd7",
+    "O-O"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/1BppPb2/3P4/2P2N2/PP3PPP/RNBQ1RK1 b kq - 3 7",
+   "games": 5002,
+   "white": 2343,
+   "draws": 260,
+   "black": 2399,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppPb2/3P4/2P1BN2/PP3PPP/RN1QKB1R b KQkq - 1 6",
+   "games": 56937,
+   "white": 24574,
+   "draws": 2852,
+   "black": 29511,
+   "top": [
+    {
+     "san": "cxd4",
+     "games": 20743,
+     "white": 9128,
+     "draws": 1140,
+     "black": 10475
+    },
+    {
+     "san": "Nc6",
+     "games": 20103,
+     "white": 8931,
+     "draws": 915,
+     "black": 10257
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be3",
+    "cxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pPb2/3p4/2P1BN2/PP3PPP/RN1QKB1R w KQkq - 0 7",
+   "games": 20743,
+   "white": 9128,
+   "draws": 1140,
+   "black": 10475,
+   "top": [
+    {
+     "san": "cxd4",
+     "games": 14619,
+     "white": 6334,
+     "draws": 791,
+     "black": 7494
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be3",
+    "cxd4",
+    "cxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pPb2/3P4/4BN2/PP3PPP/RN1QKB1R b KQkq - 0 7",
+   "games": 14619,
+   "white": 6334,
+   "draws": 791,
+   "black": 7494,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 11216,
+     "white": 4839,
+     "draws": 606,
+     "black": 5771
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be3",
+    "cxd4",
+    "cxd4",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/3pPb2/3P4/4BN2/PP3PPP/RN1QKB1R w KQkq - 1 8",
+   "games": 11216,
+   "white": 4839,
+   "draws": 606,
+   "black": 5771,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be3",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/2P1BN2/PP3PPP/RN1QKB1R w KQkq - 2 7",
+   "games": 20103,
+   "white": 8931,
+   "draws": 915,
+   "black": 10257,
+   "top": [
+    {
+     "san": "Bb5",
+     "games": 9862,
+     "white": 4370,
+     "draws": 447,
+     "black": 5045
+    },
+    {
+     "san": "Bd3",
+     "games": 5226,
+     "white": 2354,
+     "draws": 265,
+     "black": 2607
+    },
+    {
+     "san": "Nbd2",
+     "games": 5090,
+     "white": 2176,
+     "draws": 213,
+     "black": 2701
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be3",
+    "Nc6",
+    "Bb5"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/1BppPb2/3P4/2P1BN2/PP3PPP/RN1QK2R b KQkq - 3 7",
+   "games": 9862,
+   "white": 4370,
+   "draws": 447,
+   "black": 5045,
+   "top": [
+    {
+     "san": "Qb6",
+     "games": 5033,
+     "white": 2089,
+     "draws": 245,
+     "black": 2699
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be3",
+    "Nc6",
+    "Bb5",
+    "Qb6"
+   ],
+   "fen": "r3kbnr/pp3ppp/1qn1p3/1BppPb2/3P4/2P1BN2/PP3PPP/RN1QK2R w KQkq - 4 8",
+   "games": 5033,
+   "white": 2089,
+   "draws": 245,
+   "black": 2699,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be3",
+    "Nc6",
+    "Bd3"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/2PBBN2/PP3PPP/RN1QK2R b KQkq - 3 7",
+   "games": 5226,
+   "white": 2354,
+   "draws": 265,
+   "black": 2607,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be3",
+    "Nc6",
+    "Nbd2"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/2P1BN2/PP1N1PPP/R2QKB1R b KQkq - 3 7",
+   "games": 5090,
+   "white": 2176,
+   "draws": 213,
+   "black": 2701,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be2"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQK2R b KQkq - 1 6",
+   "games": 55585,
+   "white": 25432,
+   "draws": 2410,
+   "black": 27743,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 177526,
+     "white": 80148,
+     "draws": 8095,
+     "black": 89283
+    },
+    {
+     "san": "cxd4",
+     "games": 33536,
+     "white": 15626,
+     "draws": 1585,
+     "black": 16325
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be2",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQK2R w KQkq - 2 7",
+   "games": 177526,
+   "white": 80148,
+   "draws": 8095,
+   "black": 89283,
+   "top": [
+    {
+     "san": "O-O",
+     "games": 134537,
+     "white": 62331,
+     "draws": 6041,
+     "black": 66165
+    },
+    {
+     "san": "Be3",
+     "games": 18391,
+     "white": 7650,
+     "draws": 888,
+     "black": 9853
+    },
+    {
+     "san": "a3",
+     "games": 9858,
+     "white": 4758,
+     "draws": 500,
+     "black": 4600
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be2",
+    "Nc6",
+    "O-O"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQ1RK1 b kq - 3 7",
+   "games": 134537,
+   "white": 62331,
+   "draws": 6041,
+   "black": 66165,
+   "top": [
+    {
+     "san": "Qb6",
+     "games": 57035,
+     "white": 27169,
+     "draws": 2464,
+     "black": 27402
+    },
+    {
+     "san": "cxd4",
+     "games": 45760,
+     "white": 21553,
+     "draws": 2246,
+     "black": 21961
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be2",
+    "Nc6",
+    "O-O",
+    "Qb6"
+   ],
+   "fen": "r3kbnr/pp3ppp/1qn1p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQ1RK1 w kq - 4 8",
+   "games": 57035,
+   "white": 27169,
+   "draws": 2464,
+   "black": 27402,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be2",
+    "Nc6",
+    "O-O",
+    "cxd4"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/3pPb2/3p4/2P2N2/PP2BPPP/RNBQ1RK1 w kq - 0 8",
+   "games": 45760,
+   "white": 21553,
+   "draws": 2246,
+   "black": 21961,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be2",
+    "Nc6",
+    "Be3"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/2P1BN2/PP2BPPP/RN1QK2R b KQkq - 3 7",
+   "games": 18391,
+   "white": 7650,
+   "draws": 888,
+   "black": 9853,
+   "top": [
+    {
+     "san": "Qb6",
+     "games": 11285,
+     "white": 4519,
+     "draws": 548,
+     "black": 6218
+    },
+    {
+     "san": "cxd4",
+     "games": 7690,
+     "white": 3260,
+     "draws": 424,
+     "black": 4006
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be2",
+    "Nc6",
+    "Be3",
+    "Qb6"
+   ],
+   "fen": "r3kbnr/pp3ppp/1qn1p3/2ppPb2/3P4/2P1BN2/PP2BPPP/RN1QK2R w KQkq - 4 8",
+   "games": 11285,
+   "white": 4519,
+   "draws": 548,
+   "black": 6218,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be2",
+    "Nc6",
+    "Be3",
+    "cxd4"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/3pPb2/3p4/2P1BN2/PP2BPPP/RN1QK2R w KQkq - 0 8",
+   "games": 7690,
+   "white": 3260,
+   "draws": 424,
+   "black": 4006,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be2",
+    "Nc6",
+    "a3"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/P1P2N2/1P2BPPP/RNBQK2R b KQkq - 0 7",
+   "games": 9858,
+   "white": 4758,
+   "draws": 500,
+   "black": 4600,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be2",
+    "Nc6",
+    "Bb5"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/1BppPb2/3P4/2P2N2/PP3PPP/RNBQK2R b KQkq - 3 7",
+   "games": 8247,
+   "white": 3595,
+   "draws": 425,
+   "black": 4227,
+   "top": [
+    {
+     "san": "Qb6",
+     "games": 50166,
+     "white": 22015,
+     "draws": 2273,
+     "black": 25878
+    },
+    {
+     "san": "a6",
+     "games": 29711,
+     "white": 13456,
+     "draws": 1444,
+     "black": 14811
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be2",
+    "Nc6",
+    "Bb5",
+    "Qb6"
+   ],
+   "fen": "r3kbnr/pp3ppp/1qn1p3/1BppPb2/3P4/2P2N2/PP3PPP/RNBQK2R w KQkq - 4 8",
+   "games": 50166,
+   "white": 22015,
+   "draws": 2273,
+   "black": 25878,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be2",
+    "Nc6",
+    "Bb5",
+    "a6"
+   ],
+   "fen": "r2qkbnr/1p3ppp/p1n1p3/1BppPb2/3P4/2P2N2/PP3PPP/RNBQK2R w KQkq - 0 8",
+   "games": 29711,
+   "white": 13456,
+   "draws": 1444,
+   "black": 14811,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be2",
+    "Nc6",
+    "Nbd2"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/2P2N2/PP1NBPPP/R1BQK2R b KQkq - 3 7",
+   "games": 6429,
+   "white": 2920,
+   "draws": 267,
+   "black": 3242,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be2",
+    "cxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pPb2/3p4/2P2N2/PP2BPPP/RNBQK2R w KQkq - 0 7",
+   "games": 33536,
+   "white": 15626,
+   "draws": 1585,
+   "black": 16325,
+   "top": [
+    {
+     "san": "cxd4",
+     "games": 29599,
+     "white": 13638,
+     "draws": 1412,
+     "black": 14549
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be2",
+    "cxd4",
+    "cxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pPb2/3P4/5N2/PP2BPPP/RNBQK2R b KQkq - 0 7",
+   "games": 29599,
+   "white": 13638,
+   "draws": 1412,
+   "black": 14549,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 18118,
+     "white": 8407,
+     "draws": 843,
+     "black": 8868
+    },
+    {
+     "san": "Bb4+",
+     "games": 9060,
+     "white": 3990,
+     "draws": 477,
+     "black": 4593
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be2",
+    "cxd4",
+    "cxd4",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/3pPb2/3P4/5N2/PP2BPPP/RNBQK2R w KQkq - 1 8",
+   "games": 18118,
+   "white": 8407,
+   "draws": 843,
+   "black": 8868,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Be2",
+    "cxd4",
+    "cxd4",
+    "Bb4+"
+   ],
+   "fen": "rn1qk1nr/pp3ppp/4p3/3pPb2/1b1P4/5N2/PP2BPPP/RNBQK2R w KQkq - 1 8",
+   "games": 9060,
+   "white": 3990,
+   "draws": 477,
+   "black": 4593,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Nbd2"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppPb2/3P4/2P2N2/PP1N1PPP/R1BQKB1R b KQkq - 1 6",
+   "games": 20439,
+   "white": 8830,
+   "draws": 950,
+   "black": 10659,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 35468,
+     "white": 15303,
+     "draws": 1586,
+     "black": 18579
+    },
+    {
+     "san": "cxd4",
+     "games": 7776,
+     "white": 3495,
+     "draws": 366,
+     "black": 3915
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Nbd2",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/2P2N2/PP1N1PPP/R1BQKB1R w KQkq - 2 7",
+   "games": 35468,
+   "white": 15303,
+   "draws": 1586,
+   "black": 18579,
+   "top": [
+    {
+     "san": "Bb5",
+     "games": 13778,
+     "white": 6172,
+     "draws": 621,
+     "black": 6985
+    },
+    {
+     "san": "Nb3",
+     "games": 12316,
+     "white": 5363,
+     "draws": 580,
+     "black": 6373
+    },
+    {
+     "san": "Be2",
+     "games": 5423,
+     "white": 2336,
+     "draws": 232,
+     "black": 2855
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Nbd2",
+    "Nc6",
+    "Bb5"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/1BppPb2/3P4/2P2N2/PP1N1PPP/R1BQK2R b KQkq - 3 7",
+   "games": 13778,
+   "white": 6172,
+   "draws": 621,
+   "black": 6985,
+   "top": [
+    {
+     "san": "Qb6",
+     "games": 6054,
+     "white": 2529,
+     "draws": 273,
+     "black": 3252
+    },
+    {
+     "san": "a6",
+     "games": 5430,
+     "white": 2520,
+     "draws": 264,
+     "black": 2646
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Nbd2",
+    "Nc6",
+    "Bb5",
+    "Qb6"
+   ],
+   "fen": "r3kbnr/pp3ppp/1qn1p3/1BppPb2/3P4/2P2N2/PP1N1PPP/R1BQK2R w KQkq - 4 8",
+   "games": 6054,
+   "white": 2529,
+   "draws": 273,
+   "black": 3252,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Nbd2",
+    "Nc6",
+    "Bb5",
+    "a6"
+   ],
+   "fen": "r2qkbnr/1p3ppp/p1n1p3/1BppPb2/3P4/2P2N2/PP1N1PPP/R1BQK2R w KQkq - 0 8",
+   "games": 5430,
+   "white": 2520,
+   "draws": 264,
+   "black": 2646,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Nbd2",
+    "Nc6",
+    "Nb3"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/1NP2N2/PP3PPP/R1BQKB1R b KQkq - 3 7",
+   "games": 12316,
+   "white": 5363,
+   "draws": 580,
+   "black": 6373,
+   "top": [
+    {
+     "san": "cxd4",
+     "games": 5592,
+     "white": 2513,
+     "draws": 272,
+     "black": 2807
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Nbd2",
+    "Nc6",
+    "Nb3",
+    "cxd4"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/3pPb2/3p4/1NP2N2/PP3PPP/R1BQKB1R w KQkq - 0 8",
+   "games": 5592,
+   "white": 2513,
+   "draws": 272,
+   "black": 2807,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Nbd2",
+    "Nc6",
+    "Be2"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/2P2N2/PP1NBPPP/R1BQK2R b KQkq - 3 7",
+   "games": 5423,
+   "white": 2336,
+   "draws": 232,
+   "black": 2855,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Nbd2",
+    "cxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pPb2/3p4/2P2N2/PP1N1PPP/R1BQKB1R w KQkq - 0 7",
+   "games": 7776,
+   "white": 3495,
+   "draws": 366,
+   "black": 3915,
+   "top": [
+    {
+     "san": "cxd4",
+     "games": 6307,
+     "white": 2811,
+     "draws": 295,
+     "black": 3201
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "Nbd2",
+    "cxd4",
+    "cxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pPb2/3P4/5N2/PP1N1PPP/R1BQKB1R b KQkq - 0 7",
+   "games": 6307,
+   "white": 2811,
+   "draws": 295,
+   "black": 3201,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "a3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppPb2/3P4/P1P2N2/1P3PPP/RNBQKB1R b KQkq - 0 6",
+   "games": 19494,
+   "white": 9395,
+   "draws": 973,
+   "black": 9126,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 37722,
+     "white": 17477,
+     "draws": 1881,
+     "black": 18364
+    },
+    {
+     "san": "cxd4",
+     "games": 7750,
+     "white": 3714,
+     "draws": 374,
+     "black": 3662
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "a3",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/P1P2N2/1P3PPP/RNBQKB1R w KQkq - 1 7",
+   "games": 37722,
+   "white": 17477,
+   "draws": 1881,
+   "black": 18364,
+   "top": [
+    {
+     "san": "Bb5",
+     "games": 12575,
+     "white": 5696,
+     "draws": 605,
+     "black": 6274
+    },
+    {
+     "san": "b4",
+     "games": 12174,
+     "white": 5946,
+     "draws": 662,
+     "black": 5566
+    },
+    {
+     "san": "Be3",
+     "games": 5359,
+     "white": 2491,
+     "draws": 288,
+     "black": 2580
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "a3",
+    "Nc6",
+    "Bb5"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/1BppPb2/3P4/P1P2N2/1P3PPP/RNBQK2R b KQkq - 2 7",
+   "games": 12575,
+   "white": 5696,
+   "draws": 605,
+   "black": 6274,
+   "top": [
+    {
+     "san": "Qb6",
+     "games": 5135,
+     "white": 2253,
+     "draws": 262,
+     "black": 2620
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "a3",
+    "Nc6",
+    "Bb5",
+    "Qb6"
+   ],
+   "fen": "r3kbnr/pp3ppp/1qn1p3/1BppPb2/3P4/P1P2N2/1P3PPP/RNBQK2R w KQkq - 3 8",
+   "games": 5135,
+   "white": 2253,
+   "draws": 262,
+   "black": 2620,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "a3",
+    "Nc6",
+    "b4"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/1P1P4/P1P2N2/5PPP/RNBQKB1R b KQkq - 0 7",
+   "games": 12174,
+   "white": 5946,
+   "draws": 662,
+   "black": 5566,
+   "top": [
+    {
+     "san": "cxd4",
+     "games": 9528,
+     "white": 4614,
+     "draws": 527,
+     "black": 4387
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "a3",
+    "Nc6",
+    "b4",
+    "cxd4"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/3pPb2/1P1p4/P1P2N2/5PPP/RNBQKB1R w KQkq - 0 8",
+   "games": 9528,
+   "white": 4614,
+   "draws": 527,
+   "black": 4387,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "a3",
+    "Nc6",
+    "Be3"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/P1P1BN2/1P3PPP/RN1QKB1R b KQkq - 2 7",
+   "games": 5359,
+   "white": 2491,
+   "draws": 288,
+   "black": 2580,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "a3",
+    "Nc6",
+    "Be2"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/2ppPb2/3P4/P1P2N2/1P2BPPP/RNBQK2R b KQkq - 2 7",
+   "games": 5161,
+   "white": 2415,
+   "draws": 217,
+   "black": 2529,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "a3",
+    "cxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pPb2/3p4/P1P2N2/1P3PPP/RNBQKB1R w KQkq - 0 7",
+   "games": 7750,
+   "white": 3714,
+   "draws": 374,
+   "black": 3662,
+   "top": [
+    {
+     "san": "cxd4",
+     "games": 7052,
+     "white": 3394,
+     "draws": 336,
+     "black": 3322
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "a3",
+    "cxd4",
+    "cxd4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/3pPb2/3P4/P4N2/1P3PPP/RNBQKB1R b KQkq - 0 7",
+   "games": 7052,
+   "white": 3394,
+   "draws": 336,
+   "black": 3322,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 5994,
+     "white": 2852,
+     "draws": 289,
+     "black": 2853
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "c5",
+    "a3",
+    "cxd4",
+    "cxd4",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n1p3/3pPb2/3P4/P4N2/1P3PPP/RNBQKB1R w KQkq - 1 8",
+   "games": 5994,
+   "white": 2852,
+   "draws": 289,
+   "black": 2853,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPb2/3P4/2P2N2/PP3PPP/RNBQKB1R w KQkq - 1 6",
+   "games": 207073,
+   "white": 92399,
+   "draws": 9973,
+   "black": 104701,
+   "top": [
+    {
+     "san": "Bd3",
+     "games": 82348,
+     "white": 37752,
+     "draws": 4196,
+     "black": 40400
+    },
+    {
+     "san": "Be2",
+     "games": 38627,
+     "white": 17531,
+     "draws": 1721,
+     "black": 19375
+    },
+    {
+     "san": "Nbd2",
+     "games": 17297,
+     "white": 7527,
+     "draws": 804,
+     "black": 8966
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Bd3"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPb2/3P4/2PB1N2/PP3PPP/RNBQK2R b KQkq - 2 6",
+   "games": 82348,
+   "white": 37752,
+   "draws": 4196,
+   "black": 40400,
+   "top": [
+    {
+     "san": "Bxd3",
+     "games": 45722,
+     "white": 21028,
+     "draws": 2506,
+     "black": 22188
+    },
+    {
+     "san": "Ne7",
+     "games": 15813,
+     "white": 6779,
+     "draws": 755,
+     "black": 8279
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Bd3",
+    "Bxd3"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pP3/3P4/2Pb1N2/PP3PPP/RNBQK2R w KQkq - 0 7",
+   "games": 45722,
+   "white": 21028,
+   "draws": 2506,
+   "black": 22188,
+   "top": [
+    {
+     "san": "Qxd3",
+     "games": 45691,
+     "white": 21021,
+     "draws": 2508,
+     "black": 22162
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Bd3",
+    "Bxd3",
+    "Qxd3"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pP3/3P4/2PQ1N2/PP3PPP/RNB1K2R b KQkq - 0 7",
+   "games": 45691,
+   "white": 21021,
+   "draws": 2508,
+   "black": 22162,
+   "top": [
+    {
+     "san": "c5",
+     "games": 67716,
+     "white": 31407,
+     "draws": 3910,
+     "black": 32399
+    },
+    {
+     "san": "Ne7",
+     "games": 38127,
+     "white": 16818,
+     "draws": 2137,
+     "black": 19172
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "c5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppP3/3P4/2PQ1N2/PP3PPP/RNB1K2R w KQkq - 0 8",
+   "games": 67716,
+   "white": 31407,
+   "draws": 3910,
+   "black": 32399,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Bd3",
+    "Bxd3",
+    "Qxd3",
+    "Ne7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pP3/3P4/2PQ1N2/PP3PPP/RNB1K2R w KQkq - 1 8",
+   "games": 38127,
+   "white": 16818,
+   "draws": 2137,
+   "black": 19172,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Bd3",
+    "Ne7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P4/2PB1N2/PP3PPP/RNBQK2R w KQkq - 3 7",
+   "games": 15813,
+   "white": 6779,
+   "draws": 755,
+   "black": 8279,
+   "top": [
+    {
+     "san": "O-O",
+     "games": 14342,
+     "white": 6363,
+     "draws": 676,
+     "black": 7303
+    },
+    {
+     "san": "Bg5",
+     "games": 7310,
+     "white": 3250,
+     "draws": 349,
+     "black": 3711
+    },
+    {
+     "san": "Bxf5",
+     "games": 5287,
+     "white": 2218,
+     "draws": 292,
+     "black": 2777
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Bd3",
+    "Ne7",
+    "O-O"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P4/2PB1N2/PP3PPP/RNBQ1RK1 b kq - 4 7",
+   "games": 14342,
+   "white": 6363,
+   "draws": 676,
+   "black": 7303,
+   "top": [
+    {
+     "san": "c5",
+     "games": 6542,
+     "white": 2917,
+     "draws": 312,
+     "black": 3313
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Bd3",
+    "Ne7",
+    "O-O",
+    "c5"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/4p3/2ppPb2/3P4/2PB1N2/PP3PPP/RNBQ1RK1 w kq - 0 8",
+   "games": 6542,
+   "white": 2917,
+   "draws": 312,
+   "black": 3313,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Bd3",
+    "Ne7",
+    "Bg5"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPbB1/3P4/2PB1N2/PP3PPP/RN1QK2R b KQkq - 4 7",
+   "games": 7310,
+   "white": 3250,
+   "draws": 349,
+   "black": 3711,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Bd3",
+    "Ne7",
+    "Bxf5"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPB2/3P4/2P2N2/PP3PPP/RNBQK2R b KQkq - 0 7",
+   "games": 5287,
+   "white": 2218,
+   "draws": 292,
+   "black": 2777,
+   "top": [
+    {
+     "san": "Nxf5",
+     "games": 5250,
+     "white": 2197,
+     "draws": 289,
+     "black": 2764
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Bd3",
+    "Ne7",
+    "Bxf5",
+    "Nxf5"
+   ],
+   "fen": "r2qkb1r/pp1n1ppp/2p1p3/3pPn2/3P4/2P2N2/PP3PPP/RNBQK2R w KQkq - 0 8",
+   "games": 5250,
+   "white": 2197,
+   "draws": 289,
+   "black": 2764,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Be2"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPb2/3P4/2P2N2/PP2BPPP/RNBQK2R b KQkq - 2 6",
+   "games": 38627,
+   "white": 17531,
+   "draws": 1721,
+   "black": 19375,
+   "top": [
+    {
+     "san": "c5",
+     "games": 23235,
+     "white": 10704,
+     "draws": 1085,
+     "black": 11446
+    },
+    {
+     "san": "Ne7",
+     "games": 10759,
+     "white": 4708,
+     "draws": 480,
+     "black": 5571
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Be2",
+    "c5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQK2R w KQkq - 0 7",
+   "games": 23235,
+   "white": 10704,
+   "draws": 1085,
+   "black": 11446,
+   "top": [
+    {
+     "san": "O-O",
+     "games": 19740,
+     "white": 9203,
+     "draws": 913,
+     "black": 9624
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Be2",
+    "c5",
+    "O-O"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQ1RK1 b kq - 1 7",
+   "games": 19740,
+   "white": 9203,
+   "draws": 913,
+   "black": 9624,
+   "top": [
+    {
+     "san": "cxd4",
+     "games": 19990,
+     "white": 9669,
+     "draws": 988,
+     "black": 9333
+    },
+    {
+     "san": "Ne7",
+     "games": 18549,
+     "white": 8267,
+     "draws": 835,
+     "black": 9447
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Be2",
+    "c5",
+    "O-O",
+    "cxd4"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/3pPb2/3p4/2P2N2/PP2BPPP/RNBQ1RK1 w kq - 0 8",
+   "games": 19990,
+   "white": 9669,
+   "draws": 988,
+   "black": 9333,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Be2",
+    "c5",
+    "O-O",
+    "Ne7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/4p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQ1RK1 w kq - 2 8",
+   "games": 18549,
+   "white": 8267,
+   "draws": 835,
+   "black": 9447,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Be2",
+    "Ne7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P4/2P2N2/PP2BPPP/RNBQK2R w KQkq - 3 7",
+   "games": 10759,
+   "white": 4708,
+   "draws": 480,
+   "black": 5571,
+   "top": [
+    {
+     "san": "O-O",
+     "games": 10562,
+     "white": 4781,
+     "draws": 475,
+     "black": 5306
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Be2",
+    "Ne7",
+    "O-O"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/3P4/2P2N2/PP2BPPP/RNBQ1RK1 b kq - 4 7",
+   "games": 10562,
+   "white": 4781,
+   "draws": 475,
+   "black": 5306,
+   "top": [
+    {
+     "san": "c5",
+     "games": 9412,
+     "white": 4129,
+     "draws": 452,
+     "black": 4831
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Be2",
+    "Ne7",
+    "O-O",
+    "c5"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/4p3/2ppPb2/3P4/2P2N2/PP2BPPP/RNBQ1RK1 w kq - 0 8",
+   "games": 9412,
+   "white": 4129,
+   "draws": 452,
+   "black": 4831,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Nbd2"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPb2/3P4/2P2N2/PP1N1PPP/R1BQKB1R b KQkq - 2 6",
+   "games": 17297,
+   "white": 7527,
+   "draws": 804,
+   "black": 8966,
+   "top": [
+    {
+     "san": "c5",
+     "games": 11167,
+     "white": 4813,
+     "draws": 537,
+     "black": 5817
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Nbd2",
+    "c5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppPb2/3P4/2P2N2/PP1N1PPP/R1BQKB1R w KQkq - 0 7",
+   "games": 11167,
+   "white": 4813,
+   "draws": 537,
+   "black": 5817,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Bg5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPbB1/3P4/2P2N2/PP3PPP/RN1QKB1R b KQkq - 2 6",
+   "games": 15647,
+   "white": 6347,
+   "draws": 748,
+   "black": 8552,
+   "top": [
+    {
+     "san": "Be7",
+     "games": 8780,
+     "white": 3595,
+     "draws": 446,
+     "black": 4739
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Bg5",
+    "Be7"
+   ],
+   "fen": "r2qk1nr/pp1nbppp/2p1p3/3pPbB1/3P4/2P2N2/PP3PPP/RN1QKB1R w KQkq - 3 7",
+   "games": 8780,
+   "white": 3595,
+   "draws": 446,
+   "black": 4739,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "h3"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPb2/3P4/2P2N1P/PP3PP1/RNBQKB1R b KQkq - 0 6",
+   "games": 15389,
+   "white": 6984,
+   "draws": 732,
+   "black": 7673,
+   "top": [
+    {
+     "san": "c5",
+     "games": 10039,
+     "white": 4490,
+     "draws": 507,
+     "black": 5042
+    },
+    {
+     "san": "h6",
+     "games": 5713,
+     "white": 2582,
+     "draws": 293,
+     "black": 2838
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "h3",
+    "c5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppPb2/3P4/2P2N1P/PP3PP1/RNBQKB1R w KQkq - 0 7",
+   "games": 10039,
+   "white": 4490,
+   "draws": 507,
+   "black": 5042,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "h3",
+    "h6"
+   ],
+   "fen": "r2qkbnr/pp1n1pp1/2p1p2p/3pPb2/3P4/2P2N1P/PP3PP1/RNBQKB1R w KQkq - 0 7",
+   "games": 5713,
+   "white": 2582,
+   "draws": 293,
+   "black": 2838,
+   "top": [
+    {
+     "san": "Bd3",
+     "games": 6424,
+     "white": 2939,
+     "draws": 364,
+     "black": 3121
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "h3",
+    "h6",
+    "Bd3"
+   ],
+   "fen": "r2qkbnr/pp1n1pp1/2p1p2p/3pPb2/3P4/2PB1N1P/PP3PP1/RNBQK2R b KQkq - 1 7",
+   "games": 6424,
+   "white": 2939,
+   "draws": 364,
+   "black": 3121,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Be3"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPb2/3P4/2P1BN2/PP3PPP/RN1QKB1R b KQkq - 2 6",
+   "games": 13517,
+   "white": 6147,
+   "draws": 678,
+   "black": 6692,
+   "top": [
+    {
+     "san": "c5",
+     "games": 8004,
+     "white": 3629,
+     "draws": 432,
+     "black": 3943
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c3",
+    "Nd7",
+    "Be3",
+    "c5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/2ppPb2/3P4/2P1BN2/PP3PPP/RN1QKB1R w KQkq - 0 7",
+   "games": 8004,
+   "white": 3629,
+   "draws": 432,
+   "black": 3943,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/2p1p3/3pPb2/2PP4/5N2/PP3PPP/RNBQKB1R b KQkq - 0 5",
+   "games": 379123,
+   "white": 183107,
+   "draws": 17111,
+   "black": 178905,
+   "top": [
+    {
+     "san": "Nd7",
+     "games": 93889,
+     "white": 43229,
+     "draws": 4069,
+     "black": 46591
+    },
+    {
+     "san": "c5",
+     "games": 79041,
+     "white": 44455,
+     "draws": 3334,
+     "black": 31252
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "Nd7"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPb2/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 1 6",
+   "games": 93889,
+   "white": 43229,
+   "draws": 4069,
+   "black": 46591,
+   "top": [
+    {
+     "san": "Nc3",
+     "games": 46955,
+     "white": 22815,
+     "draws": 2053,
+     "black": 22087
+    },
+    {
+     "san": "cxd5",
+     "games": 19205,
+     "white": 8704,
+     "draws": 909,
+     "black": 9592
+    },
+    {
+     "san": "c5",
+     "games": 18390,
+     "white": 7687,
+     "draws": 704,
+     "black": 9999
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "Nd7",
+    "Nc3"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3pPb2/2PP4/2N2N2/PP3PPP/R1BQKB1R b KQkq - 2 6",
+   "games": 46955,
+   "white": 22815,
+   "draws": 2053,
+   "black": 22087,
+   "top": [
+    {
+     "san": "Bb4",
+     "games": 19698,
+     "white": 9332,
+     "draws": 923,
+     "black": 9443
+    },
+    {
+     "san": "Ne7",
+     "games": 14282,
+     "white": 6517,
+     "draws": 606,
+     "black": 7159
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "Nd7",
+    "Nc3",
+    "Bb4"
+   ],
+   "fen": "r2qk1nr/pp1n1ppp/2p1p3/3pPb2/1bPP4/2N2N2/PP3PPP/R1BQKB1R w KQkq - 3 7",
+   "games": 19698,
+   "white": 9332,
+   "draws": 923,
+   "black": 9443,
+   "top": [
+    {
+     "san": "a3",
+     "games": 6163,
+     "white": 2888,
+     "draws": 284,
+     "black": 2991
+    },
+    {
+     "san": "Bd2",
+     "games": 5420,
+     "white": 2437,
+     "draws": 259,
+     "black": 2724
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "Nd7",
+    "Nc3",
+    "Bb4",
+    "a3"
+   ],
+   "fen": "r2qk1nr/pp1n1ppp/2p1p3/3pPb2/1bPP4/P1N2N2/1P3PPP/R1BQKB1R b KQkq - 0 7",
+   "games": 6163,
+   "white": 2888,
+   "draws": 284,
+   "black": 2991,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "Nd7",
+    "Nc3",
+    "Bb4",
+    "Bd2"
+   ],
+   "fen": "r2qk1nr/pp1n1ppp/2p1p3/3pPb2/1bPP4/2N2N2/PP1B1PPP/R2QKB1R b KQkq - 4 7",
+   "games": 5420,
+   "white": 2437,
+   "draws": 259,
+   "black": 2724,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "Nd7",
+    "Nc3",
+    "Ne7"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPb2/2PP4/2N2N2/PP3PPP/R1BQKB1R w KQkq - 3 7",
+   "games": 14282,
+   "white": 6517,
+   "draws": 606,
+   "black": 7159,
+   "top": [
+    {
+     "san": "Bg5",
+     "games": 6247,
+     "white": 2819,
+     "draws": 232,
+     "black": 3196
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "Nd7",
+    "Nc3",
+    "Ne7",
+    "Bg5"
+   ],
+   "fen": "r2qkb1r/pp1nnppp/2p1p3/3pPbB1/2PP4/2N2N2/PP3PPP/R2QKB1R b KQkq - 4 7",
+   "games": 6247,
+   "white": 2819,
+   "draws": 232,
+   "black": 3196,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "Nd7",
+    "cxd5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/3PPb2/3P4/5N2/PP3PPP/RNBQKB1R b KQkq - 0 6",
+   "games": 19205,
+   "white": 8704,
+   "draws": 909,
+   "black": 9592,
+   "top": [
+    {
+     "san": "cxd5",
+     "games": 17184,
+     "white": 7669,
+     "draws": 818,
+     "black": 8697
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "Nd7",
+    "cxd5",
+    "cxd5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/3pPb2/3P4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7",
+   "games": 17184,
+   "white": 7669,
+   "draws": 818,
+   "black": 8697,
+   "top": [
+    {
+     "san": "Nc3",
+     "games": 8535,
+     "white": 3905,
+     "draws": 410,
+     "black": 4220
+    },
+    {
+     "san": "Bb5",
+     "games": 6682,
+     "white": 2818,
+     "draws": 320,
+     "black": 3544
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "Nd7",
+    "cxd5",
+    "cxd5",
+    "Nc3"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/3pPb2/3P4/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 7",
+   "games": 8535,
+   "white": 3905,
+   "draws": 410,
+   "black": 4220,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "Nd7",
+    "cxd5",
+    "cxd5",
+    "Bb5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/4p3/1B1pPb2/3P4/5N2/PP3PPP/RNBQK2R b KQkq - 1 7",
+   "games": 6682,
+   "white": 2818,
+   "draws": 320,
+   "black": 3544,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "Nd7",
+    "c5"
+   ],
+   "fen": "r2qkbnr/pp1n1ppp/2p1p3/2PpPb2/3P4/5N2/PP3PPP/RNBQKB1R b KQkq - 0 6",
+   "games": 18390,
+   "white": 7687,
+   "draws": 704,
+   "black": 9999,
+   "top": [
+    {
+     "san": "b6",
+     "games": 13420,
+     "white": 5307,
+     "draws": 527,
+     "black": 7586
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "Nd7",
+    "c5",
+    "b6"
+   ],
+   "fen": "r2qkbnr/p2n1ppp/1pp1p3/2PpPb2/3P4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7",
+   "games": 13420,
+   "white": 5307,
+   "draws": 527,
+   "black": 7586,
+   "top": [
+    {
+     "san": "b4",
+     "games": 10957,
+     "white": 4330,
+     "draws": 406,
+     "black": 6221
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "Nd7",
+    "c5",
+    "b6",
+    "b4"
+   ],
+   "fen": "r2qkbnr/p2n1ppp/1pp1p3/2PpPb2/1P1P4/5N2/P4PPP/RNBQKB1R b KQkq - 0 7",
+   "games": 10957,
+   "white": 4330,
+   "draws": 406,
+   "black": 6221,
+   "top": [
+    {
+     "san": "a5",
+     "games": 7092,
+     "white": 2368,
+     "draws": 257,
+     "black": 4467
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "Nd7",
+    "c5",
+    "b6",
+    "b4",
+    "a5"
+   ],
+   "fen": "r2qkbnr/3n1ppp/1pp1p3/p1PpPb2/1P1P4/5N2/P4PPP/RNBQKB1R w KQkq - 0 8",
+   "games": 7092,
+   "white": 2368,
+   "draws": 257,
+   "black": 4467,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "c5"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppPb2/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 6",
+   "games": 79041,
+   "white": 44455,
+   "draws": 3334,
+   "black": 31252,
+   "top": [
+    {
+     "san": "cxd5",
+     "games": 41519,
+     "white": 24002,
+     "draws": 1772,
+     "black": 15745
+    },
+    {
+     "san": "Nc3",
+     "games": 22401,
+     "white": 13091,
+     "draws": 871,
+     "black": 8439
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "c5",
+    "cxd5"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2pPPb2/3P4/5N2/PP3PPP/RNBQKB1R b KQkq - 0 6",
+   "games": 41519,
+   "white": 24002,
+   "draws": 1772,
+   "black": 15745,
+   "top": [
+    {
+     "san": "Qxd5",
+     "games": 20636,
+     "white": 12401,
+     "draws": 908,
+     "black": 7327
+    },
+    {
+     "san": "exd5",
+     "games": 17725,
+     "white": 9785,
+     "draws": 709,
+     "black": 7231
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "c5",
+    "cxd5",
+    "Qxd5"
+   ],
+   "fen": "rn2kbnr/pp3ppp/4p3/2pqPb2/3P4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7",
+   "games": 20636,
+   "white": 12401,
+   "draws": 908,
+   "black": 7327,
+   "top": [
+    {
+     "san": "Nc3",
+     "games": 14104,
+     "white": 8932,
+     "draws": 585,
+     "black": 4587
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "c5",
+    "cxd5",
+    "Qxd5",
+    "Nc3"
+   ],
+   "fen": "rn2kbnr/pp3ppp/4p3/2pqPb2/3P4/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 7",
+   "games": 14104,
+   "white": 8932,
+   "draws": 585,
+   "black": 4587,
+   "top": [
+    {
+     "san": "Qd8",
+     "games": 10004,
+     "white": 5719,
+     "draws": 483,
+     "black": 3802
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "c5",
+    "cxd5",
+    "Qxd5",
+    "Nc3",
+    "Qd8"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2p1Pb2/3P4/2N2N2/PP3PPP/R1BQKB1R w KQkq - 2 8",
+   "games": 10004,
+   "white": 5719,
+   "draws": 483,
+   "black": 3802,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "c5",
+    "cxd5",
+    "exd5"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/8/2ppPb2/3P4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7",
+   "games": 17725,
+   "white": 9785,
+   "draws": 709,
+   "black": 7231,
+   "top": [
+    {
+     "san": "Bb5+",
+     "games": 7326,
+     "white": 4170,
+     "draws": 286,
+     "black": 2870
+    },
+    {
+     "san": "Nc3",
+     "games": 5182,
+     "white": 3013,
+     "draws": 219,
+     "black": 1950
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "c5",
+    "cxd5",
+    "exd5",
+    "Bb5+"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/8/1BppPb2/3P4/5N2/PP3PPP/RNBQK2R b KQkq - 1 7",
+   "games": 7326,
+   "white": 4170,
+   "draws": 286,
+   "black": 2870,
+   "top": [
+    {
+     "san": "Nc6",
+     "games": 6322,
+     "white": 3567,
+     "draws": 243,
+     "black": 2512
+    }
+   ]
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "c5",
+    "cxd5",
+    "exd5",
+    "Bb5+",
+    "Nc6"
+   ],
+   "fen": "r2qkbnr/pp3ppp/2n5/1BppPb2/3P4/5N2/PP3PPP/RNBQK2R w KQkq - 2 8",
+   "games": 6322,
+   "white": 3567,
+   "draws": 243,
+   "black": 2512,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "c5",
+    "cxd5",
+    "exd5",
+    "Nc3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/8/2ppPb2/3P4/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 7",
+   "games": 5182,
+   "white": 3013,
+   "draws": 219,
+   "black": 1950,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "c4",
+    "c5",
+    "Nc3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/4p3/2ppPb2/2PP4/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 6",
+   "games": 22401,
+   "white": 13091,
+   "draws": 871,
+   "black": 8439,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "e6",
+    "h3"
+   ],
+   "fen": "rn1qkbnr/pp3ppp/2p1p3/3pPb2/3P4/5N1P/PPP2PP1/RNBQKB1R b KQkq - 0 5",
+   "games": 218482,
+   "white": 95550,
+   "draws": 10109,
+   "black": 112823,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Nf3",
+    "h6"
+   ],
+   "fen": "rn1qkbnr/pp2ppp1/2p4p/3pPb2/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5",
+   "games": 250717,
+   "white": 119616,
+   "draws": 12167,
+   "black": 118934,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "Bd3"
+   ],
+   "fen": "rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/3B4/PPP2PPP/RNBQK1NR b KQkq - 2 4",
+   "games": 3670800,
+   "white": 1715673,
+   "draws": 193790,
+   "black": 1761337,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "h4"
+   ],
+   "fen": "rn1qkbnr/pp2pppp/2p5/3pPb2/3P3P/8/PPP2PP1/RNBQKBNR b KQkq - 0 4",
+   "games": 1797078,
+   "white": 965589,
+   "draws": 79406,
+   "black": 752083,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "f4"
+   ],
+   "fen": "rn1qkbnr/pp2pppp/2p5/3pPb2/3P1P2/8/PPP3PP/RNBQKBNR b KQkq - 0 4",
+   "games": 1428821,
+   "white": 656090,
+   "draws": 62720,
+   "black": 710011,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "g4"
+   ],
+   "fen": "rn1qkbnr/pp2pppp/2p5/3pPb2/3P2P1/8/PPP2P1P/RNBQKBNR b KQkq - 0 4",
+   "games": 1252834,
+   "white": 630487,
+   "draws": 51695,
+   "black": 570652,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "Bf5",
+    "c3"
+   ],
+   "fen": "rn1qkbnr/pp2pppp/2p5/3pPb2/3P4/2P5/PP3PPP/RNBQKBNR b KQkq - 0 4",
+   "games": 1114936,
+   "white": 512996,
+   "draws": 55662,
+   "black": 546278,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "e5",
+    "c5"
+   ],
+   "fen": "rnbqkbnr/pp2pppp/8/2ppP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4",
+   "games": 5588793,
+   "white": 2497195,
+   "draws": 259729,
+   "black": 2831869,
+   "name": "Advance (3.e5)",
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "exd5"
+   ],
+   "fen": "rnbqkbnr/pp2pppp/2p5/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3",
+   "games": 18858039,
+   "white": 9001438,
+   "draws": 1067717,
+   "black": 8788884,
+   "name": "Panov Attack (3.exd5 c4)",
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "Nc3"
+   ],
+   "fen": "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3",
+   "games": 12938253,
+   "white": 6470661,
+   "draws": 685926,
+   "black": 5781666,
+   "name": "Classical (3.Nc3)",
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "Nd2"
+   ],
+   "fen": "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPPN1PPP/R1BQKBNR b KQkq - 1 3",
+   "games": 2673153,
+   "white": 1366679,
+   "draws": 145965,
+   "black": 1160509,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "f3"
+   ],
+   "fen": "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/5P2/PPP3PP/RNBQKBNR b KQkq - 0 3",
+   "games": 2286135,
+   "white": 1205763,
+   "draws": 92915,
+   "black": 987457,
+   "top": []
+  },
+  {
+   "path": [
+    "e4",
+    "c6",
+    "d4",
+    "d5",
+    "Bd3"
+   ],
+   "fen": "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/3B4/PPP2PPP/RNBQK1NR b KQkq - 1 3",
+   "games": 691853,
+   "white": 335515,
+   "draws": 36561,
+   "black": 319777,
+   "top": []
+  }
+ ]
+}
