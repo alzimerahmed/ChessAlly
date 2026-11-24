@@ -40,3 +40,23 @@ jobs:
         with:
           name: opening-master-apk
           path: build/app/outputs/flutter-apk/app-release.apk
+
+  release:
+    needs: apk
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with:
+          name: opening-master-apk
+          path: apk
+      - name: Create or update release with APK
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release create v1.0.0 apk/app-release.apk \
+            --title "Opening Master v1.0.0" \
+            --notes "Install: download app-release.apk and sideload it on your Android device." \
+            --clobber || gh release upload v1.0.0 apk/app-release.apk --clobber
