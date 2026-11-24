@@ -63,4 +63,4 @@ jobs:
           gh release create v1.0.0 apk/app-release.apk \
             --title "Opening Master v1.0.0" \
             --notes "Install: download app-release.apk and sideload it on your Android device." \
-            --clobber || gh release upload v1.0.0 apk/app-release.apk --clobber
+            || gh release upload v1.0.0 apk/app-release.apk --clobber
