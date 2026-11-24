@@ -26,12 +26,22 @@ void main() {
     });
 
     test('sharp can play the rare move (inverse-frequency weighting)', () {
+      // milder ratio so both moves appear reliably across random samples
+      final rareBook = MasterBook('rare', const [], [
+        bm('d4', 1000, children: [
+          bm('Nf6', 900, children: [
+            bm('Bf4', 300, white: 5200),
+            bm('e3', 100, white: 40), // rare edge-case move
+          ]),
+        ]),
+      ]);
+      const path = ['d4', 'Nf6'];
       final picks = <String>[];
       for (var i = 0; i < 200; i++) {
-        picks.add(book.pickRare(path)!.san);
+        picks.add(rareBook.pickRare(path)!.san);
       }
       expect(picks.toSet(), containsAll(['Bf4', 'e3']));
-      // rare move should dominate: ~99% expected with inverse-frequency weighting
+      // rare move should dominate: ~75% expected with inverse-frequency weighting
       final rare = picks.where((s) => s == 'e3').length;
       expect(rare, greaterThan(100));
     });
