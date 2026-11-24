@@ -1,6 +1,8 @@
+import 'package:chessground/chessground.dart' show PieceSet;
 import 'package:flutter/material.dart';
 import '../data.dart';
 import '../stats.dart';
+import '../theme.dart';
 
 class ProfileScreen extends StatelessWidget {
   final Stats stats;
@@ -81,6 +83,46 @@ class ProfileScreen extends StatelessWidget {
           ),
         ] else
           const Text('Play and review a few games to estimate your opening strength.'),
+        const SizedBox(height: 16),
+        Text('Appearance', style: Theme.of(context).textTheme.titleMedium),
+        Row(children: [
+          const Expanded(child: Text('Board theme')),
+          DropdownButton<String>(
+            value: boardThemeById(s.boardTheme).id,
+            items: [
+              for (final t in boardThemes)
+                DropdownMenuItem(value: t.id, child: Text(t.label)),
+            ],
+            onChanged: (id) {
+              if (id == null) return;
+              s.boardTheme = id;
+              boardAppearance.value = BoardAppearance(
+                theme: boardThemeById(id),
+                pieces: boardAppearance.value.pieces,
+              );
+              saveStats(s);
+            },
+          ),
+        ]),
+        Row(children: [
+          const Expanded(child: Text('Piece set')),
+          DropdownButton<String>(
+            value: pieceSetById(s.pieceSet).name,
+            items: [
+              for (final p in PieceSet.values)
+                DropdownMenuItem(value: p.name, child: Text(p.label)),
+            ],
+            onChanged: (id) {
+              if (id == null) return;
+              s.pieceSet = id;
+              boardAppearance.value = BoardAppearance(
+                theme: boardAppearance.value.theme,
+                pieces: pieceSetById(id),
+              );
+              saveStats(s);
+            },
+          ),
+        ]),
         const SizedBox(height: 16),
         Text('Line mastery', style: Theme.of(context).textTheme.titleMedium),
         Text('theory 40% · review accuracy 40% · puzzle accuracy 20%',

@@ -6,6 +6,7 @@ import 'screens/theory.dart';
 import 'screens/analysis.dart';
 import 'screens/profile.dart';
 import 'stats.dart';
+import 'theme.dart';
 
 void main() {
   runApp(const OpeningMasterApp());
@@ -40,6 +41,10 @@ class _HomeShellState extends State<HomeShell> {
     loadStats().then((s) => setState(() {
           _stats = s;
           _loaded = true;
+          boardAppearance.value = BoardAppearance(
+            theme: boardThemeById(s.boardTheme),
+            pieces: pieceSetById(s.pieceSet),
+          );
         }));
   }
 

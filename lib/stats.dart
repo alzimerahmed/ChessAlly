@@ -35,6 +35,10 @@ class Stats {
   Map<String, int> puzzleAttemptedByRep = {};
   Map<String, int> puzzleCorrectByRep = {};
 
+  // board appearance
+  String boardTheme = 'wood3';
+  String pieceSet = 'cburnett';
+
   double get avgReviewAccuracy => reviewGames > 0 ? reviewAccSum / reviewGames : 0;
   double? get avgBookAccuracy => reviewBookCount > 0 ? reviewBookSum / reviewBookCount : null;
   double? get avgOffBookAccuracy => reviewOffBookCount > 0 ? reviewOffBookSum / reviewOffBookCount : null;
@@ -104,6 +108,7 @@ class Stats {
         'reviewLineSum': reviewLineSum, 'reviewLineCount': reviewLineCount,
         'weekKey': weekKey, 'weekGames': weekGames, 'weekPuzzles': weekPuzzles,
         'puzzleAttemptedByRep': puzzleAttemptedByRep, 'puzzleCorrectByRep': puzzleCorrectByRep,
+        'boardTheme': boardTheme, 'pieceSet': pieceSet,
       };
 
   void fromJson(Map<String, dynamic> j) {
@@ -135,6 +140,8 @@ class Stats {
     weekPuzzles = j['weekPuzzles'] ?? 0;
     puzzleAttemptedByRep = Map<String, int>.from(j['puzzleAttemptedByRep'] ?? {});
     puzzleCorrectByRep = Map<String, int>.from(j['puzzleCorrectByRep'] ?? {});
+    boardTheme = j['boardTheme'] ?? 'wood3';
+    pieceSet = j['pieceSet'] ?? 'cburnett';
   }
 
   void touchDaily() {

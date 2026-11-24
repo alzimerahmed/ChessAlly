@@ -1,12 +1,15 @@
+import 'package:chessground/chessground.dart' show ChessboardColorScheme, PieceAssets;
 import 'package:dartchess/dartchess.dart';
 import 'package:flutter/material.dart';
+import 'theme.dart';
 
 const _glyphs = {
   'p': '♟', 'n': '♞', 'b': '♝', 'r': '♜', 'q': '♛', 'k': '♚',
   'P': '♙', 'N': '♘', 'B': '♗', 'R': '♖', 'Q': '♕', 'K': '♔',
 };
 
-/// A simple, functional chessboard: tap to select, tap target to move.
+/// A chessboard: tap to select, tap target to move.
+/// Pieces and board theme come from [boardAppearance].
 class ChessBoard extends StatelessWidget {
   final Position position;
   final bool whiteOnBottom;
@@ -29,13 +32,32 @@ class ChessBoard extends StatelessWidget {
   Widget build(BuildContext context) {
     return AspectRatio(
       aspectRatio: 1,
-      child: _BoardGrid(
-        position: position,
-        whiteOnBottom: whiteOnBottom,
-        onMove: onMove,
-        highlight: highlight,
-        lastMove: lastMove,
-        interactive: interactive,
+      child: ValueListenableBuilder<BoardAppearance>(
+        valueListenable: boardAppearance,
+        builder: (context, appearance, _) {
+          final scheme = appearance.theme.scheme;
+          return ClipRRect(
+            borderRadius: BorderRadius.circular(4),
+            child: Stack(
+              fit: StackFit.expand,
+              children: [
+                // themed board texture/colors + coordinates
+                whiteOnBottom ? scheme.whiteCoordBackground : scheme.blackCoordBackground,
+                // interactive overlay grid
+                _BoardGrid(
+                  position: position,
+                  whiteOnBottom: whiteOnBottom,
+                  onMove: onMove,
+                  highlight: highlight,
+                  lastMove: lastMove,
+                  interactive: interactive,
+                  scheme: scheme,
+                  pieceAssets: appearance.pieces.assets,
+                ),
+              ],
+            ),
+          );
+        },
       ),
     );
   }
@@ -48,6 +70,8 @@ class _BoardGrid extends StatefulWidget {
   final List<Square> highlight;
   final List<Square> lastMove;
   final bool interactive;
+  final ChessboardColorScheme scheme;
+  final PieceAssets pieceAssets;
   const _BoardGrid({
     required this.position,
     required this.whiteOnBottom,
@@ -55,6 +79,8 @@ class _BoardGrid extends StatefulWidget {
     required this.highlight,
     required this.lastMove,
     required this.interactive,
+    required this.scheme,
+    required this.pieceAssets,
   });
 
   @override
@@ -119,26 +145,66 @@ class _BoardGridState extends State<_BoardGrid> {
   Widget _square(int ri, int fi) {
     final sq = Square.fromCoords(File.values[fi], Rank.values[ri]);
     final piece = widget.position.board.pieceAt(sq);
-    final isDark = (ri + fi) % 2 == 0;
-    Color bg = isDark ? const Color(0xFF7A9A6A) : const Color(0xFFE8E4D8);
-    if (widget.lastMove.contains(sq)) bg = isDark ? const Color(0xFFB8A94A) : const Color(0xFFE8D97A);
-    if (widget.highlight.contains(sq)) bg = const Color(0xFF4A90D9);
-    final glyph = piece != null ? _glyphs[piece.color == Side.white ? piece.role.name[0].toUpperCase() : piece.role.name[0]] : null;
+    final scheme = widget.scheme;
+    final lastMoveColor = scheme.lastMove.solidColor ?? Colors.amber.withValues(alpha: 0.45);
+    final selectedColor = scheme.selected.solidColor ?? Colors.teal.withValues(alpha: 0.45);
 
     return GestureDetector(
       onTap: () => _tap(sq),
       child: Container(
-        color: bg,
+        color: Colors.transparent,
         child: Stack(
-          alignment: Alignment.center,
+          fit: StackFit.expand,
           children: [
-            if (glyph != null)
-              Text(glyph, style: const TextStyle(fontSize: 30)),
-            if (_targets.contains(sq))
-              Container(width: 12, height: 12, decoration: BoxDecoration(color: Colors.black26, shape: BoxShape.circle)),
+            if (widget.lastMove.contains(sq))
+              Positioned.fill(child: ColoredBox(color: lastMoveColor)),
+            if (widget.highlight.contains(sq))
+              const Positioned.fill(child: ColoredBox(color: Color(0x664A90D9))),
             if (_selected == sq)
-              Container(decoration: BoxDecoration(border: Border.all(color: Colors.teal, width: 2))),
+              Positioned.fill(child: ColoredBox(color: selectedColor)),
+            if (piece != null)
+              Positioned.fill(
+                child: _PieceImage(piece: piece, assets: widget.pieceAssets),
+              ),
+            if (_targets.contains(sq))
+              Center(
+                child: FractionallySizedBox(
+                  widthFactor: piece != null ? 1.0 : 0.28,
+                  heightFactor: piece != null ? 1.0 : 0.28,
+                  child: DecoratedBox(
+                    decoration: BoxDecoration(
+                      color: piece == null ? scheme.validMoves : Colors.transparent,
+                      border: piece != null
+                          ? Border.all(color: scheme.validMoves, width: 3)
+                          : null,
+                      shape: BoxShape.circle,
+                    ),
+                  ),
+                ),
+              ),
           ],
+        ),
+      ),
+    );
+  }
+}
+
+class _PieceImage extends StatelessWidget {
+  final Piece piece;
+  final PieceAssets assets;
+  const _PieceImage({required this.piece, required this.assets});
+
+  @override
+  Widget build(BuildContext context) {
+    final image = assets[piece.kind];
+    if (image == null) return const SizedBox.shrink();
+    return Image(
+      image: image,
+      fit: BoxFit.contain,
+      errorBuilder: (_, _, _) => Center(
+        child: Text(
+          _glyphs[piece.fenChar.replaceAll('~', '')] ?? '?',
+          style: const TextStyle(fontSize: 30),
         ),
       ),
     );
